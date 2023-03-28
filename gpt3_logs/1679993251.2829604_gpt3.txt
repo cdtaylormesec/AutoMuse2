@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: native country. The generous nature of Safie was outraged by this command; she attempted to expostulate with her father, but he left her angrily, reiterating his tyrannical mandate.  A few days after, the Turk entered his daughters apartment and told her hastily that he had reason to believe that his residence at Leghorn had been divulged and that he should speedily be delivered up to the French government; he had consequently hired a vessel to convey him to Constantinople, for which city he should sail in a few hours. He intended to leave his daughter under the care of a confidential servant, to follow at her leisure with the greater part of his property, which had not yet arrived at Leghorn.  When alone, Safie resolved in her own mind the plan of conduct that it would become her to pursue in this emergency. A residence in Turkey was abhorrent to her; her religion and her feelings were alike averse to it. By some papers of her father which fell into her hands she heard of the exile of her lover and learnt the name of the spot where he then resided. She hesitated some time, but at length she formed her determination. Taking with her some jewels that belonged to her and a sum of money, she quitted Italy with an attendant, a native of Leghorn, but who understood the common language of Turkey, and departed for Germany.  She arrived in safety at a town about twenty leagues from the cottage of De Lacey, when her attendant fell dangerously ill. Safie nursed her with the most
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Safie's father tells her that they must leave Italy for Turkey, but Safie does not want to go. She decides to run away and goes to Germany, where she eventually meets her lover, De Lacey.

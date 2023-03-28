@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: particularly incumbent on those who never change their       opinion, to be secure of judging properly at first.        May I ask to what these questions tend?        Merely to the illustration of _your_ character, said she,       endeavouring to shake off her gravity. I am trying to make it       out.        And what is your success?        She shook her head. I do not get on at all. I hear such       different accounts of you as puzzle me exceedingly.        I can readily believe, answered he gravely, that reports may       vary greatly with respect to me; and I could wish, Miss Bennet,       that you were not to sketch my character at the present moment,       as there is reason to fear that the performance would reflect no       credit on either.        But if I do not take your likeness now, I may never have another       opportunity.        I would by no means suspend any pleasure of yours, he coldly       replied. She said no more, and they went down the other dance and       parted in silence; and on each side dissatisfied, though not to       an equal degree, for in Darcys breast there was a tolerably       powerful feeling towards her, which soon procured her pardon, and       directed all his anger against another.        They had not long separated, when Miss Bingley came towards her,       and with an expression of civil disdain accosted her:        So, Miss Eliza, I hear you are quite delighted with George       Wickham! Your sister has been
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Miss Bingley asks Elizabeth about her opinion of George Wickham, and Elizabeth replies that she is still trying to make up her mind about him. Miss Bingley then says that she has heard various reports about Wickham and finds him very puzzling. Elizabeth agrees, saying that she would not want to sketch his character at the moment for fear of not doing him justice.

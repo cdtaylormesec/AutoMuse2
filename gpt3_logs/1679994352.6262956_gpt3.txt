@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: She will drop the acquaintance entirely.        But in spite of the certainty in which Elizabeth affected to       place this point, as well as the still more interesting one of       Bingleys being withheld from seeing Jane, she felt a solicitude       on the subject which convinced her, on examination, that she did       not consider it entirely hopeless. It was possible, and sometimes       she thought it probable, that his affection might be reanimated,       and the influence of his friends successfully combated by the       more natural influence of Janes attractions.        Miss Bennet accepted her aunts invitation with pleasure; and the       Bingleys were no otherwise in her thoughts at the same time, than       as she hoped by Carolines not living in the same house with her       brother, she might occasionally spend a morning with her, without       any danger of seeing him.        The Gardiners stayed a week at Longbourn; and what with the       Phillipses, the Lucases, and the officers, there was not a day       without its engagement. Mrs. Bennet had so carefully provided for       the entertainment of her brother and sister, that they did not       once sit down to a family dinner. When the engagement was for       home, some of the officers always made part of itof which       officers Mr. Wickham was sure to be one; and on these occasions,       Mrs. Gardiner, rendered suspicious by Elizabeths warm       commendation, narrowly observed them both.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Gardiners visit Longbourn and are entertained by the various families and officers in the area. Mrs. Gardiner is suspicious of Mr. Wickham and Elizabeth's relationship.

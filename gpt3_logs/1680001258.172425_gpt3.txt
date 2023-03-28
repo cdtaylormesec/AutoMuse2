@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: his of our local heavens.  I decided to call to him. Miss Baker had mentioned him at dinner, and that would do for an introduction. But I didnt call to him, for he gave a sudden intimation that he was content to be alonehe stretched out his arms toward the dark water in a curious way, and, far as I was from him, I could have sworn he was trembling. Involuntarily I glanced seawardand distinguished nothing except a single green light, minute and far away, that might have been the end of a dock. When I looked once more for Gatsby he had vanished, and I was alone again in the unquiet darkness.                                     II  About halfway between West Egg and New York the motor road hastily joins the railroad and runs beside it for a quarter of a mile, so as to shrink away from a certain desolate area of land. This is a valley of ashesa fantastic farm where ashes grow like wheat into ridges and hills and grotesque gardens; where ashes take the forms of houses and chimneys and rising smoke and, finally, with a transcendent effort, of ash-grey men, who move dimly and already crumbling through the powdery air. Occasionally a line of grey cars crawls along an invisible track, gives out a ghastly creak, and comes to rest, and immediately the ash-grey men swarm up with leaden spades and stir up an impenetrable cloud, which screens their obscure operations from your sight.  But above the grey land and the spasms of bleak dust which drift endlessly over it, you perceive,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator sees a man called Gatsby stretch out his arms towards the water, and then he vanishes. The narrator then describes a desolate area of land called the valley of ashes.

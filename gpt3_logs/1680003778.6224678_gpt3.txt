@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: every topic of ethics and religion, of public affairs and private character; they talked much, on both sides, of matters that seemed personal to themselves; and yet no secret, such as the physician fancied must exist there, ever stole out of the ministers consciousness into his companions ear. The latter had his suspicions, indeed, that even the nature of Mr. Dimmesdales bodily disease had never fairly been revealed to him. It was a strange reserve!  After a time, at a hint from Roger Chillingworth, the friends of Mr. Dimmesdale effected an arrangement by which the two were lodged in the same house; so that every ebb and flow of the ministers life-tide might pass under the eye of his anxious and attached physician. There was much joy throughout the town, when this greatly desirable object was attained. It was held to be the best possible measure for the young clergymans welfare; unless, indeed, as often urged by such as felt authorized to do so, he had selected some one of the many blooming damsels, spiritually devoted to him, to become his devoted wife. This latter step, however, there was no present prospect that Arthur Dimmesdale would be prevailed upon to take; he rejected all suggestions of the kind, as if priestly celibacy were one of his articles of church-discipline. Doomed by his own choice, therefore, as Mr. Dimmesdale so evidently was, to eat his unsavory morsel always at anothers board, and endure the life-long chill which must be his lot who seeks to warm
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the relationship between Mr. Dimmesdale and Roger Chillingworth, and how Chillingworth became his physician. It is hinted that Chillingworth suspects that Dimmesdale is hiding something, and that Dimmesdale's true illness has never been revealed to him. The friends of Mr. Dimmesdale eventually arranged for the two to live in the same house, so that Chillingworth could keep a constant eye on him. Some people suggested that Dimmesdale should marry one of his many devoted female followers, but he rejected the idea, preferring to remain celibate.

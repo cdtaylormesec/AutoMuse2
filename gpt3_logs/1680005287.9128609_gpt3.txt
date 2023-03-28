@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The narrator, Nick, is reflecting on the events following Jay Gatsby's death. In particular, he focuses on Tom and Daisy's discussion of Gatsby's "old sport" expression, and how Daisy changing the subject to their own wedding in Louisville prompts Jordan to mention that someone fainted. Gatsby tells the narrator not to talk so much, and the narrator reflects on how Gatsby's happiness is based on an illusion. The passage also describes Catherine's determination to prove her sister's innocence, and how Wilson is reduced to a man deranged by grief. In the end, the narrator reflects on his responsibility for Gatsby's death. The passage describes a woman's reaction to the parties at Gatsby's house. She is appalled by the rowdiness and the lack of propriety, but is also intrigued by the people. The passage describes Jordan Baker's encounter with Gatsby, and reveals that Gatsby bought his house in West Egg specifically so that he would be across the bay from Daisy. The passage ends with the narrator reflecting on Gatsby's request that the narrator invite Daisy to his house. The passage describes how Rosy Rosenthal was shot and killed. It happened late at night, and the group of people he was with were still awake. They were sitting in a room, and when the waiter came to tell Rosy that someone wanted to speak to him outside, they pulled him back down into his chair and told him not to go. The person who shot him then left. This all happened around 4 in the morning. The narrator visits the office of Meyer Wolfshiem, but is told by the receptionist that he is not there. The narrator knows that Wolfshiem is inside, and the receptionist eventually relents and gives him a message to pass on to Wolfshiem.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes how Rosy Rosenthal was shot and killed. It happened late at night, and the group of people he was with were still awake. They were sitting in a room, and when the waiter came to tell Rosy that someone wanted to speak to him outside, they pulled him back down into his chair and told him not to go. The person who shot him then left.

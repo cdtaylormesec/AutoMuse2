@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution, as well as the dangers of displeasing the Army of the Republic in France during that time. The story also tells of a man who sees a ghost, which turns out to be a figment of his imagination. Finally, the passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news. A cask of wine has fallen and broken in the street, and people are taking advantage of the situation to drink as much of the wine as they can. Mr. Lorry, observing the scene, hopes that the young woman he is with will not be similarly tempted. The Dover mail is struggling up a hill, and the passengers are getting impatient. The coachman and guard are both worried about a horse that is approaching at a gallop. It turns out to be a highwayman, and the guard shoots him. The passage tells the story of a man named Manette who was imprisoned unjustly. His wife implored the king and queen for help, but no one could find him. Manette eventually escaped and found his way back to his wife and child. The guard on the coach is worried about the message he heard and decides to investigate. Jerry, left alone, dismounts to take a break and check on his horse. The passage describes the grinding poverty of a city, where hunger is everywhere and people are reduced to scavenging for food. The guard of the Dover mail coach orders the passengers to get on the coach, and they comply. However, they are soon interrupted by the sound of a horse at a gallop. The guard calls out to the horseman to stop, and they exchange brief dialogue. It is revealed that the horseman is also headed to Dover.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution, as well as the dangers of displeasing the Army of the Republic in France during that time. The story also tells of a man who sees a ghost, which turns out to be a figment of his imagination. Finally, the passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: contemplated this device with strange interest; even as if the one only thing for which she had been sent into the world was to make out its hidden import.  I wonder if mother will ask me what it means? thought Pearl.  Just then, she heard her mothers voice, and flitting along as lightly as one of the little sea-birds, appeared before Hester Prynne, dancing, laughing, and pointing her finger to the ornament upon her bosom.  My little Pearl, said Hester, after a moments silence, the green letter, and on thy childish bosom, has no purport. But dost thou know, my child, what this letter means which thy mother is doomed to wear?  Yes, mother, said the child. It is the great letter A. Thou hast taught me in the horn-book.  Hester looked steadily into her little face; but, though there was that singular expression which she had so often remarked in her black eyes, she could not satisfy herself whether Pearl really attached any meaning to the symbol. She felt a morbid desire to ascertain the point.  Dost thou know, child, wherefore thy mother wears this letter?  Truly do I! answered Pearl, looking brightly into her mothers face. It is for the same reason that the minister keeps his hand over his heart!  And what reason is that? asked Hester, half smiling at the absurd incongruity of the childs observation; but, on second thoughts, turning pale. What has the letter to do with any heart, save mine?  Nay, mother, I have told all I know, said Pearl, more
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Pearl hears her mother's voice and appears before her. Hester asks Pearl what the green letter on her chest means, and Pearl replies that it is the letter A. Hester then asks Pearl why her mother wears the letter, and Pearl says it is for the same reason that the minister keeps his hand over his heart.

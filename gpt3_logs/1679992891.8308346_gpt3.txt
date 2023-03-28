@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: partly to the lack of demonstration in her manners. It was a sad transformation, too, that her rich and luxuriant hair had either been cut off, or was so completely hidden by a cap, that not a shining lock of it ever once gushed into the sunshine. It was due in part to all these causes, but still more to something else, that there seemed to be no longer anything in Hesters face for Love to dwell upon; nothing in Hesters form, though majestic and statue-like, that Passion would ever dream of clasping in its embrace; nothing in Hesters bosom, to make it ever again the pillow of Affection. Some attribute had departed from her, the permanence of which had been essential to keep her a woman. Such is frequently the fate, and such the stern development, of the feminine character and person, when the woman has encountered, and lived through, an experience of peculiar severity. If she be all tenderness, she will die. If she survive, the tenderness will either be crushed out of her, orand the outward semblance is the samecrushed so deeply into her heart that it can never show itself more. The latter is perhaps the truest theory. She who has once been woman, and ceased to be so, might at any moment become a woman again if there were only the magic touch to effect the transfiguration. We shall see whether Hester Prynne were ever afterwards so touched, and so transfigured.  Much of the marble coldness of Hesters impression was to be attributed to the circumstance, that her life had
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Hester Prynne's severe experiences have transformed her, making her colder and less loving. It is possible for her to become a woman again, but it would require a special touch.

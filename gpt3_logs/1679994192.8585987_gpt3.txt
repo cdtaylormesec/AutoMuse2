@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: himfor it was really lovehad nothing in it that was not noble and intellectual. It was not that mere physical admiration of beauty that is born of the senses and that dies when the senses tire. It was such love as Michelangelo had known, and Montaigne, and Winckelmann, and Shakespeare himself. Yes, Basil could have saved him. But it was too late now. The past could always be annihilated. Regret, denial, or forgetfulness could do that. But the future was inevitable. There were passions in him that would find their terrible outlet, dreams that would make the shadow of their evil real.  He took up from the couch the great purple-and-gold texture that covered it, and, holding it in his hands, passed behind the screen. Was the face on the canvas viler than before? It seemed to him that it was unchanged, and yet his loathing of it was intensified. Gold hair, blue eyes, and rose-red lipsthey all were there. It was simply the expression that had altered. That was horrible in its cruelty. Compared to what he saw in it of censure or rebuke, how shallow Basils reproaches about Sibyl Vane had been!how shallow, and of what little account! His own soul was looking out at him from the canvas and calling him to judgement. A look of pain came across him, and he flung the rich pall over the picture. As he did so, a knock came to the door. He passed out as his servant entered.  The persons are here, Monsieur.  He felt that the man must be got rid of at once. He must not be allowed to
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator is looking at a portrait of himself and reflecting on how it captures his true nature. He recalls how Basil had tried to warn him about Sibyl Vane and how shallow his reproaches seem now. The narrator then covers the portrait and leaves the room as his servant enters to announce that the persons are here.

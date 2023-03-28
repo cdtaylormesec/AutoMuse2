@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Thursday with me. She was of       great use and comfort to us all. And Lady Lucas has been very       kind; she walked here on Wednesday morning to condole with us,       and offered her services, or any of her daughters, if they       should be of use to us.        She had better have stayed at home, cried Elizabeth; perhaps       she _meant_ well, but, under such a misfortune as this, one       cannot see too little of ones neighbours. Assistance is       impossible; condolence insufferable. Let them triumph over us at       a distance, and be satisfied.        She then proceeded to enquire into the measures which her father       had intended to pursue, while in town, for the recovery of his       daughter.        He meant I believe, replied Jane, to go to Epsom, the place       where they last changed horses, see the postilions and try if       anything could be made out from them. His principal object must       be to discover the number of the hackney coach which took them       from Clapham. It had come with a fare from London; and as he       thought that the circumstance of a gentleman and ladys removing       from one carriage into another might be remarked he meant to make       enquiries at Clapham. If he could anyhow discover at what house       the coachman had before set down his fare, he determined to make       enquiries there, and hoped it might not be impossible to find out       the stand and number of the coach. I do not know of any other
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes Mr. Bennet's plans to find his daughter and the narrator's opinion of them. The narrator thinks that Mr. Bennet should not bother with trying to find his daughter, as it is unlikely that he will be successful.

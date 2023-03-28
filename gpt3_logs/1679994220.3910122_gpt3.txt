@@ -1,0 +1,35 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: I thought you had left England. Darlington is not going to do anything. My brother paid the bill at last. George doesnt speak to me either.... I dont care, he added with a sigh. As long as one has this stuff, one doesnt want friends. I think I have had too many friends. 
+
+Dorian winced and looked round at the grotesque things that lay in such fantastic postures on the ragged mattresses. The twisted limbs, the gaping mouths, the staring lustreless eyes, fascinated him. He knew in what strange heavens they were suffering, and what dull hells were teaching them the secret of some new joy. They were better off than he was. He was prisoned in thought. Memory, like a horrible malady, was eating his soul away. From time to time he seemed to see the eyes of Basil Hallward looking at him. Yet he felt he could not stay. The presence of Adrian Singleton troubled him. He wanted to be where no one would know who he was. He wanted to escape from himself.
+
+I am going on to the other place, he said after a pause.
+
+On the wharf?
+
+Yes.
+
+That mad-cat is sure to be there. They wont have her in this place now.
+
+Dorian shrugged his shoulders. I am sick of women who love one. Women who hate one are much more interesting. Besides, the stuff is better.
+
+Much the same.
+
+I like it better. Come and have something to drink. I must have something.
+
+I dont want anything, murmured the young man.
+
+Never mind.
+
+Adrian Singleton rose up wearily and followed Dorian to the bar.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Dorian is sick of women who love him, and finds women who hate him more interesting. He is also addicted to a substance that is better than anything else. Adrian Singleton follows him to the bar.

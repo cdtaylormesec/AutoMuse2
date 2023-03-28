@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: arrangement of notes that will never be played again. Her face was sad and lovely with bright things in it, bright eyes and a bright passionate mouth, but there was an excitement in her voice that men who had cared for her found difficult to forget: a singing compulsion, a whispered Listen, a promise that she had done gay, exciting things just a while since and that there were gay, exciting things hovering in the next hour.  I told her how I had stopped off in Chicago for a day on my way East, and how a dozen people had sent their love through me.  Do they miss me? she cried ecstatically.  The whole town is desolate. All the cars have the left rear wheel painted black as a mourning wreath, and theres a persistent wail all night along the north shore.  How gorgeous! Lets go back, Tom. Tomorrow! Then she added irrelevantly: You ought to see the baby.  Id like to.  Shes asleep. Shes three years old. Havent you ever seen her?  Never.  Well, you ought to see her. Shes  Tom Buchanan, who had been hovering restlessly about the room, stopped and rested his hand on my shoulder.  What you doing, Nick?  Im a bond man.  Who with?  I told him.  Never heard of them, he remarked decisively.  This annoyed me.  You will, I answered shortly. You will if you stay in the East.  Oh, Ill stay in the East, dont you worry, he said, glancing at Daisy and then back at me, as if he were alert for something more. Id be a God damned fool to live anywhere
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the face of a woman, and how it is sad and lovely with bright things in it. The woman is excited about something, and the speaker tells her how he stopped in Chicago on his way East. The woman then tells him about how the whole town is desolate and how the cars have the left rear wheel painted black as a mourning wreath.

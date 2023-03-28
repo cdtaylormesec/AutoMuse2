@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: me you had been to her,     And mentioned me to him: She gave me a good character,     But said I could not swim.  He sent them word I had not gone     (We know it to be true): If she should push the matter on,     What would become of you?  I gave her one, they gave him two,     You gave us three or more; They all returned from him to you,     Though they were mine before.  If I or she should chance to be     Involved in this affair, He trusts to you to set them free,     Exactly as we were.  My notion was that you had been     (Before she had this fit) An obstacle that came between     Him, and ourselves, and it.  Dont let him know she liked them best,     For this must ever be A secret, kept from all the rest,     Between yourself and me.   Thats the most important piece of evidence weve heard yet, said the King, rubbing his hands; so now let the jury  If any one of them can explain it, said Alice, (she had grown so large in the last few minutes that she wasnt a bit afraid of interrupting him,) Ill give him sixpence. _I_ dont believe theres an atom of meaning in it.  The jury all wrote down on their slates, _She_ doesnt believe theres an atom of meaning in it, but none of them attempted to explain the paper.  If theres no meaning in it, said the King, that saves a world of trouble, you know, as we neednt try to find any. And yet I dont know, he went on, spreading out the verses on his knee, and looking at them with one eye; I seem to see some
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The King and Alice discuss the meaning of a poem, with the King concluding that there is none. Alice disagrees, but no one attempts to explain the poem further.

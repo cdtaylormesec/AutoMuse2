@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: bubble of Venetian glass and looking dreadfully bored. I was at the opera. You should have come on there. I met Lady Gwendolen, Harrys sister, for the first time. We were in her box. She is perfectly charming; and Patti sang divinely. Dont talk about horrid subjects. If one doesnt talk about a thing, it has never happened. It is simply expression, as Harry says, that gives reality to things. I may mention that she was not the womans only child. There is a son, a charming fellow, I believe. But he is not on the stage. He is a sailor, or something. And now, tell me about yourself and what you are painting.  You went to the opera? said Hallward, speaking very slowly and with a strained touch of pain in his voice. You went to the opera while Sibyl Vane was lying dead in some sordid lodging? You can talk to me of other women being charming, and of Patti singing divinely, before the girl you loved has even the quiet of a grave to sleep in? Why, man, there are horrors in store for that little white body of hers!  Stop, Basil! I wont hear it! cried Dorian, leaping to his feet. You must not tell me about things. What is done is done. What is past is past.  You call yesterday the past?  What has the actual lapse of time got to do with it? It is only shallow people who require years to get rid of an emotion. A man who is master of himself can end a sorrow as easily as he can invent a pleasure. I dont want to be at the mercy of my emotions. I want to use them, to enjoy
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is at the opera when he meets Lady Gwendolen, Harry's sister. He is bored and tells the person he is talking to that they should have come. He also mentions that Sibyl Vane is dead and that he does not want to be at the mercy of his emotions.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: unfortunate, I walked in your direction. I walked into the wine-shop here, close after you, and sat near you. I had no difficulty in deducing from your unreserved conversation, and the rumour openly going about among your admirers, the nature of your calling. And gradually, what I had done at random, seemed to shape itself into a purpose, Mr. Barsad.  What purpose? the spy asked.  It would be troublesome, and might be dangerous, to explain in the street. Could you favour me, in confidence, with some minutes of your company--at the office of Tellsons Bank, for instance?  Under a threat?  Oh! Did I say that?  Then, why should I go there?  Really, Mr. Barsad, I cant say, if you cant.  Do you mean that you wont say, sir? the spy irresolutely asked.  You apprehend me very clearly, Mr. Barsad. I wont.  Cartons negligent recklessness of manner came powerfully in aid of his quickness and skill, in such a business as he had in his secret mind, and with such a man as he had to do with. His practised eye saw it, and made the most of it.  Now, I told you so, said the spy, casting a reproachful look at his sister; if any trouble comes of this, its your doing.  Come, come, Mr. Barsad! exclaimed Sydney. Dont be ungrateful. But for my great respect for your sister, I might not have led up so pleasantly to a little proposal that I wish to make for our mutual satisfaction. Do you go with me to the Bank?  Ill hear what you have got to say. Yes, Ill go with
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is talking to Mr. Barsad, a spy. The speaker says that he followed Mr. Barsad into the wine-shop and deduced from his conversation that he is a spy. The speaker then asks if he can speak to Mr. Barsad in private at the Bank.

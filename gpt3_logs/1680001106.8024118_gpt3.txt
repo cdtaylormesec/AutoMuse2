@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: as though his finger were the fine point of a small sword, with which, in delicate finesse, he ran him through the body, and said,  My friend, I will die, perpetuating the system under which I have lived.  When he had said it, he took a culminating pinch of snuff, and put his box in his pocket.  Better to be a rational creature, he added then, after ringing a small bell on the table, and accept your natural destiny. But you are lost, Monsieur Charles, I see.  This property and France are lost to me, said the nephew, sadly; I renounce them.  Are they both yours to renounce? France may be, but is the property? It is scarcely worth mentioning; but, is it yet?  I had no intention, in the words I used, to claim it yet. If it passed to me from you, to-morrow--  Which I have the vanity to hope is not probable.  --or twenty years hence--  You do me too much honour, said the Marquis; still, I prefer that supposition.  --I would abandon it, and live otherwise and elsewhere. It is little to relinquish. What is it but a wilderness of misery and ruin!  Hah! said the Marquis, glancing round the luxurious room.  To the eye it is fair enough, here; but seen in its integrity, under the sky, and by the daylight, it is a crumbling tower of waste, mismanagement, extortion, debt, mortgage, oppression, hunger, nakedness, and suffering.  Hah! said the Marquis again, in a well-satisfied manner.  If it ever becomes mine, it shall be put into some hands better qualified
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Marquis believes that his nephew will never inherit his property, but if he did, the nephew would abandon it because it is a wasteland of misery and ruin.

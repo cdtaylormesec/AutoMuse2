@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: some cigarettes. No, dont mind the cigarettesI have some. Basil, I cant allow you to smoke cigars. You must have a cigarette. A cigarette is the perfect type of a perfect pleasure. It is exquisite, and it leaves one unsatisfied. What more can one want? Yes, Dorian, you will always be fond of me. I represent to you all the sins you have never had the courage to commit.  What nonsense you talk, Harry! cried the lad, taking a light from a fire-breathing silver dragon that the waiter had placed on the table. Let us go down to the theatre. When Sibyl comes on the stage you will have a new ideal of life. She will represent something to you that you have never known.  I have known everything, said Lord Henry, with a tired look in his eyes, but I am always ready for a new emotion. I am afraid, however, that, for me at any rate, there is no such thing. Still, your wonderful girl may thrill me. I love acting. It is so much more real than life. Let us go. Dorian, you will come with me. I am so sorry, Basil, but there is only room for two in the brougham. You must follow us in a hansom.  They got up and put on their coats, sipping their coffee standing. The painter was silent and preoccupied. There was a gloom over him. He could not bear this marriage, and yet it seemed to him to be better than many other things that might have happened. After a few minutes, they all passed downstairs. He drove off by himself, as had been arranged, and watched the flashing lights of the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Harry and Dorian are talking about cigarettes and cigars, and Harry tells Dorian that he must have a cigarette. Dorian agrees, and they go downstairs to the theatre.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: But, no, gentlemen, said Stryver, looking all round, and snapping his fingers, I know something of human nature, and I tell you that youll never find a fellow like this fellow, trusting himself to the mercies of such precious _protgs_. No, gentlemen; hell always show em a clean pair of heels very early in the scuffle, and sneak away.  With those words, and a final snap of his fingers, Mr. Stryver shouldered himself into Fleet-street, amidst the general approbation of his hearers. Mr. Lorry and Charles Darnay were left alone at the desk, in the general departure from the Bank.  Will you take charge of the letter? said Mr. Lorry. You know where to deliver it?  I do.  Will you undertake to explain, that we suppose it to have been addressed here, on the chance of our knowing where to forward it, and that it has been here some time?  I will do so. Do you start for Paris from here?  From here, at eight.  I will come back, to see you off.  Very ill at ease with himself, and with Stryver and most other men, Darnay made the best of his way into the quiet of the Temple, opened the letter, and read it. These were its contents:   Prison of the Abbaye, Paris.  June 21, 1792. MONSIEUR HERETOFORE THE MARQUIS.  After having long been in danger of my life at the hands of the village, I have been seized, with great violence and indignity, and brought a long journey on foot to Paris. On the road I have suffered a great deal. Nor is that all; my house has been destroyed
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The letter's contents are that the writer has been seized and brought to Paris against their will, and that they have suffered greatly on the journey. The writer's house has also been destroyed.

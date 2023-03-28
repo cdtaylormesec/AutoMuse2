@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: man, yet makes her sad. She discerns, it may be, such a hopeless task before her. As a first step, the whole system of society is to be torn down, and built up anew. Then, the very nature of the opposite sex, or its long hereditary habit, which has become like nature, is to be essentially modified, before woman can be allowed to assume what seems a fair and suitable position. Finally, all other difficulties being obviated, woman cannot take advantage of these preliminary reforms, until she herself shall have undergone a still mightier change; in which, perhaps, the ethereal essence, wherein she has her truest life, will be found to have evaporated. A woman never overcomes these problems by any exercise of thought. They are not to be solved, or only in one way. If her heart chance to come uppermost, they vanish. Thus, Hester Prynne, whose heart had lost its regular and healthy throb, wandered without a clew in the dark labyrinth of mind; now turned aside by an insurmountable precipice; now starting back from a deep chasm. There was wild and ghastly scenery all around her, and a home and comfort nowhere. At times, a fearful doubt strove to possess her soul, whether it were not better to send Pearl at once to heaven, and go herself to such futurity as Eternal Justice should provide.  The scarlet letter had not done its office.  Now, however, her interview with the Reverend Mr. Dimmesdale, on the night of his vigil, had given her a new theme of reflection, and held up to her an
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the difficulties faced by women in society, and how they are unable to overcome these problems by thought alone. The scarlet letter has not done its job, and now Hester Prynne must reflect on a new theme.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: on the verge of soft-mindedness, and, suspecting this, an infinite number of women tried to separate him from his money. The none too savoury ramifications by which Ella Kaye, the newspaper woman, played Madame de Maintenon to his weakness and sent him to sea in a yacht, were common property of the turgid journalism in 1902. He had been coasting along all too hospitable shores for five years when he turned up as James Gatzs destiny in Little Girl Bay.  To young Gatz, resting on his oars and looking up at the railed deck, that yacht represented all the beauty and glamour in the world. I suppose he smiled at Codyhe had probably discovered that people liked him when he smiled. At any rate Cody asked him a few questions (one of them elicited the brand new name) and found that he was quick and extravagantly ambitious. A few days later he took him to Duluth and bought him a blue coat, six pairs of white duck trousers, and a yachting cap. And when the Tuolomee left for the West Indies and the Barbary Coast, Gatsby left too.  He was employed in a vague personal capacitywhile he remained with Cody he was in turn steward, mate, skipper, secretary, and even jailor, for Dan Cody sober knew what lavish doings Dan Cody drunk might soon be about, and he provided for such contingencies by reposing more and more trust in Gatsby. The arrangement lasted five years, during which the boat went three times around the Continent. It might have lasted indefinitely except for the fact that Ella
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Ella Kaye, a newspaper woman, tries to take advantage of the wealthy James Gatz, who is on the verge of soft-mindedness. Gatz goes along with her plan, and ends up working for her for five years on a yacht. The arrangement ends when Gatz meets his future employer, Dan Cody.

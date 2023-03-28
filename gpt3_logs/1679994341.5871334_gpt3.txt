@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: He found her as handsome as she       had been last year; as good natured, and as unaffected, though       not quite so chatty. Jane was anxious that no difference should       be perceived in her at all, and was really persuaded that she       talked as much as ever. But her mind was so busily engaged, that       she did not always know when she was silent.        When the gentlemen rose to go away, Mrs. Bennet was mindful of       her intended civility, and they were invited and engaged to dine       at Longbourn in a few days time.        You are quite a visit in my debt, Mr. Bingley, she added, for       when you went to town last winter, you promised to take a family       dinner with us, as soon as you returned. I have not forgot, you       see; and I assure you, I was very much disappointed that you did       not come back and keep your engagement.        Bingley looked a little silly at this reflection, and said       something of his concern at having been prevented by business.       They then went away.        Mrs. Bennet had been strongly inclined to ask them to stay and       dine there that day; but, though she always kept a very good       table, she did not think anything less than two courses could be       good enough for a man on whom she had such anxious designs, or       satisfy the appetite and pride of one who had ten thousand a       year.     Chapter 54        As soon as they were gone, Elizabeth walked out to recover her       spirits; or in
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mr. Bingley and his party visit the Bennet family. Jane is pleased to see Mr. Bingley, and Mrs. Bennet is pleased because she hopes he will marry one of her daughters.

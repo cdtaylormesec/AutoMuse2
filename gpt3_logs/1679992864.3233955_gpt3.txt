@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: spectral sort of race that he ran, and one highly desirable to get to the end of. He had a strong idea that the coffin he had seen was running after him; and, pictured as hopping on behind him, bolt upright, upon its narrow end, always on the point of overtaking him and hopping on at his side--perhaps taking his arm--it was a pursuer to shun. It was an inconsistent and ubiquitous fiend too, for, while it was making the whole night behind him dreadful, he darted out into the roadway to avoid dark alleys, fearful of its coming hopping out of them like a dropsical boys kite without tail and wings. It hid in doorways too, rubbing its horrible shoulders against doors, and drawing them up to its ears, as if it were laughing. It got into shadows on the road, and lay cunningly on its back to trip him up. All this time it was incessantly hopping on behind and gaining on him, so that when the boy got to his own door he had reason for being half dead. And even then it would not leave him, but followed him upstairs with a bump on every stair, scrambled into bed with him, and bumped down, dead and heavy, on his breast when he fell asleep.  From his oppressed slumber, Young Jerry in his closet was awakened after daybreak and before sunrise, by the presence of his father in the family room. Something had gone wrong with him; at least, so Young Jerry inferred, from the circumstance of his holding Mrs. Cruncher by the ears, and knocking the back of her head against the head-board of the bed.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The boy in the passage is pursued by a coffin, which he believes is alive and trying to catch him. The coffin is relentless, following the boy even into his own home. In the end, the boy's father catches him and Mrs. Cruncher by the ears, knocking her head against the bed.

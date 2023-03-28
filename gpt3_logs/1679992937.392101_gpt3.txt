@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: any mortal had ever wreaked upon an enemy. To make himself the one trusted friend, to whom should be confided all the fear, the remorse, the agony, the ineffectual repentance, the backward rush of sinful thoughts, expelled in vain! All that guilty sorrow, hidden from the world, whose great heart would have pitied and forgiven, to be revealed to him, the Pitiless, to him, the Unforgiving! All that dark treasure to be lavished on the very man, to whom nothing else could so adequately pay the debt of vengeance!  The clergymans shy and sensitive reserve had balked this scheme. Roger Chillingworth, however, was inclined to be hardly, if at all, less satisfied with the aspect of affairs, which Providenceusing the avenger and his victim for its own purposes, and, perchance, pardoning where it seemed most to punishhad substituted for his black devices. A revelation, he could almost say, had been granted to him. It mattered little, for his object, whether celestial, or from what other region. By its aid, in all the subsequent relations betwixt him and Mr. Dimmesdale, not merely the external presence, but the very inmost soul, of the latter, seemed to be brought out before his eyes, so that he could see and comprehend its every movement. He became, thenceforth, not a spectator only, but a chief actor, in the poor ministers interior world. He could play upon him as he chose. Would he arouse him with a throb of agony? The victim was forever on the rack; it needed only to know the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes how the clergyman's reserve thwarted the scheme of the avenger, who then decided to use Providence to get his revenge. The avenger becomes obsessed with the clergyman, and starts to manipulate and torture him.

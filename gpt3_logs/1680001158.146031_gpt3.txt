@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: activity,and exerting my fancy, sluggish with little use, to raise up from these dry bones an image of the old towns brighter aspect, when India was a new region, and only Salem knew the way thither,I chanced to lay my hand on a small package, carefully done up in a piece of ancient yellow parchment. This envelope had the air of an official record of some period long past, when clerks engrossed their stiff and formal chirography on more substantial materials than at present. There was something about it that quickened an instinctive curiosity, and made me undo the faded red tape, that tied up the package, with the sense that a treasure would here be brought to light. Unbending the rigid folds of the parchment cover, I found it to be a commission, under the hand and seal of Governor Shirley, in favor of one Jonathan Pue, as Surveyor of his Majestys Customs for the port of Salem, in the Province of Massachusetts Bay. I remember to have read (probably in Felts Annals) a notice of the decease of Mr. Surveyor Pue, about fourscore years ago; and likewise, in a newspaper of recent times, an account of the digging up of his remains in the little graveyard of St. Peters Church, during the renewal of that edifice. Nothing, if I rightly call to mind, was left of my respected predecessor, save an imperfect skeleton, and some fragments of apparel, and a wig of majestic frizzle; which, unlike the head that it once adorned, was in very satisfactory preservation. But, on examining the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the discovery of an old commission document belonging to a former surveyor of Salem. The finder remembers reading about the man's death and subsequent exhumation, and notes that only his skeleton, fragments of clothing, and wig were left behind.

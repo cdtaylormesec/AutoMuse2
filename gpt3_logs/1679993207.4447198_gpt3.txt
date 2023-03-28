@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: You never see a fault in anybody. All the world are good       and agreeable in your eyes. I never heard you speak ill of a       human being in my life.        I would wish not to be hasty in censuring any one; but I always       speak what I think.        I know you do; and it is _that_ which makes the wonder. With       _your_ good sense, to be so honestly blind to the follies and       nonsense of others! Affectation of candour is common enough;one       meets with it everywhere. But to be candid without ostentation or       designto take the good of everybodys character and make it       still better, and say nothing of the badbelongs to you alone.       And so, you like this mans sisters, too, do you? Their manners       are not equal to his.        Certainly not; at first. But they are very pleasing women when       you converse with them. Miss Bingley is to live with her brother,       and keep his house; and I am much mistaken if we shall not find a       very charming neighbour in her.        Elizabeth listened in silence, but was not convinced; their       behaviour at the assembly had not been calculated to please in       general; and with more quickness of observation and less pliancy       of temper than her sister, and with a judgment too unassailed by       any attention to herself, she was very little disposed to approve       them. They were in fact very fine ladies; not deficient in good       humour when they were pleased, nor in the power of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is saying that they are surprised that the person they are speaking to is so blindly good and forgiving of others, given their good sense. The speaker then goes on to say that they do not approve of the behavior of the person's sisters, who were not very friendly at the assembly.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: brought the guilt and troubles of the world into its bosombecame the playmate of the lonely infant, as well as it knew how. Sombre as it was, it put on the kindest of its moods to welcome her. It offered her the partridge-berries, the growth of the preceding autumn, but ripening only in the spring, and now red as drops of blood upon the withered leaves. These Pearl gathered, and was pleased with their wild flavor. The small denizens of the wilderness hardly took pains to move out of her path. A partridge, indeed, with a brood of ten behind her, ran forward threateningly, but soon repented of her fierceness, and clucked to her young ones not to be afraid. A pigeon, alone on a low branch, allowed Pearl to come beneath, and uttered a sound as much of greeting as alarm. A squirrel, from the lofty depths of his domestic tree, chattered either in anger or merriment,for a squirrel is such a choleric and humorous little personage, that it is hard to distinguish between his moods,so he chattered at the child, and flung down a nut upon her head. It was a last years nut, and already gnawed by his sharp tooth. A fox, startled from his sleep by her light footstep on the leaves, looked inquisitively at Pearl, as doubting whether it were better to steal off, or renew his nap on the same spot. A wolf, it is said,but here the tale has surely lapsed into the improbable,came up, and smelt of Pearls robe, and offered his savage head to be patted by her hand. The truth seems to be,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes how animals responded to the presence of a child in the wilderness.

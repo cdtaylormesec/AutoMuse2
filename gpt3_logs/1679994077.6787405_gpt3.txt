@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: its result would be good. Day after day, she looked fearfully into the childs expanding nature, ever dreading to detect some dark and wild peculiarity, that should correspond with the guiltiness to which she owed her being.  Certainly, there was no physical defect. By its perfect shape, its vigor, and its natural dexterity in the use of all its untried limbs, the infant was worthy to have been brought forth in Eden; worthy to have been left there, to be the plaything of the angels, after the worlds first parents were driven out. The child had a native grace which does not invariably coexist with faultless beauty; its attire, however simple, always impressed the beholder as if it were the very garb that precisely became it best. But little Pearl was not clad in rustic weeds. Her mother, with a morbid purpose that may be better understood hereafter, had bought the richest tissues that could be procured, and allowed her imaginative faculty its full play in the arrangement and decoration of the dresses which the child wore, before the public eye. So magnificent was the small figure, when thus arrayed, and such was the splendor of Pearls own proper beauty, shining through the gorgeous robes which might have extinguished a paler loveliness, that there was an absolute circle of radiance around her, on the darksome cottage floor. And yet a russet gown, torn and soiled with the childs rude play, made a picture of her just as perfect. Pearls aspect was imbued with a spell of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The mother of Pearl, from guilt, buys the richest clothes for her child and dresses her imaginatively to cover up a possible dark and wild peculiarity. Pearl is a beautiful and graceful child.

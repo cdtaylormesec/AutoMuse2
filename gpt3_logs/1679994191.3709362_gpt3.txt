@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: would not have understood me.  Dont, Harry. The soul is a terrible reality. It can be bought, and sold, and bartered away. It can be poisoned, or made perfect. There is a soul in each one of us. I know it.  Do you feel quite sure of that, Dorian?  Quite sure.  Ah! then it must be an illusion. The things one feels absolutely certain about are never true. That is the fatality of faith, and the lesson of romance. How grave you are! Dont be so serious. What have you or I to do with the superstitions of our age? No: we have given up our belief in the soul. Play me something. Play me a nocturne, Dorian, and, as you play, tell me, in a low voice, how you have kept your youth. You must have some secret. I am only ten years older than you are, and I am wrinkled, and worn, and yellow. You are really wonderful, Dorian. You have never looked more charming than you do to-night. You remind me of the day I saw you first. You were rather cheeky, very shy, and absolutely extraordinary. You have changed, of course, but not in appearance. I wish you would tell me your secret. To get back my youth I would do anything in the world, except take exercise, get up early, or be respectable. Youth! There is nothing like it. Its absurd to talk of the ignorance of youth. The only people to whose opinions I listen now with any respect are people much younger than myself. They seem in front of me. Life has revealed to them her latest wonder. As for the aged, I always contradict the aged. I do it
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the idea that the soul is a reality that can be bought, sold, or bartered away. It also suggests that youth is a time when one is ignorant and that the opinions of the elderly should not be respected.

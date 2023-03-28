@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: proposed being engaged by Mr. Wickham for those very dances; and       to have Mr. Collins instead! her liveliness had never been worse       timed. There was no help for it, however. Mr. Wickhams happiness       and her own were perforce delayed a little longer, and Mr.       Collinss proposal accepted with as good a grace as she could.       She was not the better pleased with his gallantry from the idea       it suggested of something more. It now first struck her, that       _she_ was selected from among her sisters as worthy of being       mistress of Hunsford Parsonage, and of assisting to form a       quadrille table at Rosings, in the absence of more eligible       visitors. The idea soon reached to conviction, as she observed       his increasing civilities toward herself, and heard his frequent       attempt at a compliment on her wit and vivacity; and though more       astonished than gratified herself by this effect of her charms,       it was not long before her mother gave her to understand that the       probability of their marriage was extremely agreeable to _her_.       Elizabeth, however, did not choose to take the hint, being well       aware that a serious dispute must be the consequence of any       reply. Mr. Collins might never make the offer, and till he did,       it was useless to quarrel about him.        If there had not been a Netherfield ball to prepare for and talk       of, the younger Miss Bennets would have been in a very pitiable
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The younger Miss Bennets are preparing for the Netherfield ball, and one of them is hoping that Mr. Wickham will ask her to dance. However, she is disappointed when he instead asks her to dance with Mr. Collins. She is even more disappointed when she realizes that Mr. Collins is only interested in her because she is a potential wife for him.

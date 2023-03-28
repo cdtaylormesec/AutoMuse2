@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: evidently done his utmost to surround himself. But it is an error to suppose that our grave forefathersthough accustomed to speak and think of human existence as a state merely of trial and warfare, and though unfeignedly prepared to sacrifice goods and life at the behest of dutymade it a matter of conscience to reject such means of comfort, or even luxury, as lay fairly within their grasp. This creed was never taught, for instance, by the venerable pastor, John Wilson, whose beard, white as a snow-drift, was seen over Governor Bellinghams shoulder; while its wearer suggested that pears and peaches might yet be naturalized in the New England climate, and that purple grapes might possibly be compelled to nourish, against the sunny garden-wall. The old clergyman, nurtured at the rich bosom of the English Church, had a long-established and legitimate taste for all good and comfortable things; and however stern he might show himself in the pulpit, or in his public reproof of such transgressions as that of Hester Prynne, still the genial benevolence of his private life had won him warmer affection than was accorded to any of his professional contemporaries.  Behind the Governor and Mr. Wilson came two other guests: one the Reverend Arthur Dimmesdale, whom the reader may remember as having taken a brief and reluctant part in the scene of Hester Prynnes disgrace; and, in close companionship with him, old Roger Chillingworth, a person of great skill in physic, who, for two or
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage discusses the Puritan belief that one should not seek out luxury or comfort, but rather focus on their duty. It also describes how one Puritan minister, John Wilson, was known for being stern in his public role but genial in his private life. Finally, it mentions two other guests who are accompanying Wilson and Governor Bellingham: Reverend Arthur Dimmesdale and Roger Chillingworth.

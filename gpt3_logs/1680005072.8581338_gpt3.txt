@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution. Mr. Lorry tries to remain positive, while Monseigneur talks about how he will take revenge on the revolutionaries. The passage also describes a doctor's experience treating a patient with a mental illness and a group of women who are mourning the death of a man named Foulon. Monsieur the Marquis arrives at his estate, which is composed entirely of stone. He enters the dark, silent house and is led by a flambeau-bearer to his destination. Stryver tells a group of people that a man will never find someone as good as the person he is talking about and that he always runs away. Lorry then asks Darnay to take charge of a letter and to explain to the recipient that the letter was meant for them. Darnay agrees and starts to leave but is stopped by Stryver. Doctor had permission to remain in the Hall of Blood to tend to the wounded. He was astonished by the ferocity of the mob and the inconsistency of their behavior. He feared that his friend's experiences would revive old dangers. The three customers in the wine shop express their admiration for Madame Defarge, who calmly resumes her knitting. Sydney Carton and his friend Stryver discuss how Sydney has always been less successful than Stryver, despite being just as intelligent. They joke about how Sydney's lack of ambition has held him back in life. This passage explains the terms under which someone may distribute a work from the Project Gutenberg website. Basically, the work must be made available in its original ASCII format, and the distributor must pay a 20% royalty fee.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution. Mr. Lorry tries to remain positive, while Monseigneur talks about how he will take revenge on the revolutionaries. The passage also describes a doctor's experience treating a patient with a mental illness and a group of women who are mourning the death of a man named Foulon.

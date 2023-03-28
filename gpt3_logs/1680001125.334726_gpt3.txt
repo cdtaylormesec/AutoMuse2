@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: what arms they had, and came pouring down into the streets; but, the women were a sight to chill the boldest. From such household occupations as their bare poverty yielded, from their children, from their aged and their sick crouching on the bare ground famished and naked, they ran out with streaming hair, urging one another, and themselves, to madness with the wildest cries and actions. Villain Foulon taken, my sister! Old Foulon taken, my mother! Miscreant Foulon taken, my daughter! Then, a score of others ran into the midst of these, beating their breasts, tearing their hair, and screaming, Foulon alive! Foulon who told the starving people they might eat grass! Foulon who told my old father that he might eat grass, when I had no bread to give him! Foulon who told my baby it might suck grass, when these breasts were dry with want! O mother of God, this Foulon! O Heaven our suffering! Hear me, my dead baby and my withered father: I swear on my knees, on these stones, to avenge you on Foulon! Husbands, and brothers, and young men, Give us the blood of Foulon, Give us the head of Foulon, Give us the heart of Foulon, Give us the body and soul of Foulon, Rend Foulon to pieces, and dig him into the ground, that grass may grow from him! With these cries, numbers of the women, lashed into blind frenzy, whirled about, striking and tearing at their own friends until they dropped into a passionate swoon, and were only saved by the men belonging to them from being trampled under foot.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a group of women in Paris during the French Revolution who are driven to madness by their hunger and poverty. They run into the streets, tearing their hair and clothes, and screaming for the blood of Foulon, a government official who told the starving people they could eat grass. The women are eventually restrained by their husbands and brothers, but not before some of them have injured themselves or others in their frenzy.

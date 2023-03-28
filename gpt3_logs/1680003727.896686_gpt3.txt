@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: knows that I am innocent of any. Is it likely? Who would think of plotting with a poor little weak creature like me?  The forlorn smile with which she said it, so touched him, that tears started from his eyes.  I am not afraid to die, Citizen Evrmonde, but I have done nothing. I am not unwilling to die, if the Republic which is to do so much good to us poor, will profit by my death; but I do not know how that can be, Citizen Evrmonde. Such a poor weak little creature!  As the last thing on earth that his heart was to warm and soften to, it warmed and softened to this pitiable girl.  I heard you were released, Citizen Evrmonde. I hoped it was true?  It was. But, I was again taken and condemned.  If I may ride with you, Citizen Evrmonde, will you let me hold your hand? I am not afraid, but I am little and weak, and it will give me more courage.  As the patient eyes were lifted to his face, he saw a sudden doubt in them, and then astonishment. He pressed the work-worn, hunger-worn young fingers, and touched his lips.  Are you dying for him? she whispered.  And his wife and child. Hush! Yes.  O you will let me hold your brave hand, stranger?  Hush! Yes, my poor sister; to the last.          *****  The same shadows that are falling on the prison, are falling, in that same hour of the early afternoon, on the Barrier with the crowd about it, when a coach going out of Paris drives up to be examined.  Who goes here? Whom have we within? Papers!  The papers are
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man and a woman who are both prisoners discuss the woman's impending execution. The woman is happy to die for the Republic, and the man is touched by her innocence. They hold hands and the man tells her that he is also going to die for the Republic.

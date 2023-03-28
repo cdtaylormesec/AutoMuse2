@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: children out of its way. At last, swooping at a street corner by a fountain, one of its wheels came to a sickening little jolt, and there was a loud cry from a number of voices, and the horses reared and plunged.  But for the latter inconvenience, the carriage probably would not have stopped; carriages were often known to drive on, and leave their wounded behind, and why not? But the frightened valet had got down in a hurry, and there were twenty hands at the horses bridles.  What has gone wrong? said Monsieur, calmly looking out.  A tall man in a nightcap had caught up a bundle from among the feet of the horses, and had laid it on the basement of the fountain, and was down in the mud and wet, howling over it like a wild animal.  Pardon, Monsieur the Marquis! said a ragged and submissive man, it is a child.  Why does he make that abominable noise? Is it his child?  Excuse me, Monsieur the Marquis--it is a pity--yes.  The fountain was a little removed; for the street opened, where it was, into a space some ten or twelve yards square. As the tall man suddenly got up from the ground, and came running at the carriage, Monsieur the Marquis clapped his hand for an instant on his sword-hilt.  Killed! shrieked the man, in wild desperation, extending both arms at their length above his head, and staring at him. Dead!  The people closed round, and looked at Monsieur the Marquis. There was nothing revealed by the many eyes that looked at him but watchfulness and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A carriage hits a child and the man who was hit by the carriage starts screaming. The people around him look at the Marquis with watchfulness.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: at the shiftlessness of the lower orders. These people! You have to keep after them all the time.  She looked at me and laughed pointlessly. Then she flounced over to the dog, kissed it with ecstasy, and swept into the kitchen, implying that a dozen chefs awaited her orders there.  Ive done some nice things out on Long Island, asserted Mr. McKee.  Tom looked at him blankly.  Two of them we have framed downstairs.  Two what? demanded Tom.  Two studies. One of them I call Montauk PointThe Gulls, and the other I call Montauk PointThe Sea.  The sister Catherine sat down beside me on the couch.  Do you live down on Long Island, too? she inquired.  I live at West Egg.  Really? I was down there at a party about a month ago. At a man named Gatsbys. Do you know him?  I live next door to him.  Well, they say hes a nephew or a cousin of Kaiser Wilhelms. Thats where all his money comes from.  Really?  She nodded.  Im scared of him. Id hate to have him get anything on me.  This absorbing information about my neighbour was interrupted by Mrs. McKees pointing suddenly at Catherine:  Chester, I think you could do something with her, she broke out, but Mr. McKee only nodded in a bored way, and turned his attention to Tom.  Id like to do more work on Long Island, if I could get the entry. All I ask is that they should give me a start.  Ask Myrtle, said Tom, breaking into a short shout of laughter as Mrs. Wilson entered with a tray. Shell give you a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The McKees are an upper-class couple who look down on the lower orders. They live on Long Island and are familiar with Gatsby. Catherine, the sister, is scared of Gatsby.

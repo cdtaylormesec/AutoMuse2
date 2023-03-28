@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: three years past, had been settled in the town. It was understood that this learned man was the physician as well as friend of the young minister, whose health had severely suffered, of late, by his too unreserved self-sacrifice to the labors and duties of the pastoral relation.  The Governor, in advance of his visitors, ascended one or two steps, and, throwing open the leaves of the great hall-window, found himself close to little Pearl. The shadow of the curtain fell on Hester Prynne, and partially concealed her.  What have we here? said Governor Bellingham, looking with surprise at the scarlet little figure before him. I profess, I have never seen the like, since my days of vanity, in old King Jamess time, when I was wont to esteem it a high favor to be admitted to a court mask! There used to be a swarm of these small apparitions, in holiday time; and we called them children of the Lord of Misrule. But how gat such a guest into my hall?  Ay, indeed! cried good old Mr. Wilson. What little bird of scarlet plumage may this be? Methinks I have seen just such figures, when the sun has been shining through a richly painted window, and tracing out the golden and crimson images across the floor. But that was in the old land. Prithee, young one, who art thou, and what has ailed thy mother to bedizen thee in this strange fashion? Art thou a Christian child,ha? Dost know thy catechism? Or art thou one of those naughty elfs or fairies, whom we thought to have left behind us,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A little girl named Pearl is the daughter of Hester Prynne, who is a learned physician and friend of the young minister. The Governor of the town is surprised to see Pearl, and he asks her who she is and what her mother has done to her.

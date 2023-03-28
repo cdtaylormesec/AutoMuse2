@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: most hated. For a moment only did I lose recollection; I fell senseless on the ground.  When I recovered I found myself surrounded by the people of the inn; their countenances expressed a breathless terror, but the horror of others appeared only as a mockery, a shadow of the feelings that oppressed me. I escaped from them to the room where lay the body of Elizabeth, my love, my wife, so lately living, so dear, so worthy. She had been moved from the posture in which I had first beheld her, and now, as she lay, her head upon her arm and a handkerchief thrown across her face and neck, I might have supposed her asleep. I rushed towards her and embraced her with ardour, but the deadly languor and coldness of the limbs told me that what I now held in my arms had ceased to be the Elizabeth whom I had loved and cherished. The murderous mark of the fiends grasp was on her neck, and the breath had ceased to issue from her lips.  While I still hung over her in the agony of despair, I happened to look up. The windows of the room had before been darkened, and I felt a kind of panic on seeing the pale yellow light of the moon illuminate the chamber. The shutters had been thrown back, and with a sensation of horror not to be described, I saw at the open window a figure the most hideous and abhorred. A grin was on the face of the monster; he seemed to jeer, as with his fiendish finger he pointed towards the corpse of my wife. I rushed towards the window, and drawing a pistol from my bosom,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+I found myself surrounded by the people of the inn after falling senseless to the ground. Their countenances expressed terror, but I was in too much of a panic to notice. I escaped to the room where Elizabeth, my love, my wife, lay dead with a handkerchief thrown over her face and neck. The murderer was at the window, grinning and pointing towards Elizabeth's corpse. I ran towards the window and pulled out my pistol.

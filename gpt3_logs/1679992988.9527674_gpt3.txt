@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: because they were ignorant, of the others because they were hysterical about things which in his overwhelming self-absorption he took for granted.  But his heart was in a constant, turbulent riot. The most grotesque and fantastic conceits haunted him in his bed at night. A universe of ineffable gaudiness spun itself out in his brain while the clock ticked on the washstand and the moon soaked with wet light his tangled clothes upon the floor. Each night he added to the pattern of his fancies until drowsiness closed down upon some vivid scene with an oblivious embrace. For a while these reveries provided an outlet for his imagination; they were a satisfactory hint of the unreality of reality, a promise that the rock of the world was founded securely on a fairys wing.  An instinct toward his future glory had led him, some months before, to the small Lutheran College of St. Olafs in southern Minnesota. He stayed there two weeks, dismayed at its ferocious indifference to the drums of his destiny, to destiny itself, and despising the janitors work with which he was to pay his way through. Then he drifted back to Lake Superior, and he was still searching for something to do on the day that Dan Codys yacht dropped anchor in the shallows alongshore.  Cody was fifty years old then, a product of the Nevada silver fields, of the Yukon, of every rush for metal since seventy-five. The transactions in Montana copper that made him many times a millionaire found him physically robust but
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist is an ambitious young man who is unsatisfied with his life. He dropped out of college and is now drifting along the shore of Lake Superior. One day, he meets a man named Dan Cody, who is a wealthy businessman. The two become friends, and Cody eventually hires the protagonist to work for him.

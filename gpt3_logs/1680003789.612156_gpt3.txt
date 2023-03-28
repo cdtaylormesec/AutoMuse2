@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the child.  My little Pearl, said he, feebly,and there was a sweet and gentle smile over his face, as of a spirit sinking into deep repose; nay, now that the burden was removed, it seemed almost as if he would be sportive with the child,dear little Pearl, wilt thou kiss me now? Thou wouldst not, yonder, in the forest! But now thou wilt?  Pearl kissed his lips. A spell was broken. The great scene of grief, in which the wild infant bore a part, had developed all her sympathies; and as her tears fell upon her fathers cheek, they were the pledge that she would grow up amid human joy and sorrow, nor forever do battle with the world, but be a woman in it. Towards her mother, too, Pearls errand as a messenger of anguish was all fulfilled.  Hester, said the clergyman, farewell!  Shall we not meet again? whispered she, bending her face down close to his. Shall we not spend our immortal life together? Surely, surely, we have ransomed one another, with all this woe! Thou lookest far into eternity, with those bright dying eyes! Then tell me what thou seest?  Hush, Hester, hush! said he, with tremulous solemnity. The law we broke!the sin here so awfully revealed!let these alone be in thy thoughts! I fear! I fear! It may be, that, when we forgot our God,when we violated our reverence each for the others soul,it was thenceforth vain to hope that we could meet hereafter, in an everlasting and pure reunion. God knows; and He is merciful! He hath proved his mercy, most
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a dying man's final moments and words. He is speaking to his daughter, Pearl, and tells her that he fears they will not be able to meet in an everlasting and pure reunion after death because of the sin they have committed. However, he remains hopeful that God is merciful and will forgive them.

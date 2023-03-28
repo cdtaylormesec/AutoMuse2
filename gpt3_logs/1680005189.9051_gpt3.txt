@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage reflects on the author's observations of history, morality, and the human condition. He describes how he interacted with old sailors, Hester Prynne's public punishment for adultery, and a dying man's final moments. The author reflects on their failed attempt to write a historical novel, and how it was perhaps a foolish endeavor. The passage also discusses the effect of a minister's voice on the listener, regardless of the language spoken. The passage describes the different illustrations in the book. The passage is about the author's ancestors, one of whom was a Puritan who was very cruel to the Quakers. The author is ashamed of their actions and prays for their forgiveness. The passage describes how the old, experienced customs officers at the author's workplace were gradually replaced by younger, more orthodox men. The author knew that the new officers were more fit for the job than the old ones, but he couldn't bring himself to fire them. Eventually, the new officers discovered that the author was not a threat, and they all got along. The passage describes a room in a seaport town, inhabited by old men who are retired Custom-House officers. The room is dirty and cluttered, and it is clear that it is not regularly cleaned. The passage describes a man who, despite being quite old, is still in excellent health and spirits. He is a government official, and his father was a colonel in the Revolutionary War. This passage describes the author's experience taking charge of the Salem Custom-House. He notes that most of the employees are old, experienced sea captains. He also mentions that the previous chief executive officer, General Miller, was a very conservative man.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage reflects on the author's observations of history, morality, and the human condition. He describes how he interacted with old sailors, Hester Prynne's public punishment for adultery, and a dying man's final moments. The author reflects on their failed attempt to write a historical novel, and how it was perhaps a foolish endeavor. The passage also discusses the effect of a minister's voice on the listener, regardless of the language spoken.

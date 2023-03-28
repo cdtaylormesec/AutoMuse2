@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: of those rare smiles with a quality of eternal reassurance in it, that you may come across four or five times in life. It facedor seemed to facethe whole eternal world for an instant, and then concentrated on you with an irresistible prejudice in your favour. It understood you just so far as you wanted to be understood, believed in you as you would like to believe in yourself, and assured you that it had precisely the impression of you that, at your best, you hoped to convey. Precisely at that point it vanishedand I was looking at an elegant young roughneck, a year or two over thirty, whose elaborate formality of speech just missed being absurd. Some time before he introduced himself Id got a strong impression that he was picking his words with care.  Almost at the moment when Mr. Gatsby identified himself a butler hurried toward him with the information that Chicago was calling him on the wire. He excused himself with a small bow that included each of us in turn.  If you want anything just ask for it, old sport, he urged me. Excuse me. I will rejoin you later.  When he was gone I turned immediately to Jordanconstrained to assure her of my surprise. I had expected that Mr. Gatsby would be a florid and corpulent person in his middle years.  Who is he? I demanded. Do you know?  Hes just a man named Gatsby.  Where is he from, I mean? And what does he do?  Now youre started on the subject, she answered with a wan smile. Well, he told me once he was an Oxford
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man named Gatsby seems to have everything going for him, but Jordan tells the narrator that he is just a man with a mysterious past.

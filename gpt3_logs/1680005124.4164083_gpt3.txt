@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the author's interactions with old, experienced sailors who continued to work at the docks even though they were well past retirement age. The author knew that they should have been replaced by younger, more fit men, but he couldn't bring himself to do it. The sailors eventually came to accept the author and they would often tell each other stories and jokes. The child in the passage is described as being beautiful and graceful, with a 'circle of radiance' around them. Regardless of what they wear, they always look perfect. The passage describes the reaction of the townspeople to Hester Prynne's public punishment for adultery. Hester is wearing a scarlet letter A on her chest, and the townspeople are both fascinated and repelled by it. The preacher in the church is also affected by the letter, and the townspeople eventually turn on him as well. The author reflects on their failed attempt to write a historical novel, and how it was perhaps a foolish endeavor. They suggest that it would have been wiser to write about the present day, infused with thought and imagination. The passage describes the Puritan character as one that is very severe, and notes that even minor offenses could be punishable by death. There is little sympathy from onlookers for those being executed, and the penalties for crimes are seen as very serious. Pearl hears her mother's voice and appears before her. Hester asks Pearl what the green letter on her chest means, and Pearl replies that it is the letter A. Hester then asks Pearl why her mother wears the letter, and Pearl says it is for the same reason that the minister keeps his hand over his heart.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the author's interactions with old, experienced sailors who continued to work at the docks even though they were well past retirement age. The sailors eventually came to accept the author and they would often tell each other stories and jokes. The passage also describes the reaction of the townspeople to Hester Prynne's public punishment for adultery. The townspeople are both fascinated and repelled by the scarlet letter A that Hester is wearing. The author reflects on their failed attempt to write a historical novel, and how it was perhaps a foolish endeavor. They suggest that it would have been wiser to write about the present day, infused with thought and imagination.

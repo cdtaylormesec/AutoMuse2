@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: throat, and with a violent thrusting movement of his powerful arms pushed his way through.  The circle closed up again with a running murmur of expostulation; it was a minute before I could see anything at all. Then new arrivals deranged the line, and Jordan and I were pushed suddenly inside.  Myrtle Wilsons body, wrapped in a blanket, and then in another blanket, as though she suffered from a chill in the hot night, lay on a worktable by the wall, and Tom, with his back to us, was bending over it, motionless. Next to him stood a motorcycle policeman taking down names with much sweat and correction in a little book. At first I couldnt find the source of the high, groaning words that echoed clamorously through the bare garagethen I saw Wilson standing on the raised threshold of his office, swaying back and forth and holding to the doorposts with both hands. Some man was talking to him in a low voice and attempting, from time to time, to lay a hand on his shoulder, but Wilson neither heard nor saw. His eyes would drop slowly from the swinging light to the laden table by the wall, and then jerk back to the light again, and he gave out incessantly his high, horrible call:  Oh, my Ga-od! Oh, my Ga-od! Oh, Ga-od! Oh, my Ga-od!  Presently Tom lifted his head with a jerk and, after staring around the garage with glazed eyes, addressed a mumbled incoherent remark to the policeman.  M-a-v the policeman was saying, o  No, r corrected the man, M-a-v-r-o  Listen to me!
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Tom is bending over Myrtle's body, which is wrapped in blankets and lying on a worktable, while a policeman takes down names. Wilson is standing on the threshold of his office, swaying back and forth and holding onto the doorposts, and moaning, "Oh, my God! Oh, my God! Oh, God! Oh, my God!"

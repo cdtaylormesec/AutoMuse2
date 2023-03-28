@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: she picked her way through the wood. Its the stupidest tea-party I ever was at in all my life!  Just as she said this, she noticed that one of the trees had a door leading right into it. Thats very curious! she thought. But everythings curious today. I think I may as well go in at once. And in she went.  Once more she found herself in the long hall, and close to the little glass table. Now, Ill manage better this time, she said to herself, and began by taking the little golden key, and unlocking the door that led into the garden. Then she went to work nibbling at the mushroom (she had kept a piece of it in her pocket) till she was about a foot high: then she walked down the little passage: and _then_she found herself at last in the beautiful garden, among the bright flower-beds and the cool fountains.     CHAPTER VIII. The Queens Croquet-Ground   A large rose-tree stood near the entrance of the garden: the roses growing on it were white, but there were three gardeners at it, busily painting them red. Alice thought this a very curious thing, and she went nearer to watch them, and just as she came up to them she heard one of them say, Look out now, Five! Dont go splashing paint over me like that!  I couldnt help it, said Five, in a sulky tone; Seven jogged my elbow.  On which Seven looked up and said, Thats right, Five! Always lay the blame on others!  _Youd_ better not talk! said Five. I heard the Queen say only yesterday you deserved to be
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice is in a wood, and comes across a tree with a door leading into it. She goes in and finds herself in a long hall with a glass table. She takes a key and unlocks a door into a garden. In the garden, she sees some gardeners painting roses red. One of the gardeners says to another that he deserves to be beheaded.

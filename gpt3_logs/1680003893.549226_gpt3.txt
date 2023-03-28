@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: realize.  I wonder is that really so, Harry? said Dorian Gray, putting some perfume on his handkerchief out of a large, gold-topped bottle that stood on the table. It must be, if you say it. And now I am off. Imogen is waiting for me. Dont forget about to-morrow. Good-bye.  As he left the room, Lord Henrys heavy eyelids drooped, and he began to think. Certainly few people had ever interested him so much as Dorian Gray, and yet the lads mad adoration of some one else caused him not the slightest pang of annoyance or jealousy. He was pleased by it. It made him a more interesting study. He had been always enthralled by the methods of natural science, but the ordinary subject-matter of that science had seemed to him trivial and of no import. And so he had begun by vivisecting himself, as he had ended by vivisecting others. Human lifethat appeared to him the one thing worth investigating. Compared to it there was nothing else of any value. It was true that as one watched life in its curious crucible of pain and pleasure, one could not wear over ones face a mask of glass, nor keep the sulphurous fumes from troubling the brain and making the imagination turbid with monstrous fancies and misshapen dreams. There were poisons so subtle that to know their properties one had to sicken of them. There were maladies so strange that one had to pass through them if one sought to understand their nature. And, yet, what a great reward one received! How wonderful the whole world became
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Dorian Gray is talking to Lord Henry about how he is going to go meet Imogen. Lord Henry is pleased by this because it makes Dorian more interesting to him.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: from his neck cowered a dozen very recent puppies of an indeterminate breed.  What kind are they? asked Mrs. Wilson eagerly, as he came to the taxi-window.  All kinds. What kind do you want, lady?  Id like to get one of those police dogs; I dont suppose you got that kind?  The man peered doubtfully into the basket, plunged in his hand and drew one up, wriggling, by the back of the neck.  Thats no police dog, said Tom.  No, its not exactly a police dog, said the man with disappointment in his voice. Its more of an Airedale. He passed his hand over the brown washrag of a back. Look at that coat. Some coat. Thats a dog thatll never bother you with catching cold.  I think its cute, said Mrs. Wilson enthusiastically. How much is it?  That dog? He looked at it admiringly. That dog will cost you ten dollars.  The Airedaleundoubtedly there was an Airedale concerned in it somewhere, though its feet were startlingly whitechanged hands and settled down into Mrs. Wilsons lap, where she fondled the weatherproof coat with rapture.  Is it a boy or a girl? she asked delicately.  That dog? That dogs a boy.  Its a bitch, said Tom decisively. Heres your money. Go and buy ten more dogs with it.  We drove over to Fifth Avenue, warm and soft, almost pastoral, on the summer Sunday afternoon. I wouldnt have been surprised to see a great flock of white sheep turn the corner.  Hold on, I said, I have to leave you here.  No you dont, interposed Tom
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man is selling puppies out of the back of his taxi, and Mrs. Wilson buys one for ten dollars. The puppy is an Airedale, and Tom is not happy about it. They drive to Fifth Avenue and Tom tells Mrs. Wilson to get out of the taxi.

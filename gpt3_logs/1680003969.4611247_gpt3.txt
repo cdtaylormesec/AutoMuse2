@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: backs of the two traitors, till they yelled no more, but lifelessly hung their heads sideways, as the two crucified thieves are drawn.  My wrist is sprained with ye! he cried, at last; but there is still rope enough left for you, my fine bantam, that wouldnt give up. Take that gag from his mouth, and let us hear what he can say for himself.  For a moment the exhausted mutineer made a tremulous motion of his cramped jaws, and then painfully twisting round his head, said in a sort of hiss, What I say is thisand mind it wellif you flog me, I murder you!  Say ye so? then see how ye frighten meand the Captain drew off with the rope to strike.  Best not, hissed the Lakeman.  But I must,and the rope was once more drawn back for the stroke.  Steelkilt here hissed out something, inaudible to all but the Captain; who, to the amazement of all hands, started back, paced the deck rapidly two or three times, and then suddenly throwing down his rope, said, I wont do itlet him gocut him down: dye hear?  But as the junior mates were hurrying to execute the order, a pale man, with a bandaged head, arrested themRadney the chief mate. Ever since the blow, he had lain in his berth; but that morning, hearing the tumult on the deck, he had crept out, and thus far had watched the whole scene. Such was the state of his mouth, that he could hardly speak; but mumbling something about _his_ being willing and able to do what the captain dared not attempt, he snatched the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The captain of a ship is about to flog one of the mutineers when the chief mate, who has been injured in the mutiny, stops him and offers to do it instead.

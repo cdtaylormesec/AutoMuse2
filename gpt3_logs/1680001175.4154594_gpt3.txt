@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: awful business in hand. It could have betokened nothing short of the anticipated execution of some noted culprit, on whom the sentence of a legal tribunal had but confirmed the verdict of public sentiment. But, in that early severity of the Puritan character, an inference of this kind could not so indubitably be drawn. It might be that a sluggish bond-servant, or an undutiful child, whom his parents had given over to the civil authority, was to be corrected at the whipping-post. It might be, that an Antinomian, a Quaker, or other heterodox religionist was to be scourged out of the town, or an idle and vagrant Indian, whom the white mans fire-water had made riotous about the streets, was to be driven with stripes into the shadow of the forest. It might be, too, that a witch, like old Mistress Hibbins, the bitter-tempered widow of the magistrate, was to die upon the gallows. In either case, there was very much the same solemnity of demeanor on the part of the spectators; as befitted a people amongst whom religion and law were almost identical, and in whose character both were so thoroughly interfused, that the mildest and the severest acts of public discipline were alike made venerable and awful. Meagre, indeed, and cold was the sympathy that a transgressor might look for, from such bystanders, at the scaffold. On the other hand, a penalty, which, in our days, would infer a degree of mocking infamy and ridicule, might then be invested with almost as stern a dignity as the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes the Puritans' attitudes towards punishment, which was seen as a serious and solemn matter. There was little sympathy for criminals, and even minor penalties were seen as serious and dignified.

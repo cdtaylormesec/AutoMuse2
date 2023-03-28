@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: you manage on the twelfth? Alice went on eagerly.  Thats enough about lessons, the Gryphon interrupted in a very decided tone: tell her something about the games now.     CHAPTER X. The Lobster Quadrille   The Mock Turtle sighed deeply, and drew the back of one flapper across his eyes. He looked at Alice, and tried to speak, but for a minute or two sobs choked his voice. Same as if he had a bone in his throat, said the Gryphon: and it set to work shaking him and punching him in the back. At last the Mock Turtle recovered his voice, and, with tears running down his cheeks, he went on again:  You may not have lived much under the sea (I havent, said Alice)and perhaps you were never even introduced to a lobster (Alice began to say I once tasted but checked herself hastily, and said No, never) so you can have no idea what a delightful thing a Lobster Quadrille is!  No, indeed, said Alice. What sort of a dance is it?  Why, said the Gryphon, you first form into a line along the sea-shore  Two lines! cried the Mock Turtle. Seals, turtles, salmon, and so on; then, when youve cleared all the jelly-fish out of the way  _That_ generally takes some time, interrupted the Gryphon.  you advance twice  Each with a lobster as a partner! cried the Gryphon.  Of course, the Mock Turtle said: advance twice, set to partners  change lobsters, and retire in same order, continued the Gryphon.  Then, you know, the Mock Turtle went on, you
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Mock Turtle tells Alice about the Lobster Quadrille, a dance where participants form two lines and dance with lobsters as partners.

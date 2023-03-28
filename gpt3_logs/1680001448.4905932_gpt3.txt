@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the dance?  You can really have no notion how delightful it will be When they take us up and throw us, with the lobsters, out to sea! But the snail replied Too far, too far! and gave a look askance Said he thanked the whiting kindly, but he would not join the dance. Would not, could not, would not, could not, would not join the dance. Would not, could not, would not, could not, could not join the dance.  What matters it how far we go? his scaly friend replied. There is another shore, you know, upon the other side. The further off from England the nearer is to France Then turn not pale, beloved snail, but come and join the dance. Will you, wont you, will you, wont you, will you join the dance? Will you, wont you, will you, wont you, wont you join the dance?   Thank you, its a very interesting dance to watch, said Alice, feeling very glad that it was over at last: and I do so like that curious song about the whiting!  Oh, as to the whiting, said the Mock Turtle, theyyouve seen them, of course?  Yes, said Alice, Ive often seen them at dinn she checked herself hastily.  I dont know where Dinn may be, said the Mock Turtle, but if youve seen them so often, of course you know what theyre like.  I believe so, Alice replied thoughtfully. They have their tails in their mouthsand theyre all over crumbs.  Youre wrong about the crumbs, said the Mock Turtle: crumbs would all wash off in the sea. But they _have_ their tails in their mouths;
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The dance is too far and the snail does not want to join. The Mock Turtle tells Alice that she is wrong about the crumbs and that they have their tails in their mouths.

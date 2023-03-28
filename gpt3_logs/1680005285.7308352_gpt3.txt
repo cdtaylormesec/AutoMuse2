@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The narrator is impressed by Gatsby's sensitivity and ability to connect with people, despite his own reservations about him. Tom and Gatsby are arguing about whether Gatsby actually went to Oxford. Daisy tries to intervene, but Tom is not interested in hearing what she has to say. Gatsby is content with the argument, because it means that they are finally out in the open. Jordan Baker tells the narrator that she is engaged to another man, and the narrator reflects on a conversation they had about driving. A man named Bill Biloxi stayed with the narrator's family for three weeks, until her father told him to leave. The day after he left, her father died. The narrator later remarked to her husband that Biloxi was from Memphis, and he gave her an aluminum putter that she still uses. Tom is talking to Daisy, who is extemporizing about how much she loves Nick. Miss Baker is trying to eavesdrop on their conversation, and she and Nick exchange a glance. Nick says he doesn't know what's going on, and Miss Baker is surprised. She tells him that everybody knows about Tom's affair. Tom and Daisy are discussing Gatsby's "old sport" expression, and Tom is Not happy. Daisy changes the subject to their own wedding in Louisville, which prompts Jordan to mention that someone fainted. Gatsby tells the narrator not to talk so much, and the narrator reflects on how Gatsby's happiness is based on an illusion. The passage describes the aftermath of Gatsby's death, with particular focus on Catherine, who is determined to prove her sister's innocence. Wilson is reduced to a man deranged by grief in order to keep the case simple. The passage ends with the narrator reflecting on his responsibility for Gatsby's death.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator, Nick, is reflecting on the events following Jay Gatsby's death. In particular, he focuses on Tom and Daisy's discussion of Gatsby's "old sport" expression, and how Daisy changing the subject to their own wedding in Louisville prompts Jordan to mention that someone fainted. Gatsby tells the narrator not to talk so much, and the narrator reflects on how Gatsby's happiness is based on an illusion. The passage also describes Catherine's determination to prove her sister's innocence, and how Wilson is reduced to a man deranged by grief. In the end, the narrator reflects on his responsibility for Gatsby's death.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: switchesonce I tumbled with a sort of splash upon the keys of a ghostly piano. There was an inexplicable amount of dust everywhere, and the rooms were musty, as though they hadnt been aired for many days. I found the humidor on an unfamiliar table, with two stale, dry cigarettes inside. Throwing open the French windows of the drawing-room, we sat smoking out into the darkness.  You ought to go away, I said. Its pretty certain theyll trace your car.  Go away now, old sport?  Go to Atlantic City for a week, or up to Montreal.  He wouldnt consider it. He couldnt possibly leave Daisy until he knew what she was going to do. He was clutching at some last hope and I couldnt bear to shake him free.  It was this night that he told me the strange story of his youth with Dan Codytold it to me because Jay Gatsby had broken up like glass against Toms hard malice, and the long secret extravaganza was played out. I think that he would have acknowledged anything now, without reserve, but he wanted to talk about Daisy.  She was the first nice girl he had ever known. In various unrevealed capacities he had come in contact with such people, but always with indiscernible barbed wire between. He found her excitingly desirable. He went to her house, at first with other officers from Camp Taylor, then alone. It amazed himhe had never been in such a beautiful house before. But what gave it an air of breathless intensity, was that Daisy lived thereit was as casual a thing to
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator tells the story of when he first met Gatsby and heard the story of his life. Gatsby was in love with a girl named Daisy, but she was already married. Gatsby was hoping she would leave her husband for him, but she never did.

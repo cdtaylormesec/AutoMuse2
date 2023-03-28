@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: it? He turned his eyes toward it absently. I have been glancing into some of the rooms. Lets go to Coney Island, old sport. In my car.  Its too late.  Well, suppose we take a plunge in the swimming pool? I havent made use of it all summer.  Ive got to go to bed.  All right.  He waited, looking at me with suppressed eagerness.  I talked with Miss Baker, I said after a moment. Im going to call up Daisy tomorrow and invite her over here to tea.  Oh, thats all right, he said carelessly. I dont want to put you to any trouble.  What day would suit you?  What day would suit you? he corrected me quickly. I dont want to put you to any trouble, you see.  How about the day after tomorrow?  He considered for a moment. Then, with reluctance: I want to get the grass cut, he said.  We both looked down at the grassthere was a sharp line where my ragged lawn ended and the darker, well-kept expanse of his began. I suspected that he meant my grass.  Theres another little thing, he said uncertainly, and hesitated.  Would you rather put it off for a few days? I asked.  Oh, it isnt about that. At least He fumbled with a series of beginnings. Why, I thoughtwhy, look here, old sport, you dont make much money, do you?  Not very much.  This seemed to reassure him and he continued more confidently.  I thought you didnt, if youll pardon myyou see, I carry on a little business on the side, a sort of side line, you understand. And I thought that if
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker and Gatsby are talking about going to Coney Island, but Gatsby says it's too late. The speaker then suggests going for a swim in Gatsby's pool, and Gatsby says he has to go to bed. The speaker then says he's going to call Daisy tomorrow and invite her over, and Gatsby says he doesn't want to put the speaker to any trouble. When the speaker asks what day would suit Gatsby, Gatsby says he wants to get the grass cut. The speaker then says there's something else Gatsby wants to tell him, but Gatsby says to put it off for a few days.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: times? Two or three times. Not five or six? Perhaps. Of what profession? Gentleman. Ever been kicked? Might have been. Frequently? No. Ever kicked downstairs? Decidedly not; once received a kick on the top of a staircase, and fell downstairs of his own accord. Kicked on that occasion for cheating at dice? Something to that effect was said by the intoxicated liar who committed the assault, but it was not true. Swear it was not true? Positively. Ever live by cheating at play? Never. Ever live by play? Not more than other gentlemen do. Ever borrow money of the prisoner? Yes. Ever pay him? No. Was not this intimacy with the prisoner, in reality a very slight one, forced upon the prisoner in coaches, inns, and packets? No. Sure he saw the prisoner with these lists? Certain. Knew no more about the lists? No. Had not procured them himself, for instance? No. Expect to get anything by this evidence? No. Not in regular government pay and employment, to lay traps? Oh dear no. Or to do anything? Oh dear no. Swear that? Over and over again. No motives but motives of sheer patriotism? None whatever.  The virtuous servant, Roger Cly, swore his way through the case at a great rate. He had taken service with the prisoner, in good faith and simplicity, four years ago. He had asked the prisoner, aboard the Calais packet, if he wanted a handy fellow, and the prisoner had engaged him. He had not asked the prisoner to take the handy fellow as an act of charity--never thought of such a thing. He
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Roger Cly, the virtuous servant, testifies that he had taken service with the prisoner four years ago and had never been cheated by him.

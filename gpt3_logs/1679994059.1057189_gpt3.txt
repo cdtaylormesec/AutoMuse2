@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: sake! cried Miss Pross, still wildly crying, record them at once, and get them out of the way, like an excellent man.  First, said Mr. Cruncher, who was all in a tremble, and who spoke with an ashy and solemn visage, them poor things well out o this, never no more will I do it, never no more!  I am quite sure, Mr. Cruncher, returned Miss Pross, that you never will do it again, whatever it is, and I beg you not to think it necessary to mention more particularly what it is.  No, miss, returned Jerry, it shall not be named to you. Second: them poor things well out o this, and never no more will I interfere with Mrs. Crunchers flopping, never no more!  Whatever housekeeping arrangement that may be, said Miss Pross, striving to dry her eyes and compose herself, I have no doubt it is best that Mrs. Cruncher should have it entirely under her own superintendence.--O my poor darlings!  I go so far as to say, miss, moreover, proceeded Mr. Cruncher, with a most alarming tendency to hold forth as from a pulpit--and let my words be took down and took to Mrs. Cruncher through yourself--that wot my opinions respectin flopping has undergone a change, and that wot I only hope with all my heart as Mrs. Cruncher may be a flopping at the present time.  There, there, there! I hope she is, my dear man, cried the distracted Miss Pross, and I hope she finds it answering her expectations.  Forbid it, proceeded Mr. Cruncher, with additional solemnity, additional
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes Mr. Cruncher's change of heart regarding "flopping" (presumably some kind of housekeeping arrangement), and his hope that his wife is currently "flopping." Miss Pross agrees and expresses her hope that Mrs. Cruncher is finding the arrangement satisfactory.

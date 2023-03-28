@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: executioners argument was, that you couldnt cut off a head unless there was a body to cut it off from: that he had never had to do such a thing before, and he wasnt going to begin at _his_ time of life.  The Kings argument was, that anything that had a head could be beheaded, and that you werent to talk nonsense.  The Queens argument was, that if something wasnt done about it in less than no time shed have everybody executed, all round. (It was this last remark that had made the whole party look so grave and anxious.)  Alice could think of nothing else to say but It belongs to the Duchess: youd better ask _her_ about it.  Shes in prison, the Queen said to the executioner: fetch her here. And the executioner went off like an arrow.  The Cats head began fading away the moment he was gone, and, by the time he had come back with the Duchess, it had entirely disappeared; so the King and the executioner ran wildly up and down looking for it, while the rest of the party went back to the game.     CHAPTER IX. The Mock Turtles Story   You cant think how glad I am to see you again, you dear old thing! said the Duchess, as she tucked her arm affectionately into Alices, and they walked off together.  Alice was very glad to find her in such a pleasant temper, and thought to herself that perhaps it was only the pepper that had made her so savage when they met in the kitchen.  When _Im_ a Duchess, she said to herself, (not in a very hopeful tone though), I wont
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The executioner and the King argue over whether or not the executioner can behead something without a body. The Queen threatens to execute everyone if something isn't done about it. Alice suggests they ask the Duchess, who is in prison. The executioner goes to fetch her, and the Cat's head disappears in the meantime. The King and the executioner search for the Cat's head, while the rest of the party goes back to the game. The Duchess is glad to see Alice again and Alice wonders if the Duchess was only savage before because she had pepper in her nose.

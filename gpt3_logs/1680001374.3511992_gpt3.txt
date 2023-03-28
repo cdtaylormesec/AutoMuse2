@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: form or phantom, to which the hand belonged, seemed closely seated by my bed-side. For what seemed ages piled on ages, I lay there, frozen with the most awful fears, not daring to drag away my hand; yet ever thinking that if I could but stir it one single inch, the horrid spell would be broken. I knew not how this consciousness at last glided away from me; but waking in the morning, I shudderingly remembered it all, and for days and weeks and months afterwards I lost myself in confounding attempts to explain the mystery. Nay, to this very hour, I often puzzle myself with it.  Now, take away the awful fear, and my sensations at feeling the supernatural hand in mine were very similar, in their strangeness, to those which I experienced on waking up and seeing Queequegs pagan arm thrown round me. But at length all the past nights events soberly recurred, one by one, in fixed reality, and then I lay only alive to the comical predicament. For though I tried to move his armunlock his bridegroom claspyet, sleeping as he was, he still hugged me tightly, as though naught but death should part us twain. I now strove to rouse himQueequeg!but his only answer was a snore. I then rolled over, my neck feeling as if it were in a horse-collar; and suddenly felt a slight scratch. Throwing aside the counterpane, there lay the tomahawk sleeping by the savages side, as if it were a hatchet-faced baby. A pretty pickle, truly, thought I; abed here in a strange house in the broad day, with a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man wakes up to find himself embraced by a sleeping stranger's arm. He tries unsuccessfully to escape the embrace, and eventually falls back asleep. He wakes up again to find the arm is still there, and this time he also finds a tomahawk lying next to the stranger.

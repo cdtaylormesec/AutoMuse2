@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: And what did she say?        That you were gone into the army, and she was afraid hadnot       turned out well. At such a distance as _that_, you know, things       are strangely misrepresented.        Certainly, he replied, biting his lips. Elizabeth hoped she had       silenced him; but he soon afterwards said:        I was surprised to see Darcy in town last month. We passed each       other several times. I wonder what he can be doing there.        Perhaps preparing for his marriage with Miss de Bourgh, said       Elizabeth. It must be something particular, to take him there at       this time of year.        Undoubtedly. Did you see him while you were at Lambton? I       thought I understood from the Gardiners that you had.        Yes; he introduced us to his sister.        And do you like her?        Very much.        I have heard, indeed, that she is uncommonly improved within       this year or two. When I last saw her, she was not very       promising. I am very glad you liked her. I hope she will turn out       well.        I dare say she will; she has got over the most trying age.        Did you go by the village of Kympton?        I do not recollect that we did.        I mention it, because it is the living which I ought to have       had. A most delightful place!Excellent Parsonage House! It would       have suited me in every respect.        How should you have liked making sermons?        Exceedingly well. I should have
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The person speaking is surprised that Darcy was recently in town, and speculates that he may be preparing for his marriage to Miss de Bourgh. Elizabeth says that she hopes Miss de Bourgh turns out well. The speaker then says that he would have liked the position of minister at the nearby village of Kympton.

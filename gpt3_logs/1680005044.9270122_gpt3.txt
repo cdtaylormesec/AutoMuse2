@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Young Jerry sees his father and two other fishermen sneak through a gate into a blind lane. He follows them and they all crouch down, perhaps listening for something. Mr. Lorry grows concerned when Dr. Manette falls silent and withdraws into himself, and does his best to engage the doctor in conversation. When this fails, he begins to worry that Dr. Manette is slipping back into madness. Time passes slowly, and Mr. Lorry's hope dwindles as the days go by. The passage describes a bride on her wedding day, with her father and bridesmaid. The bride is happy, but remembers her brother who should have been the groom. The passage describes a staircase in a old, crowded building in Paris. The staircase is filthy and dangerous, and the narrator notes that it would be difficult for someone to climb it. The passage describes Mr. Lorry's reaction to learning about the massacre of 11 hundred prisoners during the French Revolution. He is troubled by the news, but tries to remain positive and hopeful. The Marquis de Saint Evremonde asks his servant about the noise he hears outside, and the servant tells him it is his nephew, Charles Darnay. The Marquis tells the servant to tell Darnay that supper is ready and he is welcome. Darnay says he has come from London and the Marquis comments on how long it took him to arrive. The passage describes a conversation between the narrator and the judge. The judge asks about the events leading up to the prisoner's arrest, and the narrator describes how the prisoner came on board the ship and was kind to her father. The judge interrupts to ask if the prisoner was alone, and the narrator says that he was with two French gentlemen. The judge asks if they had been conferring together, and the narrator says that they had been until the last moment, when the French gentlemen had to be landed in their boat. The judge asks if any papers had been handed about among them, and the narrator says that some had been.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes Mr. Lorry's reaction to learning about the massacre of 11 hundred prisoners during the French Revolution. He is troubled by the news, but tries to remain positive and hopeful.

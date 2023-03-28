@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: himself only at anothers fireside, it truly seemed that this sagacious, experienced, benevolent old physician, with his concord of paternal and reverential love for the young pastor, was the very man, of all mankind, to be constantly within reach of his voice.  The new abode of the two friends was with a pious widow, of good social rank, who dwelt in a house covering pretty nearly the site on which the venerable structure of Kings Chapel has since been built. It had the graveyard, originally Isaac Johnsons home-field, on one side, and so was well adapted to call up serious reflections, suited to their respective employments, in both minister and man of physic. The motherly care of the good widow assigned to Mr. Dimmesdale a front apartment, with a sunny exposure, and heavy window-curtains, to create a noontide shadow, when desirable. The walls were hung round with tapestry, said to be from the Gobelin looms, and, at all events, representing the Scriptural story of David and Bathsheba, and Nathan the Prophet, in colors still unfaded, but which made the fair woman of the scene almost as grimly picturesque as the woe-denouncing seer. Here the pale clergyman piled up his library, rich with parchment-bound folios of the Fathers, and the lore of Rabbis, and monkish erudition, of which the Protestant divines, even while they vilified and decried that class of writers, were yet constrained often to avail themselves. On the other side of the house old Roger Chillingworth arranged
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the new home of two friends, a minister and a physician. The physician is said to be the perfect person to be always within reach of the minister's voice. The home is near a chapel and has a view of a graveyard, which is said to be conducive to serious reflections. The walls of the home are hung with tapestries depicting Biblical scenes. The minister has a library in his room, filled with books from various religious traditions.

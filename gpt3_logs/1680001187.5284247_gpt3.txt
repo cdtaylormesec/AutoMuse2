@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: be, chose to mortify itself, by putting on, for ceremonials of pomp and state, the garments that had been wrought by her sinful hands. Her needlework was seen on the ruff of the Governor; military men wore it on their scarfs, and the minister on his band; it decked the babys little cap; it was shut up, to be mildewed and moulder away, in the coffins of the dead. But it is not recorded that, in a single instance, her skill was called in aid to embroider the white veil which was to cover the pure blushes of a bride. The exception indicated the ever-relentless rigor with which society frowned upon her sin.  Hester sought not to acquire anything beyond a subsistence, of the plainest and most ascetic description, for herself, and a simple abundance for her child. Her own dress was of the coarsest materials and the most sombre hue; with only that one ornament,the scarlet letter,which it was her doom to wear. The childs attire, on the other hand, was distinguished by a fanciful, or, we might rather say, a fantastic ingenuity, which served, indeed, to heighten the airy charm that early began to develop itself in the little girl, but which appeared to have also a deeper meaning. We may speak further of it hereafter. Except for that small expenditure in the decoration of her infant, Hester bestowed all her superfluous means in charity, on wretches less miserable than herself, and who not unfrequently insulted the hand that fed them. Much of the time, which she might readily have
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Hester Prynne chose to wear the clothes she had made herself, even though she knew they would be seen as a sign of her sin. She also devoted her time and money to helping others, even though they often insulted her.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: tried to get her head down to them, and was delighted to find that her neck would bend about easily in any direction, like a serpent. She had just succeeded in curving it down into a graceful zigzag, and was going to dive in among the leaves, which she found to be nothing but the tops of the trees under which she had been wandering, when a sharp hiss made her draw back in a hurry: a large pigeon had flown into her face, and was beating her violently with its wings.  Serpent! screamed the Pigeon.  Im _not_ a serpent! said Alice indignantly. Let me alone!  Serpent, I say again! repeated the Pigeon, but in a more subdued tone, and added with a kind of sob, Ive tried every way, and nothing seems to suit them!  I havent the least idea what youre talking about, said Alice.  Ive tried the roots of trees, and Ive tried banks, and Ive tried hedges, the Pigeon went on, without attending to her; but those serpents! Theres no pleasing them!  Alice was more and more puzzled, but she thought there was no use in saying anything more till the Pigeon had finished.  As if it wasnt trouble enough hatching the eggs, said the Pigeon; but I must be on the look-out for serpents night and day! Why, I havent had a wink of sleep these three weeks!  Im very sorry youve been annoyed, said Alice, who was beginning to see its meaning.  And just as Id taken the highest tree in the wood, continued the Pigeon, raising its voice to a shriek, and just as I was thinking I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The pigeon is upset because Alice, who it thought was a serpent, was trying to eat its eggs. Alice is apologetic and confused, not knowing what the pigeon is talking about.

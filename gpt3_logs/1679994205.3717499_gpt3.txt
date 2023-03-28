@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: things were impossible. It seemed monstrous even to think of them. And, yet, there was the picture before him, with the touch of cruelty in the mouth.  Cruelty! Had he been cruel? It was the girls fault, not his. He had dreamed of her as a great artist, had given his love to her because he had thought her great. Then she had disappointed him. She had been shallow and unworthy. And, yet, a feeling of infinite regret came over him, as he thought of her lying at his feet sobbing like a little child. He remembered with what callousness he had watched her. Why had he been made like that? Why had such a soul been given to him? But he had suffered also. During the three terrible hours that the play had lasted, he had lived centuries of pain, aeon upon aeon of torture. His life was well worth hers. She had marred him for a moment, if he had wounded her for an age. Besides, women were better suited to bear sorrow than men. They lived on their emotions. They only thought of their emotions. When they took lovers, it was merely to have some one with whom they could have scenes. Lord Henry had told him that, and Lord Henry knew what women were. Why should he trouble about Sibyl Vane? She was nothing to him now.  But the picture? What was he to say of that? It held the secret of his life, and told his story. It had taught him to love his own beauty. Would it teach him to loathe his own soul? Would he ever look at it again?  No; it was merely an illusion wrought on the troubled senses. The
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage is about a man who is regretting his callousness towards a woman he used to love. He thinks about how she sobbed at his feet and how he watched her with callousness. He wonders why he was made like that and if his life is worth more than hers. He decides that the picture that reminds him of her is just an illusion and he will never look at it again.

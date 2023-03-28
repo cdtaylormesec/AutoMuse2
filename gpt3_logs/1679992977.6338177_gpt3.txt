@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: and gazed hollow-eyed at the car.  Lets have some gas! cried Tom roughly. What do you think we stopped forto admire the view?  Im sick, said Wilson without moving. Been sick all day.  Whats the matter?  Im all run down.  Well, shall I help myself? Tom demanded. You sounded well enough on the phone.  With an effort Wilson left the shade and support of the doorway and, breathing hard, unscrewed the cap of the tank. In the sunlight his face was green.  I didnt mean to interrupt your lunch, he said. But I need money pretty bad, and I was wondering what you were going to do with your old car.  How do you like this one? inquired Tom. I bought it last week.  Its a nice yellow one, said Wilson, as he strained at the handle.  Like to buy it?  Big chance, Wilson smiled faintly. No, but I could make some money on the other.  What do you want money for, all of a sudden?  Ive been here too long. I want to get away. My wife and I want to go West.  Your wife does, exclaimed Tom, startled.  Shes been talking about it for ten years. He rested for a moment against the pump, shading his eyes. And now shes going whether she wants to or not. Im going to get her away.  The coup flashed by us with a flurry of dust and the flash of a waving hand.  What do I owe you? demanded Tom harshly.  I just got wised up to something funny the last two days, remarked Wilson. Thats why I want to get away. Thats why I been bothering you about the car.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Tom and Wilson are talking about Wilson's car. Wilson is sick and needs money, so he asks Tom if he wants to buy the car. Tom buys the car and gives Wilson some money.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Thanks, Basil, answered Dorian Gray, pressing his hand. I knew that you would understand me. Harry is so cynical, he terrifies me. But here is the orchestra. It is quite dreadful, but it only lasts for about five minutes. Then the curtain rises, and you will see the girl to whom I am going to give all my life, to whom I have given everything that is good in me.  A quarter of an hour afterwards, amidst an extraordinary turmoil of applause, Sibyl Vane stepped on to the stage. Yes, she was certainly lovely to look atone of the loveliest creatures, Lord Henry thought, that he had ever seen. There was something of the fawn in her shy grace and startled eyes. A faint blush, like the shadow of a rose in a mirror of silver, came to her cheeks as she glanced at the crowded enthusiastic house. She stepped back a few paces and her lips seemed to tremble. Basil Hallward leaped to his feet and began to applaud. Motionless, and as one in a dream, sat Dorian Gray, gazing at her. Lord Henry peered through his glasses, murmuring, Charming! charming!  The scene was the hall of Capulets house, and Romeo in his pilgrims dress had entered with Mercutio and his other friends. The band, such as it was, struck up a few bars of music, and the dance began. Through the crowd of ungainly, shabbily dressed actors, Sibyl Vane moved like a creature from a finer world. Her body swayed, while she danced, as a plant sways in the water. The curves of her throat were the curves of a white lily. Her
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Dorian Gray is at the theater, waiting for the curtain to rise on a play starring the woman he loves, Sibyl Vane. He is nervous, because his friend Harry is very cynical and Dorian is afraid that he will ruin the evening. However, when Sibyl comes on stage, she is so beautiful that Dorian is entranced. The audience loves her, and she seems to float across the stage like a creature from another world.

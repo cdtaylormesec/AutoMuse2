@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the French Revolution and the horrific punishments that were handed out during that time. It also tells the story of a man who sees a ghost, which turns out to be a figment of his imagination. Finally, the passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news. The passage describes a scene in which a rider delivers a message to a guard, who then reads it aloud. The message is simply "Recalled to Life," but the guard is surprised by it. The rider then leaves, and the other passengers pretend to be asleep. Mr. Lorry sees a likeness of a child he once held on a ship during a storm in a hospital procession of negro cupids and is disturbed. He then sits down with Miss Manette. The passage describes the Dover road in England in the year 1775. The road is full of criminals and dead bodies, and the narrator refers to the people who travel on it as "the creatures of this chronicle." The passage describes the aftermath of a wine spill in a poor Parisian suburb. The wine has stained the ground and many people's hands and clothes. The passage foreshadows the future spilling of blood in the same area. This passage describes the lawlessness and violence that were commonplace in England at the time. The passage describes a street full of poverty and despair, where even the trade signs are grim. The people are hunched over, and seem ready to attack. The only things that are flourishing are the tools of violence. A man tells a story about one of his customers, a French gentleman from Beauvais.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the violence and lawlessness that were commonplace in England during the time of the French Revolution. It also tells the story of a man who sees a ghost, which turns out to be a figment of his imagination. Finally, the passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news.

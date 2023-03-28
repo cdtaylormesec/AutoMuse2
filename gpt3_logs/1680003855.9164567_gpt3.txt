@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: suit and patent leather shoes, and I couldnt keep my eyes off him, but every time he looked at me I had to pretend to be looking at the advertisement over his head. When we came into the station he was next to me, and his white shirtfront pressed against my arm, and so I told him Id have to call a policeman, but he knew I lied. I was so excited that when I got into a taxi with him I didnt hardly know I wasnt getting into a subway train. All I kept thinking about, over and over, was You cant live forever; you cant live forever.  She turned to Mrs. McKee and the room rang full of her artificial laughter.  My dear, she cried, Im going to give you this dress as soon as Im through with it. Ive got to get another one tomorrow. Im going to make a list of all the things Ive got to get. A massage and a wave, and a collar for the dog, and one of those cute little ashtrays where you touch a spring, and a wreath with a black silk bow for mothers grave thatll last all summer. I got to write down a list so I wont forget all the things I got to do.  It was nine oclockalmost immediately afterward I looked at my watch and found it was ten. Mr. McKee was asleep on a chair with his fists clenched in his lap, like a photograph of a man of action. Taking out my handkerchief I wiped from his cheek the spot of dried lather that had worried me all the afternoon.  The little dog was sitting on the table looking with blind eyes through the smoke, and from time to time groaning
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A woman is telling a story about a man she met on the subway. She was attracted to him, but he made her uncomfortable. She got into a taxi with him, but realized she didn't know him well enough. She went home with him anyway and they had a good time.

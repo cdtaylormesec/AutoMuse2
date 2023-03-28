@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: lady waited, who wished to see me.          *****  I am growing more and more unequal to the task I have set myself. It is so cold, so dark, my senses are so benumbed, and the gloom upon me is so dreadful.  The lady was young, engaging, and handsome, but not marked for long life. She was in great agitation. She presented herself to me as the wife of the Marquis St. Evrmonde. I connected the title by which the boy had addressed the elder brother, with the initial letter embroidered on the scarf, and had no difficulty in arriving at the conclusion that I had seen that nobleman very lately.  My memory is still accurate, but I cannot write the words of our conversation. I suspect that I am watched more closely than I was, and I know not at what times I may be watched. She had in part suspected, and in part discovered, the main facts of the cruel story, of her husbands share in it, and my being resorted to. She did not know that the girl was dead. Her hope had been, she said in great distress, to show her, in secret, a womans sympathy. Her hope had been to avert the wrath of Heaven from a House that had long been hateful to the suffering many.  She had reasons for believing that there was a young sister living, and her greatest desire was, to help that sister. I could tell her nothing but that there was such a sister; beyond that, I knew nothing. Her inducement to come to me, relying on my confidence, had been the hope that I could tell her the name and place of abode.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a meeting between the narrator and a woman who turns out to be the Marquis St. Evrmonde's wife. The woman is very upset and tells the narrator that she hopes to find and help her husband's younger sister. The narrator can only tell her that such a sister exists, but nothing more.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: mans head drops off is seldom or never, I am inclined to think, precisely the most agreeable of his life. Nevertheless, like the greater part of our misfortunes, even so serious a contingency brings its remedy and consolation with it, if the sufferer will but make the best, rather than the worst, of the accident which has befallen him. In my particular case, the consolatory topics were close at hand, and, indeed, had suggested themselves to my meditations a considerable time before it was requisite to use them. In view of my previous weariness of office, and vague thoughts of resignation, my fortune somewhat resembled that of a person who should entertain an idea of committing suicide, and, although beyond his hopes, meet with the good hap to be murdered. In the Custom-House, as before in the Old Manse, I had spent three years; a term long enough to rest a weary brain; long enough to break off old intellectual habits, and make room for new ones; long enough, and too long, to have lived in an unnatural state, doing what was really of no advantage nor delight to any human being, and withholding myself from toil that would, at least, have stilled an unquiet impulse in me. Then, moreover, as regarded his unceremonious ejectment, the late Surveyor was not altogether ill-pleased to be recognized by the Whigs as an enemy; since his inactivity in political affairshis tendency to roam, at will, in that broad and quiet field where all mankind may meet, rather than confine himself to
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator is a man who has recently lost his job, and he is reflecting on how this event is not entirely negative. He notes that it gives him an opportunity to rest and to pursue new interests. He also suggests that his political enemies may view his unemployment as a good thing.

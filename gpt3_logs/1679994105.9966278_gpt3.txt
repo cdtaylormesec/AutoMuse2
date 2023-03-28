@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: destined never to be realizedcontains far more space than its occupants know what to do with. This airy hall, therefore, over the Collectors apartments, remains unfinished to this day, and, in spite of the aged cobwebs that festoon its dusky beams, appears still to await the labor of the carpenter and mason. At one end of the room, in a recess, were a number of barrels, piled one upon another, containing bundles of official documents. Large quantities of similar rubbish lay lumbering the floor. It was sorrowful to think how many days and weeks and months and years of toil had been wasted on these musty papers, which were now only an encumbrance on earth, and were hidden away in this forgotten corner, never more to be glanced at by human eyes. But, then, what reams of other manuscriptsfilled not with the dulness of official formalities, but with the thought of inventive brains and the rich effusion of deep heartshad gone equally to oblivion; and that, moreover, without serving a purpose in their day, as these heaped-up papers had, andsaddest of allwithout purchasing for their writers the comfortable livelihood which the clerks of the Custom-House had gained by these worthless scratchings of the pen! Yet not altogether worthless, perhaps, as materials of local history. Here, no doubt, statistics of the former commerce of Salem might be discovered, and memorials of her princely merchants,old King Derby, old Billy Gray, old Simon Forrester, and many another magnate in his
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a room in the Salem Custom House which is full of old, unused documents. The author reflects on how much time and effort went into creating these documents, which are now just taking up space. Even though they are no longer useful, the author suggests that they could be interesting to future historians as a record of the city's past.

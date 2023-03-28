@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution, as well as the dangers of displeasing the Army of the Republic in France during that time. The story also tells of a man who sees a ghost, which turns out to be a figment of his imagination. Finally, the passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news. The passage describes the French Revolution, during which many people were sentenced to brutal punishments for relatively minor offenses. It notes that even though the events of the Revolution were horrific, they were ultimately overseen by forces of nature that are indifferent to human suffering. A figure scolds the inn servants for not fetching things and orders them to bring smelling-salts, cold water, and vinegar. The figure tenderly cares for the patient, calling her "my precious" and "my bird." The figure is angry with Mr. Lorry, accusing him of frightening the patient. This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. A Tale of Two Cities is a story of the French Revolution by Charles Dickens. A man arrives at Tellsons Bank in London and asks for accommodation to be prepared for a young lady who may arrive at any time during the day. The passage is about a man who sees a spectre that tells him he is dead and has been for eighteen years. The man tries to dig the spectre out, but whenever he does, it turns to dust. The man then wakes up from his dream and realizes he is still alive.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the French Revolution and the horrific punishments that were handed out during that time. It also tells the story of a man who sees a ghost, which turns out to be a figment of his imagination. Finally, the passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news.

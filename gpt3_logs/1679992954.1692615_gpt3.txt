@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: house, appended Jordan, because we lived just two doors from the church. And he stayed three weeks, until Daddy told him he had to get out. The day after he left Daddy died.  After a moment she added. There wasnt any connection.  I used to know a Bill Biloxi from Memphis, I remarked.  That was his cousin. I knew his whole family history before he left. He gave me an aluminium putter that I use today.  The music had died down as the ceremony began and now a long cheer floated in at the window, followed by intermittent cries of Yeaeaea! and finally by a burst of jazz as the dancing began.  Were getting old, said Daisy. If we were young wed rise and dance.  Remember Biloxi, Jordan warned her. Whered you know him, Tom?  Biloxi? He concentrated with an effort. I didnt know him. He was a friend of Daisys.  He was not, she denied. Id never seen him before. He came down in the private car.  Well, he said he knew you. He said he was raised in Louisville. Asa Bird brought him around at the last minute and asked if we had room for him.  Jordan smiled.  He was probably bumming his way home. He told me he was president of your class at Yale.  Tom and I looked at each other blankly.  Biloxi?  First place, we didnt have any president  Gatsbys foot beat a short, restless tattoo and Tom eyed him suddenly.  By the way, Mr. Gatsby, I understand youre an Oxford man.  Not exactly.  Oh, yes, I understand you went to Oxford.  YesI went there.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a meeting between Tom and Jordan, who discuss a man they both knew named Biloxi. Tom reveals that Biloxi was from Louisville, and Jordan says that he was probably just "bumming his way home." The passage ends with Gatsby revealing that he, too, went to Oxford.

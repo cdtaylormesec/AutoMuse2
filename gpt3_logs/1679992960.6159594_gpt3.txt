@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Dont talk so much, old sport, commanded Gatsby. Play!   In the morning, In the evening, Aint we got fun  Outside the wind was loud and there was a faint flow of thunder along the Sound. All the lights were going on in West Egg now; the electric trains, men-carrying, were plunging home through the rain from New York. It was the hour of a profound human change, and excitement was generating on the air.   One things sure and nothings surer The rich get richer and the  poor getchildren. In the meantime, In between time  As I went over to say goodbye I saw that the expression of bewilderment had come back into Gatsbys face, as though a faint doubt had occurred to him as to the quality of his present happiness. Almost five years! There must have been moments even that afternoon when Daisy tumbled short of his dreamsnot through her own fault, but because of the colossal vitality of his illusion. It had gone beyond her, beyond everything. He had thrown himself into it with a creative passion, adding to it all the time, decking it out with every bright feather that drifted his way. No amount of fire or freshness can challenge what a man can store up in his ghostly heart.  As I watched him he adjusted himself a little, visibly. His hand took hold of hers, and as she said something low in his ear he turned toward her with a rush of emotion. I think that voice held him most, with its fluctuating, feverish warmth, because it couldnt be over-dreamedthat voice was a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+In the passage, Gatsby tells the narrator not to talk so much, and the narrator reflects on Gatsby's happiness. The passage ends with the Gatsby and Daisy looking happy together.

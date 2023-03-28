@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage discusses the reaction of Mr. Lorry, a British man, to learning about the massacre of 11 hundred prisoners during the French Revolution. Lorry is troubled by the news, but tries to remain positive and hopeful. Mr. Lorry and Monseigneur, a powerful lord at Court, discuss the upcoming revolution in France. Mr. Lorry admires the youthfulness and gallantry of the revolutionaries, while Monseigneur talks about how he will take revenge on them. The passage describes a man who has followed another man into a wine shop, and deduced from his conversation and the rumors going around about him that he is a spy. He then offers to explain his purpose for doing so in more detail at the man's office, and the man agrees. The passage describes a daughter's love for her father, and how this love is stronger and more pure than any other love. The father is moved by this declaration, and the speaker says that he has refrained from expressing his own love for the daughter because he does not want to tarnish the purity of her love. The passage describes a doctor's experience treating a patient with a mental illness. The patient is extremely agitated and cries out regularly. The doctor's presence seems to have a calming effect on the patient. The doctor is then informed of another patient in the house and goes to check on them. Roger Cly, the virtuous servant, testifies that he had taken service with the prisoner four years ago and had never been cheated by him. Carton is a disappointed drudge who doesn't care for anyone and doesn't think anyone cares for him. He tells Darnay that he might have used his talents better, but Darnay doesn't know what he's capable of. Carton then proceeds to get drunk and fall asleep at the table.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Mr. Lorry is a British man who is troubled by the news of the massacre of 11 hundred prisoners during the French Revolution, but tries to remain positive and hopeful. He and Monseigneur, a powerful lord at Court, discuss the upcoming revolution in France. Mr. Lorry admires the youthfulness and gallantry of the revolutionaries, while Monseigneur talks about how he will take revenge on them. The passage also describes a doctor's experience treating a patient with a mental illness. The patient is extremely agitated and cries out regularly. The doctor's presence seems to have a calming effect on the patient.

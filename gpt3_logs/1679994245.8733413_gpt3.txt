@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Stubb knows him best of all, and Stubb always says hes queer; says nothing but that one sufficient little word queer; hes queer, says Stubb; hes queerqueer, queer; and keeps dinning it into Mr. Starbuck all the timequeersirqueer, queer, very queer. And heres his leg! Yes, now that I think of it, heres his bedfellow! has a stick of whales jaw-bone for a wife! And this is his leg; hell stand on this. What was that now about one leg standing in three places, and all three places standing in one hellhow was that? Oh! I dont wonder he looked so scornful at me! Im a sort of strange-thoughted sometimes, they say; but thats only haphazard-like. Then, a short, little old body like me, should never undertake to wade out into deep waters with tall, heron-built captains; the water chucks you under the chin pretty quick, and theres a great cry for life-boats. And heres the herons leg! long and slim, sure enough! Now, for most folks one pair of legs lasts a lifetime, and that must be because they use them mercifully, as a tender-hearted old lady uses her roly-poly old coach-horses. But Ahab; oh hes a hard driver. Look, driven one leg to death, and spavined the other for life, and now wears out bone legs by the cord. Halloa, there, you Smut! bear a hand there with those screws, and lets finish it before the resurrection fellow comes a-calling with his horn for all legs, true or false, as brewery-men go round collecting old beer barrels, to fill em up again. What a leg
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage from "Moby-Dick" describes the Captain Ahab's prosthetic leg, made from whale bone. Stubb, a crew member, says that Ahab is "queer" and that he doesn't understand why he would want to make a leg out of whale bone.

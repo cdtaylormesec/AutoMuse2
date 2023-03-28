@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the weak. That is all that can be said for them. They are simply cheques that men draw on a bank where they have no account.  Harry, cried Dorian Gray, coming over and sitting down beside him, why is it that I cannot feel this tragedy as much as I want to? I dont think I am heartless. Do you?  You have done too many foolish things during the last fortnight to be entitled to give yourself that name, Dorian, answered Lord Henry with his sweet melancholy smile.  The lad frowned. I dont like that explanation, Harry, he rejoined, but I am glad you dont think I am heartless. I am nothing of the kind. I know I am not. And yet I must admit that this thing that has happened does not affect me as it should. It seems to me to be simply like a wonderful ending to a wonderful play. It has all the terrible beauty of a Greek tragedy, a tragedy in which I took a great part, but by which I have not been wounded.  It is an interesting question, said Lord Henry, who found an exquisite pleasure in playing on the lads unconscious egotism, an extremely interesting question. I fancy that the true explanation is this: It often happens that the real tragedies of life occur in such an inartistic manner that they hurt us by their crude violence, their absolute incoherence, their absurd want of meaning, their entire lack of style. They affect us just as vulgarity affects us. They give us an impression of sheer brute force, and we revolt against that. Sometimes, however, a tragedy that
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the difference between tragedies that affect us deeply and those that don't. The author suggests that sometimes the tragedies that have the most impact are those that are crude and incoherent, because they remind us of the violence and chaos of real life.

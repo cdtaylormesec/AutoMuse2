@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to come to his funeral this afternoon.  Id like to come.  Well, come then.  The hair in his nostrils quivered slightly, and as he shook his head his eyes filled with tears.  I cant do itI cant get mixed up in it, he said.  Theres nothing to get mixed up in. Its all over now.  When a man gets killed I never like to get mixed up in it in any way. I keep out. When I was a young man it was differentif a friend of mine died, no matter how, I stuck with them to the end. You may think thats sentimental, but I mean itto the bitter end.  I saw that for some reason of his own he was determined not to come, so I stood up.  Are you a college man? he inquired suddenly.  For a moment I thought he was going to suggest a gonnegtion, but he only nodded and shook my hand.  Let us learn to show our friendship for a man when he is alive and not after he is dead, he suggested. After that my own rule is to let everything alone.  When I left his office the sky had turned dark and I got back to West Egg in a drizzle. After changing my clothes I went next door and found Mr. Gatz walking up and down excitedly in the hall. His pride in his son and in his sons possessions was continually increasing and now he had something to show me.  Jimmy sent me this picture. He took out his wallet with trembling fingers. Look there.  It was a photograph of the house, cracked in the corners and dirty with many hands. He pointed out every detail to me eagerly. Look there! and then
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The protagonist visits a friend who has recently lost a loved one. The friend is reluctant to attend the funeral, but the protagonist encourages him to go. The friend then tells the protagonist about his own policy of not getting involved in the affairs of others, and the two men part ways.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: there was little or no order of procedure, ensuring to any accused person any reasonable hearing. There could have been no such Revolution, if all laws, forms, and ceremonies, had not first been so monstrously abused, that the suicidal vengeance of the Revolution was to scatter them all to the winds.  Every eye was turned to the jury. The same determined patriots and good republicans as yesterday and the day before, and to-morrow and the day after. Eager and prominent among them, one man with a craving face, and his fingers perpetually hovering about his lips, whose appearance gave great satisfaction to the spectators. A life-thirsting, cannibal-looking, bloody-minded juryman, the Jacques Three of St. Antoine. The whole jury, as a jury of dogs empannelled to try the deer.  Every eye then turned to the five judges and the public prosecutor. No favourable leaning in that quarter to-day. A fell, uncompromising, murderous business-meaning there. Every eye then sought some other eye in the crowd, and gleamed at it approvingly; and heads nodded at one another, before bending forward with a strained attention.  Charles Evrmonde, called Darnay. Released yesterday. Reaccused and retaken yesterday. Indictment delivered to him last night. Suspected and Denounced enemy of the Republic, Aristocrat, one of a family of tyrants, one of a race proscribed, for that they had used their abolished privileges to the infamous oppression of the people. Charles Evrmonde, called Darnay, in right of
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+There was no procedure in place to ensure that accused persons received a reasonable hearing. The Revolution was a result of the abuse of laws, forms, and ceremonies. The jury was made up of determined patriots who were eager to convict the accused. Charles Evrmonde was accused of being an enemy of the Republic and was taken into custody.

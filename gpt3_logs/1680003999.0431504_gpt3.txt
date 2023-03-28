@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: he kept shifting from one foot to the other, looking uneasily at the Queen, and in his confusion he bit a large piece out of his teacup instead of the bread-and-butter.  Just at this moment Alice felt a very curious sensation, which puzzled her a good deal until she made out what it was: she was beginning to grow larger again, and she thought at first she would get up and leave the court; but on second thoughts she decided to remain where she was as long as there was room for her.  I wish you wouldnt squeeze so. said the Dormouse, who was sitting next to her. I can hardly breathe.  I cant help it, said Alice very meekly: Im growing.  Youve no right to grow _here_, said the Dormouse.  Dont talk nonsense, said Alice more boldly: you know youre growing too.  Yes, but _I_ grow at a reasonable pace, said the Dormouse: not in that ridiculous fashion. And he got up very sulkily and crossed over to the other side of the court.  All this time the Queen had never left off staring at the Hatter, and, just as the Dormouse crossed the court, she said to one of the officers of the court, Bring me the list of the singers in the last concert! on which the wretched Hatter trembled so, that he shook both his shoes off.  Give your evidence, the King repeated angrily, or Ill have you executed, whether youre nervous or not.  Im a poor man, your Majesty, the Hatter began, in a trembling voice, and I hadnt begun my teanot above a week or soand what with the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Hatter is on trial, and he is very nervous. He accidentally bites a piece out of his teacup, and Alice begins to grow again. The Dormouse tells her to stop growing, and the Hatter is called to give his evidence.

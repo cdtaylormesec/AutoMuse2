@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Mr. Lorry is a British man who is troubled by the news of the massacre of 11 hundred prisoners during the French Revolution, but tries to remain positive and hopeful. He and Monseigneur, a powerful lord at Court, discuss the upcoming revolution in France. Mr. Lorry admires the youthfulness and gallantry of the revolutionaries, while Monseigneur talks about how he will take revenge on them. The passage also describes a doctor's experience treating a patient with a mental illness. The patient is extremely agitated and cries out regularly. The doctor's presence seems to have a calming effect on the patient. The passage describes a group of women who are mourning the death of a man named Foulon. They are so angry and upset that they are attacking and even killing other people. A woman of great beauty and youth is bound and gagged in a high fever of the brain, crying out for her husband, father, and brother. The scarf around her mouth has the armorial bearings of a Noble and the letter E. This passage describes a corner in Soho that is cool and shady, with a church-like atmosphere. There is a building in the back where church organs are made, and silver and gold are beaten by a mysterious giant. Very little of these trades is ever seen or heard. A group of people are playing a wine game in a Paris suburb when the wine is suddenly spilled. The game quickly ends and everyone goes back to their tasks, leaving a red stain on the ground. Young Jerry is pursued by a coffin throughout the night, which only disappears when he wakes up to find his father in the room with him.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution. Mr. Lorry tries to remain positive, while Monseigneur talks about how he will take revenge on the revolutionaries. The passage also describes a doctor's experience treating a patient with a mental illness and a group of women who are mourning the death of a man named Foulon. A corner in Soho is described, where church organs are made, and a group of people are playing a wine game in a Paris suburb when the wine is suddenly spilled. Young Jerry is pursued by a coffin throughout the night.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution, as well as the dangers of displeasing the Army of the Republic in France during that time. It also tells the story of a man who sees a ghost, which turns out to be a figment of his imagination. The passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news. The daughter is shocked and disbelieved, and Mr. Lorry tries to comfort her. He tells her that her father has been found under a different name. The speaker is Mr. Lorry, an employee of Tellsons Bank. He is telling Miss Manette, the daughter of a former client of the bank, about her father's death. Mr. Lorry describes his own daily routine and explains that he has no time for emotions. He then tells Miss Manette that her father's death was not his fault. The horses are struggling to pull the coach up a hill in the thick mud, and the driver is having difficulty keeping them moving forward. The passenger is nervous and the mist is making the situation worse. A passenger named Mr. Jarvis Lorry is stopped by a guard who has a message for him. The guard is suspicious of Lorry and tells him to come closer slowly. Lorry complies and the guard tells him he has a message from T. and Co. Mr. Lorry is waiting in a coffee-room for his dinner, and he is thinking about the recent events in his life. He hears a rattling of wheels outside, and he knows that it is Mamselle, the Frenchwoman he has been helping.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution, as well as the dangers of displeasing the Army of the Republic in France during that time. The story also tells of a man who sees a ghost, which turns out to be a figment of his imagination. Finally, the passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news.

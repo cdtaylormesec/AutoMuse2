@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: sure; but I _think_ I can kick a little!  She drew her foot as far down the chimney as she could, and waited till she heard a little animal (she couldnt guess of what sort it was) scratching and scrambling about in the chimney close above her: then, saying to herself This is Bill, she gave one sharp kick, and waited to see what would happen next.  The first thing she heard was a general chorus of There goes Bill! then the Rabbits voice alongCatch him, you by the hedge! then silence, and then another confusion of voicesHold up his headBrandy nowDont choke himHow was it, old fellow? What happened to you? Tell us all about it!  Last came a little feeble, squeaking voice, (Thats Bill, thought Alice,) Well, I hardly knowNo more, thank ye; Im better nowbut Im a deal too flustered to tell youall I know is, something comes at me like a Jack-in-the-box, and up I goes like a sky-rocket!  So you did, old fellow! said the others.  We must burn the house down! said the Rabbits voice; and Alice called out as loud as she could, If you do, Ill set Dinah at you!  There was a dead silence instantly, and Alice thought to herself, I wonder what they _will_ do next! If they had any sense, theyd take the roof off. After a minute or two, they began moving about again, and Alice heard the Rabbit say, A barrowful will do, to begin with.  A barrowful of _what?_ thought Alice; but she had not long to doubt, for the next moment a shower of little pebbles came
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice hears an animal in the chimney and kicks it, thinking it's a rat. It turns out to be a rabbit, and all the other animals start talking. They decide to burn the house down, and Alice threatens to set the cat on them. They get quiet again, and Alice wonders what they'll do next.

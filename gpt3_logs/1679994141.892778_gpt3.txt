@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: began my eyes fell on Gatsby, standing alone on the marble steps and looking from one group to another with approving eyes. His tanned skin was drawn attractively tight on his face and his short hair looked as though it were trimmed every day. I could see nothing sinister about him. I wondered if the fact that he was not drinking helped to set him off from his guests, for it seemed to me that he grew more correct as the fraternal hilarity increased. When the Jazz History of the World was over, girls were putting their heads on mens shoulders in a puppyish, convivial way, girls were swooning backward playfully into mens arms, even into groups, knowing that someone would arrest their fallsbut no one swooned backward on Gatsby, and no French bob touched Gatsbys shoulder, and no singing quartets were formed with Gatsbys head for one link.  I beg your pardon.  Gatsbys butler was suddenly standing beside us.  Miss Baker? he inquired. I beg your pardon, but Mr. Gatsby would like to speak to you alone.  With me? she exclaimed in surprise.  Yes, madame.  She got up slowly, raising her eyebrows at me in astonishment, and followed the butler toward the house. I noticed that she wore her evening-dress, all her dresses, like sports clothesthere was a jauntiness about her movements as if she had first learned to walk upon golf courses on clean, crisp mornings.  I was alone and it was almost two. For some time confused and intriguing sounds had issued from a long, many-
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes Gatsby and his guests at a party. The author notes that Gatsby seems out of place among the other guests, who are all drinking and enjoying themselves. Suddenly, Gatsby's butler interrupts and tells the author that Gatsby would like to speak to her alone. The author is surprised, but goes with the butler. She notes that Gatsby's guest, Miss Baker, is wearing her evening dress like it is a sports outfit. The author is left alone and it is almost two in the morning.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: have any pepper in my kitchen _at all_. Soup does very well withoutMaybe its always pepper that makes people hot-tempered, she went on, very much pleased at having found out a new kind of rule, and vinegar that makes them sourand camomile that makes them bitterandand barley-sugar and such things that make children sweet-tempered. I only wish people knew _that_: then they wouldnt be so stingy about it, you know  She had quite forgotten the Duchess by this time, and was a little startled when she heard her voice close to her ear. Youre thinking about something, my dear, and that makes you forget to talk. I cant tell you just now what the moral of that is, but I shall remember it in a bit.  Perhaps it hasnt one, Alice ventured to remark.  Tut, tut, child! said the Duchess. Everythings got a moral, if only you can find it. And she squeezed herself up closer to Alices side as she spoke.  Alice did not much like keeping so close to her: first, because the Duchess was _very_ ugly; and secondly, because she was exactly the right height to rest her chin upon Alices shoulder, and it was an uncomfortably sharp chin. However, she did not like to be rude, so she bore it as well as she could.  The games going on rather better now, she said, by way of keeping up the conversation a little.  Tis so, said the Duchess: and the moral of that isOh, tis love, tis love, that makes the world go round!  Somebody said, Alice whispered, that its done by
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice is talking to the Duchess about how pepper can make people hot-tempered, and how vinegar can make them sour. The Duchess says that everything has a moral, and the moral of that is love.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Henry languidly. You must certainly send it next year to the Grosvenor. The Academy is too large and too vulgar. Whenever I have gone there, there have been either so many people that I have not been able to see the pictures, which was dreadful, or so many pictures that I have not been able to see the people, which was worse. The Grosvenor is really the only place.  I dont think I shall send it anywhere, he answered, tossing his head back in that odd way that used to make his friends laugh at him at Oxford. No, I wont send it anywhere.  Lord Henry elevated his eyebrows and looked at him in amazement through the thin blue wreaths of smoke that curled up in such fanciful whorls from his heavy, opium-tainted cigarette. Not send it anywhere? My dear fellow, why? Have you any reason? What odd chaps you painters are! You do anything in the world to gain a reputation. As soon as you have one, you seem to want to throw it away. It is silly of you, for there is only one thing in the world worse than being talked about, and that is not being talked about. A portrait like this would set you far above all the young men in England, and make the old men quite jealous, if old men are ever capable of any emotion.  I know you will laugh at me, he replied, but I really cant exhibit it. I have put too much of myself into it.  Lord Henry stretched himself out on the divan and laughed.  Yes, I knew you would; but it is quite true, all the same.  Too much of yourself in it! Upon
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Henry tells Lord Henry that he does not want to exhibit his latest painting because it is too personal, and Lord Henry laughs.

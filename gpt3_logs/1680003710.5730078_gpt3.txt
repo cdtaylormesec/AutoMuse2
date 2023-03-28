@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: with the affection and duty of a daughter who has become a woman, there is, in her heart, towards you, all the love and reliance of infancy itself. I know that, as in her childhood she had no parent, so she is now devoted to you with all the constancy and fervour of her present years and character, united to the trustfulness and attachment of the early days in which you were lost to her. I know perfectly well that if you had been restored to her from the world beyond this life, you could hardly be invested, in her sight, with a more sacred character than that in which you are always with her. I know that when she is clinging to you, the hands of baby, girl, and woman, all in one, are round your neck. I know that in loving you she sees and loves her mother at her own age, sees and loves you at my age, loves her mother broken-hearted, loves you through your dreadful trial and in your blessed restoration. I have known this, night and day, since I have known you in your home.  Her father sat silent, with his face bent down. His breathing was a little quickened; but he repressed all other signs of agitation.  Dear Doctor Manette, always knowing this, always seeing her and you with this hallowed light about you, I have forborne, and forborne, as long as it was in the nature of man to do it. I have felt, and do even now feel, that to bring my love--even mine--between you, is to touch your history with something not quite so good as itself. But I love her. Heaven is my witness that
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a daughter's love for her father, and how this love is stronger and more pure than any other love. The father is moved by this declaration, and the speaker says that he has refrained from expressing his own love for the daughter because he does not want to tarnish the purity of her love.

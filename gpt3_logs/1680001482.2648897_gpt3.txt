@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage explains how to produce new eBooks and subscribe to our email newsletter to hear about new releases.

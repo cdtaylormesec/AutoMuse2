@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution. Mr. Lorry tries to remain positive, while Monseigneur talks about how he will take revenge on the revolutionaries. The passage also describes a doctor's experience treating a patient with a mental illness and a group of women who are mourning the death of a man named Foulon. A corner in Soho is described, where church organs are made, and a group of people are playing a wine game in a Paris suburb when the wine is suddenly spilled. Young Jerry is pursued by a coffin throughout the night. A man known as Defarge is described as the keeper of a wine-shop in the Saint Antoine suburb. It is not difficult to find his house. Carton dines at a place of refreshment and falls asleep. He wakes up refreshed and goes to Defarge's shop. There is no customer in the shop but Jacques Three. Carton orders a small measure of wine. Madame Defarge casts a careless glance at him. Monseigneur was a nobleman who believed that the world was made for his pleasure. He was out at a supper last night and was waited on by only three men. This made him realize that he had allied himself with a Farmer-General, who was not able to make anything of Monseigneur's finances. The passage describes the relationship between Dr. Manette and his daughter, Lucie. Dr. Manette is grateful to Darnay for his selfless love for Lucie. A man and a woman who are both prisoners discuss the woman's impending execution. The woman is happy to die for the Republic, and the man is touched by her innocence. They hold hands and the man tells her that he is also going to die for the Republic.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution. Mr. Lorry tries to remain positive, while Monseigneur talks about how he will take revenge on the revolutionaries. The passage also describes a doctor's experience treating a patient with a mental illness and a group of women who are mourning the death of a man named Foulon.

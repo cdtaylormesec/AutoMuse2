@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Rosy Rosenthal is shot and killed, and Tom and Wilson are talking about selling Tom's car. Wilson is sick and needs money, so he and his wife want to move West. The man from Minnesota who arrives in town after receiving a telegram that Mr. Gatsby has died is revealed to be Gatsby's father. The passage also describes a person's rare encounter with a smile that seems to understand and accept them unconditionally, before it disappears and leaves the person with questions. The passage describes Gatsby's house and some of the objects in it, including a picture of Gatsby and a picture of a man named Mr. Dan Cody. Gatsby tells Daisy that Mr. Cody was his best friend. The phone rings and Gatsby talks to someone, saying that he can't talk now. Daisy calls Gatsby over to the window to look at the sunset. A man is grieving over the body of a woman wrapped in blankets on a worktable. He is moaning and calling out to God. Another man is trying to comfort him, but he is not responsive. The passage describes the narrator's family background and how he came to be in the bond business. He talks about how his great-uncle started the family hardware business, and how he himself graduated from college and then served in the Great War. At the end, he reflects on how the Midwest now seemed like the edge of the world to him, and how this led him to move East. The passage describes the McKees' disdain for the lower orders and their desire to do more work on Long Island. Mrs. Wilson interrupts with a tray, and the conversation turns to Catherine.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Rosy Rosenthal is shot and killed, and Tom and Wilson are talking about selling Tom's car. Wilson is sick and needs money, so he and his wife want to move West. The man from Minnesota who arrives in town after receiving a telegram that Mr. Gatsby has died is revealed to be Gatsby's father.

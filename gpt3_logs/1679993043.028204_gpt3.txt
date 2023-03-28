@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: you have lent to the exhibition at the Dudley. Staveley curled his lip and said that you might have the most artistic tastes, but that you were a man whom no pure-minded girl should be allowed to know, and whom no chaste woman should sit in the same room with. I reminded him that I was a friend of yours, and asked him what he meant. He told me. He told me right out before everybody. It was horrible! Why is your friendship so fatal to young men? There was that wretched boy in the Guards who committed suicide. You were his great friend. There was Sir Henry Ashton, who had to leave England with a tarnished name. You and he were inseparable. What about Adrian Singleton and his dreadful end? What about Lord Kents only son and his career? I met his father yesterday in St. Jamess Street. He seemed broken with shame and sorrow. What about the young Duke of Perth? What sort of life has he got now? What gentleman would associate with him?  Stop, Basil. You are talking about things of which you know nothing, said Dorian Gray, biting his lip, and with a note of infinite contempt in his voice. You ask me why Berwick leaves a room when I enter it. It is because I know everything about his life, not because he knows anything about mine. With such blood as he has in his veins, how could his record be clean? You ask me about Henry Ashton and young Perth. Did I teach the one his vices, and the other his debauchery? If Kents silly son takes his wife from the streets, what is that to me?
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Staveley curled his lip and said that you might have the most artistic tastes, but that you were a man whom no pure-minded girl should be allowed to know, and whom no chaste woman should sit in the same room with. I reminded him that I was a friend of yours, and asked him what he meant. He told me. He told me right out before everybody. It was horrible! Why is your friendship so fatal to young men?

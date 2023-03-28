@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: go through next walking about at the other end of the groundand I should have croqueted the Queens hedgehog just now, only it ran away when it saw mine coming!  How do you like the Queen? said the Cat in a low voice.  Not at all, said Alice: shes so extremely Just then she noticed that the Queen was close behind her, listening: so she went on, likely to win, that its hardly worth while finishing the game.  The Queen smiled and passed on.  Who _are_ you talking to? said the King, going up to Alice, and looking at the Cats head with great curiosity.  Its a friend of minea Cheshire Cat, said Alice: allow me to introduce it.  I dont like the look of it at all, said the King: however, it may kiss my hand if it likes.  Id rather not, the Cat remarked.  Dont be impertinent, said the King, and dont look at me like that! He got behind Alice as he spoke.  A cat may look at a king, said Alice. Ive read that in some book, but I dont remember where.  Well, it must be removed, said the King very decidedly, and he called the Queen, who was passing at the moment, My dear! I wish you would have this cat removed!  The Queen had only one way of settling all difficulties, great or small. Off with his head! she said, without even looking round.  Ill fetch the executioner myself, said the King eagerly, and he hurried off.  Alice thought she might as well go back, and see how the game was going on, as she heard the Queens voice in the distance,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice is playing croquet with the Queen when she is interrupted by the King, who wants her to get rid of a Cheshire Cat. The Queen, as usual, decides to have the cat executed. Alice goes back to the game, which the Queen is now winning.

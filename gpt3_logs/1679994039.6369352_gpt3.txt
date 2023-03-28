@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: in Soho with vigorous freedom, instead of languishing into the parish like stray paupers without a settlement; and there was many a good south wall, not far off, on which the peaches ripened in their season.  The summer light struck into the corner brilliantly in the earlier part of the day; but, when the streets grew hot, the corner was in shadow, though not in shadow so remote but that you could see beyond it into a glare of brightness. It was a cool spot, staid but cheerful, a wonderful place for echoes, and a very harbour from the raging streets.  There ought to have been a tranquil bark in such an anchorage, and there was. The Doctor occupied two floors of a large stiff house, where several callings purported to be pursued by day, but whereof little was audible any day, and which was shunned by all of them at night. In a building at the back, attainable by a courtyard where a plane-tree rustled its green leaves, church-organs claimed to be made, and silver to be chased, and likewise gold to be beaten by some mysterious giant who had a golden arm starting out of the wall of the front hall--as if he had beaten himself precious, and menaced a similar conversion of all visitors. Very little of these trades, or of a lonely lodger rumoured to live up-stairs, or of a dim coach-trimming maker asserted to have a counting-house below, was ever heard or seen. Occasionally, a stray workman putting his coat on, traversed the hall, or a stranger peered about there, or a distant clink
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a corner in Soho where a doctor's office is located. The area is calm and quiet, with little activity from the businesses that are supposedly located there. The doctor's office is the only thing that seems to be going on.

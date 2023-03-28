@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the violence and lawlessness that were commonplace in England during the time of the French Revolution. It also tells the story of a man who sees a ghost, which turns out to be a figment of his imagination. Finally, the passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news. The passage describes a man's lack of feelings and emotions, and how he has been a trustee for many customers over the years. He thinks that the person who brought him to England when he was orphaned was the same person who is sitting in front of him. The passage describes a messenger riding to deliver a message, and the shadows of the night taking shapes to him and the horse he is riding. The passage describes a cold, wet day, with the sun shining brightly. A passenger comments on how long eighteen years is, and how terrible it would be to be buried alive for that long. The head drawer at the hotel where they are staying opens the door and congratulates the passenger on his journey. The inside of the coach is described as being like a dirty dog kennel, and the passenger is described as looking like a large dog. The drawer tells the passenger that there will be a packet to Calais the next day, and the passenger asks for a bedroom and a barber. The passage describes a woman who appears to be in a trance, and the man who is with her is worried that he will hurt her if he tries to move her. He calls for help, and a wild-looking woman comes over.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the lawlessness and violence that were common during the French Revolution, and tells the story of a man who sees a ghost. It also describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news. Finally, the passage describes a man's lack of feelings and emotions, and how he has been a trustee for many customers over the years.

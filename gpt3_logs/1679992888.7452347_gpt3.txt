@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: at my hands. It pained, and at the same time amused me, to behold the terrors that attended my advent; to see a furrowed cheek, weather-beaten by half a century of storm, turn ashy pale at the glance of so harmless an individual as myself; to detect, as one or another addressed me, the tremor of a voice, which, in long-past days, had been wont to bellow through a speaking-trumpet, hoarsely enough to frighten Boreas himself to silence. They knew, these excellent old persons, that, by all established rule,and, as regarded some of them, weighed by their own lack of efficiency for business,they ought to have given place to younger men, more orthodox in politics, and altogether fitter than themselves to serve our common Uncle. I knew it too, but could never quite find in my heart to act upon the knowledge. Much and deservedly to my own discredit, therefore, and considerably to the detriment of my official conscience, they continued, during my incumbency, to creep about the wharves, and loiter up and down the Custom-House steps. They spent a good deal of time, also, asleep in their accustomed corners, with their chairs tilted back against the wall; awaking, however, once or twice in a forenoon, to bore one another with the several thousandth repetition of old sea-stories, and mouldy jokes, that had grown to be passwords and countersigns among them.  The discovery was soon made, I imagine, that the new Surveyor had no great harm in him. So, with lightsome hearts, and the happy
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The new Surveyor was not very strict, so the old employees continued to work, even though they were not very efficient. They told each other stories and jokes to pass the time.

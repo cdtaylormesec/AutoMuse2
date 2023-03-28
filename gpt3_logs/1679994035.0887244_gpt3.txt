@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: difficulty, and after many efforts, the dose that I desired to give. As I intended to repeat it after a while, and as it was necessary to watch its influence, I then sat down by the side of the bed. There was a timid and suppressed woman in attendance (wife of the man down-stairs), who had retreated into a corner. The house was damp and decayed, indifferently furnished--evidently, recently occupied and temporarily used. Some thick old hangings had been nailed up before the windows, to deaden the sound of the shrieks. They continued to be uttered in their regular succession, with the cry, My husband, my father, and my brother! the counting up to twelve, and Hush! The frenzy was so violent, that I had not unfastened the bandages restraining the arms; but, I had looked to them, to see that they were not painful. The only spark of encouragement in the case, was, that my hand upon the sufferers breast had this much soothing influence, that for minutes at a time it tranquillised the figure. It had no effect upon the cries; no pendulum could be more regular.  For the reason that my hand had this effect (I assume), I had sat by the side of the bed for half an hour, with the two brothers looking on, before the elder said:  There is another patient.  I was startled, and asked, Is it a pressing case?  You had better see, he carelessly answered; and took up a light.          *****  The other patient lay in a back room across a second staircase, which was a species of loft
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a scene in which a doctor is treating a patient with a mental illness. The patient is in a frenzy, and the doctor's hand on the patient's chest has a calming effect. The doctor is then informed that there is another patient in the house.

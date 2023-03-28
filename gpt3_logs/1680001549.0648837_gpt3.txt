@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: becoming acquainted with more languages than that of my native country. Now I am twenty-eight and am in reality more illiterate than many schoolboys of fifteen. It is true that I have thought more and that my daydreams are more extended and magnificent, but they want (as the painters call it) _keeping;_ and I greatly need a friend who would have sense enough not to despise me as romantic, and affection enough for me to endeavour to regulate my mind.  Well, these are useless complaints; I shall certainly find no friend on the wide ocean, nor even here in Archangel, among merchants and seamen. Yet some feelings, unallied to the dross of human nature, beat even in these rugged bosoms. My lieutenant, for instance, is a man of wonderful courage and enterprise; he is madly desirous of glory, or rather, to word my phrase more characteristically, of advancement in his profession. He is an Englishman, and in the midst of national and professional prejudices, unsoftened by cultivation, retains some of the noblest endowments of humanity. I first became acquainted with him on board a whale vessel; finding that he was unemployed in this city, I easily engaged him to assist in my enterprise.  The master is a person of an excellent disposition and is remarkable in the ship for his gentleness and the mildness of his discipline. This circumstance, added to his well-known integrity and dauntless courage, made me very desirous to engage him. A youth passed in solitude, my best years spent under
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is an educated man who has recently become acquainted with a brave and ambitious Englishman, and has engaged him to help with his current project. He is also familiar with the master of the ship they will be working on, and appreciates his character.

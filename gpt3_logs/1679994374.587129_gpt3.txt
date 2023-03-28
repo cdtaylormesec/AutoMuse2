@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: to be despising his fellow-creatures in general, but did not       suspect him of descending to such malicious revenge, such       injustice, such inhumanity as this.        After a few minutes reflection, however, she continued, I _do_       remember his boasting one day, at Netherfield, of the       implacability of his resentments, of his having an unforgiving       temper. His disposition must be dreadful.        I will not trust myself on the subject, replied Wickham; _I_       can hardly be just to him.        Elizabeth was again deep in thought, and after a time exclaimed,       To treat in such a manner the godson, the friend, the favourite       of his father! She could have added, A young man, too, like       _you_, whose very countenance may vouch for your being       amiablebut she contented herself with, and one, too, who had       probably been his companion from childhood, connected together,       as I think you said, in the closest manner!        We were born in the same parish, within the same park; the       greatest part of our youth was passed together; inmates of the       same house, sharing the same amusements, objects of the same       parental care. _My_ father began life in the profession which       your uncle, Mr. Phillips, appears to do so much credit tobut he       gave up everything to be of use to the late Mr. Darcy and devoted       all his time to the care of the Pemberley property. He was most       highly esteemed by Mr.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The person writing this passage is reflecting on how someone they know has been behaving despicably towards others, and they remember that this person had once boasted about having a quick temper and being unforgiving. They express disbelief that someone who seemed so amiable could be capable of such cruelty.

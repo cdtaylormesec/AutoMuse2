@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: of the popping of corks came from the bar.  What a place to find ones divinity in! said Lord Henry.  Yes! answered Dorian Gray. It was here I found her, and she is divine beyond all living things. When she acts, you will forget everything. These common rough people, with their coarse faces and brutal gestures, become quite different when she is on the stage. They sit silently and watch her. They weep and laugh as she wills them to do. She makes them as responsive as a violin. She spiritualizes them, and one feels that they are of the same flesh and blood as ones self.  The same flesh and blood as ones self! Oh, I hope not! exclaimed Lord Henry, who was scanning the occupants of the gallery through his opera-glass.  Dont pay any attention to him, Dorian, said the painter. I understand what you mean, and I believe in this girl. Any one you love must be marvellous, and any girl who has the effect you describe must be fine and noble. To spiritualize ones agethat is something worth doing. If this girl can give a soul to those who have lived without one, if she can create the sense of beauty in people whose lives have been sordid and ugly, if she can strip them of their selfishness and lend them tears for sorrows that are not their own, she is worthy of all your adoration, worthy of the adoration of the world. This marriage is quite right. I did not think so at first, but I admit it now. The gods made Sibyl Vane for you. Without her you would have been incomplete.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Lord Henry and the painter are discussing Dorian's new love, Sibyl Vane. Lord Henry is initially skeptical but the painter insists that she is worthy of Dorian's love. He argues that she has the ability to make people's lives better and that this makes her a goddess.

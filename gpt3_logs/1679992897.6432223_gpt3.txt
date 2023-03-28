@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: lonely child, as if glad of such a playmate, until her mother had drawn almost nigh enough to step into the magic circle too.  It will go now, said Pearl, shaking her head.  See! answered Hester, smiling. Now I can stretch out my hand, and grasp some of it.  As she attempted to do so, the sunshine vanished; or, to judge from the bright expression that was dancing on Pearls features, her mother could have fancied that the child had absorbed it into herself, and would give it forth again, with a gleam about her path, as they should plunge into some gloomier shade. There was no other attribute that so much impressed her with a sense of new and untransmitted vigor in Pearls nature, as this never-failing vivacity of spirits; she had not the disease of sadness, which almost all children, in these latter days, inherit, with the scrofula, from the troubles of their ancestors. Perhaps this too was a disease, and but the reflex of the wild energy with which Hester had fought against her sorrows, before Pearls birth. It was certainly a doubtful charm, imparting a hard, metallic lustre to the childs character. She wantedwhat some people want throughout lifea grief that should deeply touch her, and thus humanize and make her capable of sympathy. But there was time enough yet for little Pearl.  Come, my child! said Hester, looking about her from the spot where Pearl had stood still in the sunshine. We will sit down a little way within the wood, and rest ourselves.  I am
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a child who seems to be unaffected by sadness or grief. Hester wonders if the child will ever need a deep emotional experience to make her sympathetic and human.

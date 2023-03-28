@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: thought the whole tale would shortly be served up in racy pasquinadebut Catherine, who might have said anything, didnt say a word. She showed a surprising amount of character about it toolooked at the coroner with determined eyes under that corrected brow of hers, and swore that her sister had never seen Gatsby, that her sister was completely happy with her husband, that her sister had been into no mischief whatever. She convinced herself of it, and cried into her handkerchief, as if the very suggestion was more than she could endure. So Wilson was reduced to a man deranged by grief in order that the case might remain in its simplest form. And it rested there.  But all this part of it seemed remote and unessential. I found myself on Gatsbys side, and alone. From the moment I telephoned news of the catastrophe to West Egg village, every surmise about him, and every practical question, was referred to me. At first I was surprised and confused; then, as he lay in his house and didnt move or breathe or speak, hour upon hour, it grew upon me that I was responsible, because no one else was interestedinterested, I mean, with that intense personal interest to which everyone has some vague right at the end.  I called up Daisy half an hour after we found him, called her instinctively and without hesitation. But she and Tom had gone away early that afternoon, and taken baggage with them.  Left no address?  No.  Say when theyd be back?  No.  Any idea where they are? How
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the aftermath of Jay Gatsby's death, from the perspective of Nick Carraway. Nick feels responsible for Gatsby's death, as he was the only one who seemed to care about him. He calls Daisy Buchanan, Gatsby's former lover, but she has already left town with her husband.

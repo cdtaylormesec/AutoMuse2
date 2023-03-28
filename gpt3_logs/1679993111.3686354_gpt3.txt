@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the whales decapitationand striking it into the lower part of the half-suspended mass, placed its other end crutch-wise under one arm, and so stood leaning over with eyes attentively fixed on this head.  It was a black and hooded head; and hanging there in the midst of so intense a calm, it seemed the Sphynxs in the desert. Speak, thou vast and venerable head, muttered Ahab, which, though ungarnished with a beard, yet here and there lookest hoary with mosses; speak, mighty head, and tell us the secret thing that is in thee. Of all divers, thou hast dived the deepest. That head upon which the upper sun now gleams, has moved amid this worlds foundations. Where unrecorded names and navies rust, and untold hopes and anchors rot; where in her murderous hold this frigate earth is ballasted with bones of millions of the drowned; there, in that awful water-land, there was thy most familiar home. Thou hast been where bell or diver never went; hast slept by many a sailors side, where sleepless mothers would give their lives to lay them down. Thou sawst the locked lovers when leaping from their flaming ship; heart to heart they sank beneath the exulting wave; true to each other, when heaven seemed false to them. Thou sawst the murdered mate when tossed by pirates from the midnight deck; for hours he fell into the deeper midnight of the insatiate maw; and his murderers still sailed on unharmedwhile swift lightnings shivered the neighboring ship that would have borne a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is looking at a whale's head and reflects on how it has seen things that no human has.

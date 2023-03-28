@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: cant afford it. Im not a going to be made unlucky by _your_ sneaking. If you must go flopping yourself down, flop in favour of your husband and child, and not in opposition to em. If I had had any but a unnatral wife, and this poor boy had had any but a unnatral mother, I might have made some money last week instead of being counter-prayed and countermined and religiously circumwented into the worst of luck. B-u-u-ust me! said Mr. Cruncher, who all this time had been putting on his clothes, if I aint, what with piety and one blowed thing and another, been choused this last week into as bad luck as ever a poor devil of a honest tradesman met with! Young Jerry, dress yourself, my boy, and while I clean my boots keep a eye upon your mother now and then, and if you see any signs of more flopping, give me a call. For, I tell you, here he addressed his wife once more, I wont be gone agin, in this manner. I am as rickety as a hackney-coach, Im as sleepy as laudanum, my lines is strained to that degree that I shouldnt know, if it wasnt for the pain in em, which was me and which somebody else, yet Im none the better for it in pocket; and its my suspicion that youve been at it from morning to night to prevent me from being the better for it in pocket, and I wont put up with it, Aggerawayter, and what do you say now!  Growling, in addition, such phrases as Ah! yes! Youre religious, too. You wouldnt put yourself in opposition to the interests of your husband and
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a man's frustration with his wife and son, who he feels are preventing him from being successful. He tells them that he will not put up with it any longer, and threatens to leave.

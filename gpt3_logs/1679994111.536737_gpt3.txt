@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: chopped off all our heads, and have thanked Heaven for the opportunity! It appears to mewho have been a calm and curious observer, as well in victory as defeatthat this fierce and bitter spirit of malice and revenge has never distinguished the many triumphs of my own party as it now did that of the Whigs. The Democrats take the offices, as a general rule, because they need them, and because the practice of many years has made it the law of political warfare, which, unless a different system be proclaimed, it were weakness and cowardice to murmur at. But the long habit of victory has made them generous. They know how to spare, when they see occasion; and when they strike, the axe may be sharp, indeed, but its edge is seldom poisoned with ill-will; nor is it their custom ignominiously to kick the head which they have just struck off.  In short, unpleasant as was my predicament, at best, I saw much reason to congratulate myself that I was on the losing side, rather than the triumphant one. If, heretofore, I had been none of the warmest of partisans, I began now, at this season of peril and adversity, to be pretty acutely sensible with which party my predilections lay; nor was it without something like regret and shame, that, according to a reasonable calculation of chances, I saw my own prospect of retaining office to be better than those of my Democratic brethren. But who can see an inch into futurity, beyond his nose? My own head was the first that fell!  The moment when a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+This passage describes the author's experience of being on the losing side of a political battle, and how he came to realize that he preferred the losing side to the winning one. The author reflects on how the winning side (the Democrats) are usually more generous than the losing side (the Whigs), and how this made him regret being on the losing side. However, the author's own head was the first to fall, and he reflects on how this changes his perspective.

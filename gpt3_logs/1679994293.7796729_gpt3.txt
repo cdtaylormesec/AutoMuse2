@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: in these words:  Yes, we went to school in the sea, though you maynt believe it  I never said I didnt! interrupted Alice.  You did, said the Mock Turtle.  Hold your tongue! added the Gryphon, before Alice could speak again. The Mock Turtle went on.  We had the best of educationsin fact, we went to school every day  _Ive_ been to a day-school, too, said Alice; you neednt be so proud as all that.  With extras? asked the Mock Turtle a little anxiously.  Yes, said Alice, we learned French and music.  And washing? said the Mock Turtle.  Certainly not! said Alice indignantly.  Ah! then yours wasnt a really good school, said the Mock Turtle in a tone of great relief. Now at _ours_ they had at the end of the bill, French, music, _and washing_extra.  You couldnt have wanted it much, said Alice; living at the bottom of the sea.  I couldnt afford to learn it. said the Mock Turtle with a sigh. I only took the regular course.  What was that? inquired Alice.  Reeling and Writhing, of course, to begin with, the Mock Turtle replied; and then the different branches of ArithmeticAmbition, Distraction, Uglification, and Derision.  I never heard of Uglification, Alice ventured to say. What is it?  The Gryphon lifted up both its paws in surprise. What! Never heard of uglifying! it exclaimed. You know what to beautify is, I suppose?  Yes, said Alice doubtfully: it meanstomakeanythingprettier.  Well, then, the Gryphon went
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the Mock Turtle's school, which teaches such subjects as "reeling and writhing" and "uplification." Alice is surprised to learn of this last subject, and the Gryphon explains that it is the process of making something prettier.

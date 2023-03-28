@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: clustering leaves. She had an undulating, but, oftentimes, a sharp and irregular movement. It indicated the restless vivacity of her spirit, which to-day was doubly indefatigable in its tiptoe dance, because it was played upon and vibrated with her mothers disquietude. Whenever Pearl saw anything to excite her ever-active and wandering curiosity, she flew thitherward and, as we might say, seized upon that man or thing as her own property, so far as she desired it; but without yielding the minutest degree of control over her motions in requital. The Puritans looked on, and, if they smiled, were none the less inclined to pronounce the child a demon offspring, from the indescribable charm of beauty and eccentricity that shone through her little figure, and sparkled with its activity. She ran and looked the wild Indian in the face; and he grew conscious of a nature wilder than his own. Thence, with native audacity, but still with a reserve as characteristic, she flew into the midst of a group of mariners, the swarthy-cheeked wild men of the ocean, as the Indians were of the land; and they gazed wonderingly and admiringly at Pearl, as if a flake of the sea-foam had taken the shape of a little maid, and were gifted with a soul of the sea-fire, that flashes beneath the prow in the night-time.  One of these seafaring menthe shipmaster, indeed, who had spoken to Hester Prynnewas so smitten with Pearls aspect, that he attempted to lay hands upon her, with purpose to snatch a kiss.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a young girl named Pearl who is full of energy and curiosity. She is also very beautiful, and this attracts the attention of a group of sailors. One of the sailors tries to kiss her, but she escapes.

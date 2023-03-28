@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Rosy Rosenthal is shot and killed late at night, and Tom and Wilson are talking about selling Tom's car. Wilson is sick and needs money, so he and his wife want to move West. A man from Minnesota arrives in town after receiving a telegram that Mr. Gatsby has died. He is revealed to be Gatsby's father, and he is very upset. The passage also describes a person's rare encounter with a smile that seems to understand and accept them unconditionally, before it disappears and leaves the person with questions. The passage describes the valley of ashes, a desolate area where ashes cover the ground like wheat. The ash-grey men who work there are barely visible through the thick dust. Tom and Gatsby are arguing about Daisy. Gatsby says he loved her for five years, but Tom says she only loves him now. The narrator tells the story of when he first met Gatsby and heard the story of his life. Gatsby was in love with a girl named Daisy, but she was already married. Gatsby was hoping she would leave her husband for him, but she never did. Gatsby and Tom fight over Daisy. Daisy says she never loved Tom and is leaving him. Tom says Gatsby is a swindler and he will investigate him. The Project Gutenberg license allows for the modification and distribution of electronic works, with some restrictions. Dan Cody hires James Gatz as his personal assistant, and the two men travel around the world together on Cody's yacht. After five years, Ella Kaye convinces Cody to send Gatz away, and he eventually ends up in Little Girl Bay. There he meets and is taken in by Jay Gatsby.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Rosy Rosenthal is shot and killed, and Tom and Wilson are talking about selling Tom's car. Wilson is sick and needs money, so he and his wife want to move West. The man from Minnesota who arrives in town after receiving a telegram that Mr. Gatsby has died is revealed to be Gatsby's father. The passage also describes a person's rare encounter with a smile that seems to understand and accept them unconditionally, before it disappears and leaves the person with questions.

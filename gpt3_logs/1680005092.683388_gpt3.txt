@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution. Mr. Lorry tries to remain positive, while Monseigneur talks about how he will take revenge on the revolutionaries. The passage also describes a doctor's experience treating a patient with a mental illness and a group of women who are mourning the death of a man named Foulon. The passage describes a meeting between the narrator and a woman who turns out to be the Marquis St. Evrmonde's wife. The woman is very upset and tells the narrator that she hopes to find and help her husband's younger sister. The narrator can only tell her that such a sister exists, but nothing more. The passage describes the dangers of displeasing the Army of the Republic in France during the time of the Revolution. Miss Pross and Mr. Cruncher are out buying groceries and wine when they encounter various groups of people, some of whom seem to be excited about something. They avoid these groups and eventually find what they're looking for. Mr. Cruncher has had a change of heart and is now hoping that his wife is "flopping" (engaging in some sort of illicit activity). Miss Pross is distressed but hopeful that Mrs. Cruncher is finding whatever she is doing to be satisfying. Lucie visits the prison where her husband is being held every day, regardless of the weather. Every day, she kisses the prison wall before leaving. Her husband sees her occasionally, and this is enough for her. In December, she arrives at the prison to find the city celebrating. The wood-sawyer's shop has a sign reading "Republic One and Indivisible. Liberty, Equality, Fraternity, or Death!" A man is on his way to dig someone out of a grave and he sees many faces of the person he is looking for, but he does not know which is the right one. The passage describes a man's experience of seeing a ghost, which is actually a figment of his imagination. The man is tired and falls asleep, during which time he imagines the ghostly face of a person he once knew. This person was buried 18 years ago and the man imagines him coming back to life. The man wakes up and realizes it was all a dream.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution, as well as the dangers of displeasing the Army of the Republic in France during that time. It also tells the story of a man who sees a ghost, which turns out to be a figment of his imagination.

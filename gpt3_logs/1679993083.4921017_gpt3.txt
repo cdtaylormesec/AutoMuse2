@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: impersonated the whole striking contrast of the scene.  Come aboard, come aboard! cried the gay Bachelors commander, lifting a glass and a bottle in the air.  Hast seen the White Whale? gritted Ahab in reply.  No; only heard of him; but dont believe in him at all, said the other good-humoredly. Come aboard!  Thou art too damned jolly. Sail on. Hast lost any men?  Not enough to speak oftwo islanders, thats all;but come aboard, old hearty, come along. Ill soon take that black from your brow. Come along, will ye (merrys the play); a full ship and homeward-bound.  How wondrous familiar is a fool! muttered Ahab; then aloud, Thou art a full ship and homeward bound, thou sayst; well, then, call me an empty ship, and outward-bound. So go thy ways, and I will mine. Forward there! Set all sail, and keep her to the wind!  And thus, while the one ship went cheerily before the breeze, the other stubbornly fought against it; and so the two vessels parted; the crew of the Pequod looking with grave, lingering glances towards the receding Bachelor; but the Bachelors men never heeding their gaze for the lively revelry they were in. And as Ahab, leaning over the taffrail, eyed the homeward-bound craft, he took from his pocket a small vial of sand, and then looking from the ship to the vial, seemed thereby bringing two remote associations together, for that vial was filled with Nantucket soundings.   CHAPTER 116. The Dying Whale.  Not seldom in this life, when, on the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the contrast between two ships, one of which is headed home while the other is headed out to sea. The crew of the first ship is having a merry time, while the crew of the second ship is solemn and serious. Ahab, the captain of the second ship, takes a vial of sand from his pocket and looks at it, thinking of home.

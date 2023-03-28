@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: question. However, at last she stretched her arms round it as far as they would go, and broke off a bit of the edge with each hand.  And now which is which? she said to herself, and nibbled a little of the right-hand bit to try the effect: the next moment she felt a violent blow underneath her chin: it had struck her foot!  She was a good deal frightened by this very sudden change, but she felt that there was no time to be lost, as she was shrinking rapidly; so she set to work at once to eat some of the other bit. Her chin was pressed so closely against her foot, that there was hardly room to open her mouth; but she did it at last, and managed to swallow a morsel of the lefthand bit.  *      *      *      *      *      *      *      *      *      *      *      *      *  *      *      *      *      *      *      *   Come, my heads free at last! said Alice in a tone of delight, which changed into alarm in another moment, when she found that her shoulders were nowhere to be found: all she could see, when she looked down, was an immense length of neck, which seemed to rise like a stalk out of a sea of green leaves that lay far below her.  What _can_ all that green stuff be? said Alice. And where _have_ my shoulders got to? And oh, my poor hands, how is it I cant see you? She was moving them about as she spoke, but no result seemed to follow, except a little shaking among the distant green leaves.  As there seemed to be no chance of getting her hands up to her head, she
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice is trying to eat a bit of the right-hand side of a mushroom, but it keeps moving, and she eventually shrinks so much her head is the only part of her left.

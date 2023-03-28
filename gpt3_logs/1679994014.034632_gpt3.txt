@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: face, the bitter waters of captivity had worn; but, he covered up their tracks with a determination so strong, that he held the mastery of them even in his sleep. A more remarkable face in its quiet, resolute, and guarded struggle with an unseen assailant, was not to be beheld in all the wide dominions of sleep, that night.  She timidly laid her hand on his dear breast, and put up a prayer that she might ever be as true to him as her love aspired to be, and as his sorrows deserved. Then, she withdrew her hand, and kissed his lips once more, and went away. So, the sunrise came, and the shadows of the leaves of the plane-tree moved upon his face, as softly as her lips had moved in praying for him.     CHAPTER XVIII. Nine Days   The marriage-day was shining brightly, and they were ready outside the closed door of the Doctors room, where he was speaking with Charles Darnay. They were ready to go to church; the beautiful bride, Mr. Lorry, and Miss Pross--to whom the event, through a gradual process of reconcilement to the inevitable, would have been one of absolute bliss, but for the yet lingering consideration that her brother Solomon should have been the bridegroom.  And so, said Mr. Lorry, who could not sufficiently admire the bride, and who had been moving round her to take in every point of her quiet, pretty dress; and so it was for this, my sweet Lucie, that I brought you across the Channel, such a baby! Lord bless me! How little I thought what I was doing! How lightly I
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a bride on her wedding day, with her father and guardian. The bride is beautiful, and her dress is quiet and pretty. The father and guardian are both happy for her, but the father remembers when he first brought her to England as a baby.

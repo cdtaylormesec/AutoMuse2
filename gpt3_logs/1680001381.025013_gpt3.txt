@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: dense crowd at the windlass. When instantly, the entire ship careens over on her side; every bolt in her starts like the nail-heads of an old house in frosty weather; she trembles, quivers, and nods her frighted mast-heads to the sky. More and more she leans over to the whale, while every gasping heave of the windlass is answered by a helping heave from the billows; till at last, a swift, startling snap is heard; with a great swash the ship rolls upwards and backwards from the whale, and the triumphant tackle rises into sight dragging after it the disengaged semicircular end of the first strip of blubber. Now as the blubber envelopes the whale precisely as the rind does an orange, so is it stripped off from the body precisely as an orange is sometimes stripped by spiralizing it. For the strain constantly kept up by the windlass continually keeps the whale rolling over and over in the water, and as the blubber in one strip uniformly peels off along the line called the scarf, simultaneously cut by the spades of Starbuck and Stubb, the mates; and just as fast as it is thus peeled off, and indeed by that very act itself, it is all the time being hoisted higher and higher aloft till its upper end grazes the main-top; the men at the windlass then cease heaving, and for a moment or two the prodigious blood-dripping mass sways to and fro as if let down from the sky, and every one present must take good heed to dodge it when it swings, else it may box his ears and pitch him headlong
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the process of whale hunting, in which the whale is harpooned and then towed to the ship, where it is killed and the blubber is stripped off.

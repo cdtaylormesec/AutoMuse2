@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: know your name at the theatre? If they dont, it is all right. Did any one see you going round to her room? That is an important point.  Dorian did not answer for a few moments. He was dazed with horror. Finally he stammered, in a stifled voice, Harry, did you say an inquest? What did you mean by that? Did Sibyl? Oh, Harry, I cant bear it! But be quick. Tell me everything at once.  I have no doubt it was not an accident, Dorian, though it must be put in that way to the public. It seems that as she was leaving the theatre with her mother, about half-past twelve or so, she said she had forgotten something upstairs. They waited some time for her, but she did not come down again. They ultimately found her lying dead on the floor of her dressing-room. She had swallowed something by mistake, some dreadful thing they use at theatres. I dont know what it was, but it had either prussic acid or white lead in it. I should fancy it was prussic acid, as she seems to have died instantaneously.  Harry, Harry, it is terrible! cried the lad.  Yes; it is very tragic, of course, but you must not get yourself mixed up in it. I see by _The Standard_ that she was seventeen. I should have thought she was almost younger than that. She looked such a child, and seemed to know so little about acting. Dorian, you mustnt let this thing get on your nerves. You must come and dine with me, and afterwards we will look in at the opera. It is a Patti night, and everybody will be there. You can come
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the death of Sibyl Vane, an actress who committed suicide by swallowing poison. Her friend Dorian is horrified by the news and asks Harry, who seems to know more about the situation, to tell him everything. Harry explains that it is likely that Sibyl's death was not an accident, as she probably took the poison deliberately. He urges Dorian not to get too upset about the situation and to go out with him for dinner and to the opera that evening.

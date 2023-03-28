@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: And do you take no one with you?  All sorts of people have been proposed to me, but I will have nothing to say to any of them. I intend to take Jerry. Jerry has been my bodyguard on Sunday nights for a long time past and I am used to him. Nobody will suspect Jerry of being anything but an English bull-dog, or of having any design in his head but to fly at anybody who touches his master.  I must say again that I heartily admire your gallantry and youthfulness.  I must say again, nonsense, nonsense! When I have executed this little commission, I shall, perhaps, accept Tellsons proposal to retire and live at my ease. Time enough, then, to think about growing old.  This dialogue had taken place at Mr. Lorrys usual desk, with Monseigneur swarming within a yard or two of it, boastful of what he would do to avenge himself on the rascal-people before long. It was too much the way of Monseigneur under his reverses as a refugee, and it was much too much the way of native British orthodoxy, to talk of this terrible Revolution as if it were the only harvest ever known under the skies that had not been sown--as if nothing had ever been done, or omitted to be done, that had led to it--as if observers of the wretched millions in France, and of the misused and perverted resources that should have made them prosperous, had not seen it inevitably coming, years before, and had not in plain words recorded what they saw. Such vapouring, combined with the extravagant plots of Monseigneur
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The speaker is talking to Mr. Lorry, and mentions that he plans to take Jerry with him on a trip. He compliments Mr. Lorry on his youthfulness, and then says that he will retire soon and live at his ease. The dialogue took place with Monseigneur present, and the speaker notes that Monseigneur is talking about the Revolution as if it were the only harvest ever known that had not been sown. The speaker observes that there were many warning signs of the Revolution before it happened, and that people had recorded what they saw.

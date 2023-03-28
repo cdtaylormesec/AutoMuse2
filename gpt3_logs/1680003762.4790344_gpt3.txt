@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the soil. It was as if a new birth, with stronger assimilations than the first, had converted the forest-land, still so uncongenial to every other pilgrim and wanderer, into Hester Prynnes wild and dreary, but life-long home. All other scenes of eartheven that village of rural England, where happy infancy and stainless maidenhood seemed yet to be in her mothers keeping, like garments put off long agowere foreign to her, in comparison. The chain that bound her here was of iron links, and galling to her inmost soul, but could never be broken.  It might be, too,doubtless it was so, although she hid the secret from herself, and grew pale whenever it struggled out of her heart, like a serpent from its hole,it might be that another feeling kept her within the scene and pathway that had been so fatal. There dwelt, there trode the feet of one with whom she deemed herself connected in a union, that, unrecognized on earth, would bring them together before the bar of final judgment, and make that their marriage-altar, for a joint futurity of endless retribution. Over and over again, the tempter of souls had thrust this idea upon Hesters contemplation, and laughed at the passionate and desperate joy with which she seized, and then strove to cast it from her. She barely looked the idea in the face, and hastened to bar it in its dungeon. What she compelled herself to believewhat, finally, she reasoned upon, as her motive for continuing a resident of New Englandwas half a truth,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes Hester Prynne's feelings of isolation and despair, and her belief that she is condemned to a life of punishment in New England.

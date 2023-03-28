@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution, as well as the dangers of displeasing the Army of the Republic in France during that time. The story also tells of a man who sees a ghost, which turns out to be a figment of his imagination. Finally, the passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news. The novel tells the story of the French Revolution through the eyes of several different characters. Some of the characters are on the side of the revolution, while others are against it. The novel shows the different ways that people react to the violence and chaos of the revolution. A gentleman of sixty is sitting in a coffee-room, waiting for his breakfast. He is well-dressed and looks orderly and methodical. He is a little vain of his good leg, and his clothes are of a fine texture. The rider on horseback is a mystery to the other passengers in the coach, just as they are mysteries to him. He has eyes that seem to be hiding something, and he is very secretive. He stops at ale-houses along the way to drink, but he is careful to keep his muffler over his face. The waiter came in to announce that Miss Manette had arrived from London, and would be happy to see the gentleman from Tellsons. When the gentleman from Tellsons entered Miss Manette's apartment, he saw a young lady of not more than seventeen standing by the table between two tall candles.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the reactions of British citizens to the news of the massacre of 11 hundred prisoners during the French Revolution, as well as the dangers of displeasing the Army of the Republic in France during that time. The story also tells of a man who sees a ghost, which turns out to be a figment of his imagination. Finally, the passage describes a man who has been found alive after being presumed dead, and his daughter's reaction to the news.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: unclean. What did it matter? No one could see it. He himself would not see it. Why should he watch the hideous corruption of his soul? He kept his youththat was enough. And, besides, might not his nature grow finer, after all? There was no reason that the future should be so full of shame. Some love might come across his life, and purify him, and shield him from those sins that seemed to be already stirring in spirit and in fleshthose curious unpictured sins whose very mystery lent them their subtlety and their charm. Perhaps, some day, the cruel look would have passed away from the scarlet sensitive mouth, and he might show to the world Basil Hallwards masterpiece.  No; that was impossible. Hour by hour, and week by week, the thing upon the canvas was growing old. It might escape the hideousness of sin, but the hideousness of age was in store for it. The cheeks would become hollow or flaccid. Yellow crows feet would creep round the fading eyes and make them horrible. The hair would lose its brightness, the mouth would gape or droop, would be foolish or gross, as the mouths of old men are. There would be the wrinkled throat, the cold, blue-veined hands, the twisted body, that he remembered in the grandfather who had been so stern to him in his boyhood. The picture had to be concealed. There was no help for it.  Bring it in, Mr. Hubbard, please, he said, wearily, turning round. I am sorry I kept you so long. I was thinking of something else.  Always glad to have a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the narrator's increasing disgust with a portrait he has painted of a young man. He is worried that the painting will someday show the signs of age and decay, and decides to hide it away.

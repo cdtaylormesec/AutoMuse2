@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the author's interactions with old, experienced sailors who continued to work at the docks even though they were well past retirement age. The sailors eventually came to accept the author and they would often tell each other stories and jokes. The passage also describes the reaction of the townspeople to Hester Prynne's public punishment for adultery. The townspeople are both fascinated and repelled by the scarlet letter A that Hester is wearing. The author reflects on their failed attempt to write a historical novel, and how it was perhaps a foolish endeavor. They suggest that it would have been wiser to write about the present day, infused with thought and imagination. The early settlers in the Massachusetts Bay Colony were mostly simple, honest people, who were respected for their integrity and wisdom. They were not very brilliant, but they were brave and reliable, and they always put the welfare of the colony first. The passage describes a young girl named Pearl who is very active and curious. The Puritans in the passage view her with suspicion and think she may be a demon child. Pearl is also very independent and does not let anyone control her. The passage describes a woman's internal struggle with the difficulties she faces in society. She wonders if it would be better to send her child to heaven and go herself to whatever fate awaits her. The scarlet letter has not solved her problems. Hester Prynne, a woman shunned by society for committing adultery, chose to mortify herself further by only wearing clothing that she had made herself, no matter how poor or plain. Her needlework was seen everywhere, except on bridal veils, as a constant reminder of her sin. Hester only barely provided for herself and her child, using any extra money to help others less fortunate, who often mistreated her.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the author's interactions with old, experienced sailors who continued to work at the docks even though they were well past retirement age. The sailors eventually came to accept the author and they would often tell each other stories and jokes. The passage also describes the reaction of the townspeople to Hester Prynne's public punishment for adultery. The townspeople are both fascinated and repelled by the scarlet letter A that Hester is wearing. The author reflects on their failed attempt to write a historical novel, and how it was perhaps a foolish endeavor. They suggest that it would have been wiser to write about the present day, infused with thought and imagination.

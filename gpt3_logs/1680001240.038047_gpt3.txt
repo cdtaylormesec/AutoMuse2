@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: IV  On Sunday morning while church bells rang in the villages alongshore, the world and its mistress returned to Gatsbys house and twinkled hilariously on his lawn.  Hes a bootlegger, said the young ladies, moving somewhere between his cocktails and his flowers. One time he killed a man who had found out that he was nephew to Von Hindenburg and second cousin to the devil. Reach me a rose, honey, and pour me a last drop into that there crystal glass.  Once I wrote down on the empty spaces of a timetable the names of those who came to Gatsbys house that summer. It is an old timetable now, disintegrating at its folds, and headed This schedule in effect July 5th, 1922. But I can still read the grey names, and they will give you a better impression than my generalities of those who accepted Gatsbys hospitality and paid him the subtle tribute of knowing nothing whatever about him.  From East Egg, then, came the Chester Beckers and the Leeches, and a man named Bunsen, whom I knew at Yale, and Doctor Webster Civet, who was drowned last summer up in Maine. And the Hornbeams and the Willie Voltaires, and a whole clan named Blackbuck, who always gathered in a corner and flipped up their noses like goats at whosoever came near. And the Ismays and the Chrysties (or rather Hubert Auerbach and Mr. Chrysties wife), and Edgar Beaver, whose hair, they say, turned cotton-white one winter afternoon for no good reason at all.  Clarence Endive was from East Egg, as I remember. He came
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the various guests who attended parties at Gatsby's house in East Egg during the summer of 1922.

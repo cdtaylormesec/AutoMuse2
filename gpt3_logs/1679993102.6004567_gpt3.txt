@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: side in an agony of fright. Now to this hand, now to that, he yawed in his faltering flight, and still at every billow that he broke, he spasmodically sank in the sea, or sideways rolled towards the sky his one beating fin. So have I seen a bird with clipped wing making affrighted broken circles in the air, vainly striving to escape the piratical hawks. But the bird has a voice, and with plaintive cries will make known her fear; but the fear of this vast dumb brute of the sea, was chained up and enchanted in him; he had no voice, save that choking respiration through his spiracle, and this made the sight of him unspeakably pitiable; while still, in his amazing bulk, portcullis jaw, and omnipotent tail, there was enough to appal the stoutest man who so pitied.  Seeing now that but a very few moments more would give the Pequods boats the advantage, and rather than be thus foiled of his game, Derick chose to hazard what to him must have seemed a most unusually long dart, ere the last chance would for ever escape.  But no sooner did his harpooneer stand up for the stroke, than all three tigersQueequeg, Tashtego, Daggooinstinctively sprang to their feet, and standing in a diagonal row, simultaneously pointed their barbs; and darted over the head of the German harpooneer, their three Nantucket irons entered the whale. Blinding vapors of foam and white-fire! The three boats, in the first fury of the whales headlong rush, bumped the Germans aside with such force, that both
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Derick, a harpooneer, tries to catch a whale but is unsuccessful. The whale then tries to escape but is caught by three other harpooneers.

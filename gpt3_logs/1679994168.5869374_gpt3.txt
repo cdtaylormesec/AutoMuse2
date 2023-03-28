@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: gift for hope, a romantic readiness such as I have never found in any other person and which it is not likely I shall ever find again. NoGatsby turned out all right at the end; it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men.  ------------------------------------------------------------------------  My family have been prominent, well-to-do people in this Middle Western city for three generations. The Carraways are something of a clan, and we have a tradition that were descended from the Dukes of Buccleuch, but the actual founder of my line was my grandfathers brother, who came here in fifty-one, sent a substitute to the Civil War, and started the wholesale hardware business that my father carries on today.  I never saw this great-uncle, but Im supposed to look like himwith special reference to the rather hard-boiled painting that hangs in fathers office. I graduated from New Haven in 1915, just a quarter of a century after my father, and a little later I participated in that delayed Teutonic migration known as the Great War. I enjoyed the counter-raid so thoroughly that I came back restless. Instead of being the warm centre of the world, the Middle West now seemed like the ragged edge of the universeso I decided to go East and learn the bond business. Everybody I knew was in the bond business, so I supposed it could support one more single
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator, Nick Carraway, tells us about his family background and how he came to move East and enter the bond business. He talks about how his great-uncle founded the family hardware business, and how he himself served in the Great War before returning to the States. Nick describes how he met Jay Gatsby and tells us about Gatsby's tragic story. In the end, Nick concludes that Gatsby was a good man, despite his flaws, and that he will never meet anyone like him again.

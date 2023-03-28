@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: houses glistened like silver against it. From some chimney opposite a thin wreath of smoke was rising. It curled, a violet riband, through the nacre-coloured air.  In the huge gilt Venetian lantern, spoil of some Doges barge, that hung from the ceiling of the great, oak-panelled hall of entrance, lights were still burning from three flickering jets: thin blue petals of flame they seemed, rimmed with white fire. He turned them out and, having thrown his hat and cape on the table, passed through the library towards the door of his bedroom, a large octagonal chamber on the ground floor that, in his new-born feeling for luxury, he had just had decorated for himself and hung with some curious Renaissance tapestries that had been discovered stored in a disused attic at Selby Royal. As he was turning the handle of the door, his eye fell upon the portrait Basil Hallward had painted of him. He started back as if in surprise. Then he went on into his own room, looking somewhat puzzled. After he had taken the button-hole out of his coat, he seemed to hesitate. Finally, he came back, went over to the picture, and examined it. In the dim arrested light that struggled through the cream-coloured silk blinds, the face appeared to him to be a little changed. The expression looked different. One would have said that there was a touch of cruelty in the mouth. It was certainly strange.  He turned round and, walking to the window, drew up the blind. The bright dawn flooded the room and swept the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a person's reaction to a painting of themselves. They are surprised by the change in expression and feel that it looks more cruel than before.

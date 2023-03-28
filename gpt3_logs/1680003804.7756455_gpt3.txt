@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: anywhere to be seen among the multitude. He wore a profusion of ribbons on his garment, and gold-lace on his hat, which was also encircled by a gold chain, and surmounted with a feather. There was a sword at his side, and a sword-cut on his forehead, which, by the arrangement of his hair, he seemed anxious rather to display than hide. A landsman could hardly have worn this garb and shown this face, and worn and shown them both with such a galliard air, without undergoing stern question before a magistrate, and probably incurring fine or imprisonment, or perhaps an exhibition in the stocks. As regarded the shipmaster, however, all was looked upon as pertaining to the character, as to a fish his glistening scales.  After parting from the physician, the commander of the Bristol ship strolled idly through the market-place; until, happening to approach the spot where Hester Prynne was standing, he appeared to recognize, and did not hesitate to address her. As was usually the case wherever Hester stood, a small vacant areaa sort of magic circlehad formed itself about her, into which, though the people were elbowing one another at a little distance, none ventured, or felt disposed to intrude. It was a forcible type of the moral solitude in which the scarlet letter enveloped its fated wearer; partly by her own reserve, and partly by the instinctive, though no longer so unkindly, withdrawal of her fellow-creatures. Now, if never before, it answered a good purpose, by enabling Hester
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Bristol ship commander, upon recognizing Hester Prynne, addressed her politely. People generally give her a wide berth, due to her unfriendly demeanor and the scarlet letter she wears.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: interrupted: _Un_important, your Majesty means, of course, he said in a very respectful tone, but frowning and making faces at him as he spoke.  _Un_important, of course, I meant, the King hastily said, and went on to himself in an undertone,  importantunimportantunimportantimportant as if he were trying which word sounded best.  Some of the jury wrote it down important, and some unimportant. Alice could see this, as she was near enough to look over their slates; but it doesnt matter a bit, she thought to herself.  At this moment the King, who had been for some time busily writing in his note-book, cackled out Silence! and read out from his book, Rule Forty-two. _All persons more than a mile high to leave the court_.  Everybody looked at Alice.  _Im_ not a mile high, said Alice.  You are, said the King.  Nearly two miles high, added the Queen.  Well, I shant go, at any rate, said Alice: besides, thats not a regular rule: you invented it just now.  Its the oldest rule in the book, said the King.  Then it ought to be Number One, said Alice.  The King turned pale, and shut his note-book hastily. Consider your verdict, he said to the jury, in a low, trembling voice.  Theres more evidence to come yet, please your Majesty, said the White Rabbit, jumping up in a great hurry; this paper has just been picked up.  Whats in it? said the Queen.  I havent opened it yet, said the White Rabbit, but it seems to be a letter, written by the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The King and Queen argue over whether something is important or not, and eventually the King declares that anyone over a mile high must leave the court. Alice protests, but the King insists that it is an old rule.

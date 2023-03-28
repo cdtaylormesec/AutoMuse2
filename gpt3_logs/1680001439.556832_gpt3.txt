@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: could.  The next thing was to eat the comfits: this caused some noise and confusion, as the large birds complained that they could not taste theirs, and the small ones choked and had to be patted on the back. However, it was over at last, and they sat down again in a ring, and begged the Mouse to tell them something more.  You promised to tell me your history, you know, said Alice, and why it is you hateC and D, she added in a whisper, half afraid that it would be offended again.  Mine is a long and a sad tale! said the Mouse, turning to Alice, and sighing.  It _is_ a long tail, certainly, said Alice, looking down with wonder at the Mouses tail; but why do you call it sad? And she kept on puzzling about it while the Mouse was speaking, so that her idea of the tale was something like this:           Fury said to a mouse, That he met in the house, Let us both          go to law: _I_ will prosecute _you_.Come, Ill take no          denial; We must have a trial: For really this morning Ive          nothing to do. Said the mouse to the cur, Such a trial, dear          sir, With no jury or judge, would be wasting our breath.          Ill be judge, Ill be jury, Said cunning old Fury: Ill          try the whole cause, and condemn you to death.  You are not attending! said the Mouse to Alice severely. What are you thinking of?  I beg your pardon, said Alice very humbly: you had got to the fifth bend, I think?  I had _not!_ cried the Mouse, sharply
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The mouse tells Alice its history, and why it hates creatures C and D. Alice is only half-listening, and her understanding of the story is skewed.

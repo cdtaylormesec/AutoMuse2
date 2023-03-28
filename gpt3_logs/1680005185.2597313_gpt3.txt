@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the author's interactions with old sailors, Hester Prynne's public punishment for adultery, and a dying man's final moments. The author reflects on their failed attempt to write a historical novel, and how it was perhaps a foolish endeavor. The passage describes the effect of a minister's voice on the listener, regardless of the language spoken. The passage describes a tombstone bearing the escutcheon of the letter A, which symbolizes the conclusion of the legend. The passage describes the new home of two friends, a minister and a physician. The health of Mr. Dimmesdale, a religious leader in New England, is failing. The passage describes how the clergyman's reserve thwarted the schemer's plans, but he is content with how things have turned out nonetheless. A young mother, carrying her infant, is released from prison. On her dress is an embroidered letter A, marking her as an adulteress. The passage describes a room in the Salem Custom House that is full of old, unused documents. The author reflects on how much time and effort went into creating these documents, which are now just taking up space. Even though they are no longer useful, the author suggests that they could be interesting to local historians. This passage is about a man who is approaching the end of his life. The author describes him as being very strong and resilient, with a deep inner strength that would allow him to overcome any obstacles. The author also notes that the man is very honest and has a great deal of compassion.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the author's reflections on history, morality, and the human condition. He describes how he interacted with old sailors, Hester Prynne's public punishment for adultery, and a dying man's final moments. The author reflects on their failed attempt to write a historical novel, and how it was perhaps a foolish endeavor. The passage also describes the effect of a minister's voice on the listener, regardless of the language spoken.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: tried to go, but Tom and Gatsby insisted with competitive firmness that we remainas though neither of them had anything to conceal and it would be a privilege to partake vicariously of their emotions.  Sit down, Daisy, Toms voice groped unsuccessfully for the paternal note. Whats been going on? I want to hear all about it.  I told you whats been going on, said Gatsby. Going on for five yearsand you didnt know.  Tom turned to Daisy sharply.  Youve been seeing this fellow for five years?  Not seeing, said Gatsby. No, we couldnt meet. But both of us loved each other all that time, old sport, and you didnt know. I used to laugh sometimesbut there was no laughter in his eyesto think that you didnt know.  Ohthats all. Tom tapped his thick fingers together like a clergyman and leaned back in his chair.  Youre crazy! he exploded. I cant speak about what happened five years ago, because I didnt know Daisy thenand Ill be damned if I see how you got within a mile of her unless you brought the groceries to the back door. But all the rest of thats a God damned lie. Daisy loved me when she married me and she loves me now.  No, said Gatsby, shaking his head.  She does, though. The trouble is that sometimes she gets foolish ideas in her head and doesnt know what shes doing. He nodded sagely. And whats more, I love Daisy too. Once in a while I go off on a spree and make a fool of myself, but I always come back, and in my heart I love her all
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a conversation between Tom and Gatsby about Daisy. Gatsby insists that he and Daisy have been in love for years, even though they could never meet, and that Daisy still loves him. Tom denies this, saying that Daisy loves him and that Gatsby is just a liar.

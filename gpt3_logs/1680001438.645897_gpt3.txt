@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: little door, had vanished completely.  Very soon the Rabbit noticed Alice, as she went hunting about, and called out to her in an angry tone, Why, Mary Ann, what _are_ you doing out here? Run home this moment, and fetch me a pair of gloves and a fan! Quick, now! And Alice was so much frightened that she ran off at once in the direction it pointed to, without trying to explain the mistake it had made.  He took me for his housemaid, she said to herself as she ran. How surprised hell be when he finds out who I am! But Id better take him his fan and glovesthat is, if I can find them. As she said this, she came upon a neat little house, on the door of which was a bright brass plate with the name W. RABBIT, engraved upon it. She went in without knocking, and hurried upstairs, in great fear lest she should meet the real Mary Ann, and be turned out of the house before she had found the fan and gloves.  How queer it seems, Alice said to herself, to be going messages for a rabbit! I suppose Dinahll be sending me on messages next! And she began fancying the sort of thing that would happen: Miss Alice! Come here directly, and get ready for your walk! Coming in a minute, nurse! But Ive got to see that the mouse doesnt get out. Only I dont think, Alice went on, that theyd let Dinah stop in the house if it began ordering people about like that!  By this time she had found her way into a tidy little room with a table in the window, and on it (as she had hoped) a
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice finds a little door that leads her into a rabbit hole. The rabbit mistakens Alice for his housemaid, Mary Ann, and orders her to go fetch him a pair of gloves and a fan. Alice finds the gloves and fan, but also discovers that the rabbit intends to have her do more chores. She decides that this is not the sort of thing that would happen if Dinah, the family cat, were in charge.

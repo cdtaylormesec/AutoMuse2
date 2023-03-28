@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: A pause. Then Toms voice, incredulous and insulting:  You must have gone there about the time Biloxi went to New Haven.  Another pause. A waiter knocked and came in with crushed mint and ice but the silence was unbroken by his thank you and the soft closing of the door. This tremendous detail was to be cleared up at last.  I told you I went there, said Gatsby.  I heard you, but Id like to know when.  It was in nineteen-nineteen, I only stayed five months. Thats why I cant really call myself an Oxford man.  Tom glanced around to see if we mirrored his unbelief. But we were all looking at Gatsby.  It was an opportunity they gave to some of the officers after the armistice, he continued. We could go to any of the universities in England or France.  I wanted to get up and slap him on the back. I had one of those renewals of complete faith in him that Id experienced before.  Daisy rose, smiling faintly, and went to the table.  Open the whisky, Tom, she ordered, and Ill make you a mint julep. Then you wont seem so stupid to yourself  Look at the mint!  Wait a minute, snapped Tom, I want to ask Mr. Gatsby one more question.  Go on, Gatsby said politely.  What kind of a row are you trying to cause in my house anyhow?  They were out in the open at last and Gatsby was content.  He isnt causing a row, Daisy looked desperately from one to the other. Youre causing a row. Please have a little self-control.  Self-control! repeated Tom incredulously.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Tom and Gatsby are arguing about Gatsby's time at Oxford. Daisy tries to defuse the situation, but Tom is not happy with Gatsby.

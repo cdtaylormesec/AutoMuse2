@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: demonstrate it, but it seems to me, that in the whale the sense of touch is concentrated in the tail; for in this respect there is a delicacy in it only equalled by the daintiness of the elephants trunk. This delicacy is chiefly evinced in the action of sweeping, when in maidenly gentleness the whale with a certain soft slowness moves his immense flukes from side to side upon the surface of the sea; and if he feel but a sailors whisker, woe to that sailor, whiskers and all. What tenderness there is in that preliminary touch! Had this tail any prehensile power, I should straightway bethink me of Darmonodes elephant that so frequented the flower-market, and with low salutations presented nosegays to damsels, and then caressed their zones. On more accounts than one, a pity it is that the whale does not possess this prehensile virtue in his tail; for I have heard of yet another elephant, that when wounded in the fight, curved round his trunk and extracted the dart.  Fourth: Stealing unawares upon the whale in the fancied security of the middle of solitary seas, you find him unbent from the vast corpulence of his dignity, and kitten-like, he plays on the ocean as if it were a hearth. But still you see his power in his play. The broad palms of his tail are flirted high into the air; then smiting the surface, the thunderous concussion resounds for miles. You would almost think a great gun had been discharged; and if you noticed the light wreath of vapor from the spiracle at his
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The author is discussing how the sense of touch is concentrated in the tail of a whale, and how this delicacy is evident in the way the whale moves its flukes from side to side. The author then goes on to say how it would be a pity if the whale's tail did not have prehensile power, as this would be useful in many situations.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: I must be Mabel after all, and I shall have to go and live in that poky little house, and have next to no toys to play with, and oh! ever so many lessons to learn! No, Ive made up my mind about it; if Im Mabel, Ill stay down here! Itll be no use their putting their heads down and saying Come up again, dear! I shall only look up and say Who am I then? Tell me that first, and then, if I like being that person, Ill come up: if not, Ill stay down here till Im somebody elsebut, oh dear! cried Alice, with a sudden burst of tears, I do wish they _would_ put their heads down! I am so _very_ tired of being all alone here!  As she said this she looked down at her hands, and was surprised to see that she had put on one of the Rabbits little white kid gloves while she was talking. How _can_ I have done that? she thought. I must be growing small again. She got up and went to the table to measure herself by it, and found that, as nearly as she could guess, she was now about two feet high, and was going on shrinking rapidly: she soon found out that the cause of this was the fan she was holding, and she dropped it hastily, just in time to avoid shrinking away altogether.  That _was_ a narrow escape! said Alice, a good deal frightened at the sudden change, but very glad to find herself still in existence; and now for the garden! and she ran with all speed back to the little door: but, alas! the little door was shut again, and the little golden key was lying on the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Alice is surprised to find herself growing small. She realizes that the cause is the fan she is holding, and drops it quickly. She is glad to find that she is still alive, and runs back to the little door. However, the door is shut again and the key is gone.

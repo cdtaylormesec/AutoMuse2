@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: away with a bald-headed young tinker once. And thats the reason I never would work for lonely widow old women ashore, when I kept my job-shop in the Vineyard; they might have taken it into their lonely old heads to run off with me. But heigh-ho! there are no caps at sea but snow-caps. Let me see. Nail down the lid; caulk the seams; pay over the same with pitch; batten them down tight, and hang it with the snap-spring over the ships stern. Were ever such things done before with a coffin? Some superstitious old carpenters, now, would be tied up in the rigging, ere they would do the job. But Im made of knotty Aroostook hemlock; I dont budge. Cruppered with a coffin! Sailing about with a grave-yard tray! But never mind. We workers in woods make bridal-bedsteads and card-tables, as well as coffins and hearses. We work by the month, or by the job, or by the profit; not for us to ask the why and wherefore of our work, unless it be too confounded cobbling, and then we stash it if we can. Hem! Ill do the job, now, tenderly. Ill have melets seehow many in the ships company, all told? But Ive forgotten. Any way, Ill have me thirty separate, Turks-headed life-lines, each three feet long hanging all round to the coffin. Then, if the hull go down, therell be thirty lively fellows all fighting for one coffin, a sight not seen very often beneath the sun! Come hammer, caulking-iron, pitch-pot, and marling-spike! Lets to it.   CHAPTER 127. The Deck.  _The coffin laid upon two
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a carpenter preparing a coffin for a ship. He is unruffled by the task, and even makes jokes about it. He is skilled in his work and takes pride in it.

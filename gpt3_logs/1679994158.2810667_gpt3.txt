@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: rocked himself back and forth on the couch inside. For a while the door of the office was open, and everyone who came into the garage glanced irresistibly through it. Finally someone said it was a shame, and closed the door. Michaelis and several other men were with him; first, four or five men, later two or three men. Still later Michaelis had to ask the last stranger to wait there fifteen minutes longer, while he went back to his own place and made a pot of coffee. After that, he stayed there alone with Wilson until dawn.  About three oclock the quality of Wilsons incoherent muttering changedhe grew quieter and began to talk about the yellow car. He announced that he had a way of finding out whom the yellow car belonged to, and then he blurted out that a couple of months ago his wife had come from the city with her face bruised and her nose swollen.  But when he heard himself say this, he flinched and began to cry Oh, my God! again in his groaning voice. Michaelis made a clumsy attempt to distract him.  How long have you been married, George? Come on there, try and sit still a minute, and answer my question. How long have you been married?  Twelve years.  Ever had any children? Come on, George, sit stillI asked you a question. Did you ever have any children?  The hard brown beetles kept thudding against the dull light, and whenever Michaelis heard a car go tearing along the road outside it sounded to him like the car that hadnt stopped a few hours before. He
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+George Wilson is in the garage, rocking back and forth on the couch. The door to the office is open and people are coming in and out, looking at him. Michaelis is with him, along with several other men. Wilson starts talking about a yellow car and how he knows who it belongs to. He then says that his wife came to him a few months ago with bruises on her face. He starts crying and Michaelis tries to distract him.

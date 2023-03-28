@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Rosy Rosenthal was shot and killed late at night by a person who then left. Tom and Wilson are talking about selling Tom's car. Wilson is sick and needs money, and he and his wife want to move West. A man from Minnesota arrives in town after receiving a telegram that Mr. Gatsby has died. He is revealed to be Gatsby's father, and he is very upset. The passage describes Gatsby standing alone on the marble steps at a party, looking around at the guests. The narrator notes that Gatsby does not seem to be enjoying himself, and that he does not interact with the other guests. Suddenly, Gatsby's butler appears and tells the narrator that Gatsby would like to speak to the narrator's companion, Miss Baker, alone. Tom, a bystander, and Michaelis, the man who found the body, are talking to a police officer about a hit-and-run that just occurred. A well-dressed black man interjects and says he saw the car that did it. Wilson, who was in the office with the victim when she was hit, starts yelling and Tom has to hold him back. The passage describes the various guests who attended parties at Gatsby's house in East Egg that summer. The passage describes a man's reaction to hearing about a friend's death. He does not want to get involved, but the friend's father shows him a picture of the house and excitedly points out all the details. A man is selling puppies out of the back of his taxi, and Mrs. Wilson buys one for ten dollars. The puppy is an Airedale, and Tom is not happy about it. They drive to Fifth Avenue and Tom tells Mrs. Wilson to get out of the taxi.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Rosy Rosenthal is shot and killed late at night, and Tom and Wilson are talking about selling Tom's car. Wilson is sick and needs money, so he and his wife want to move West. A man from Minnesota arrives in town after receiving a telegram that Mr. Gatsby has died. He is revealed to be Gatsby's father, and he is very upset.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: before. What dyou know about that, hey? You never can tell in these hick towns  Hello! I interrupted breathlessly. Look herethis isnt Mr. Gatsby. Mr. Gatsbys dead.  There was a long silence on the other end of the wire, followed by an exclamation  then a quick squawk as the connection was broken.  ------------------------------------------------------------------------  I think it was on the third day that a telegram signed Henry C. Gatz arrived from a town in Minnesota. It said only that the sender was leaving immediately and to postpone the funeral until he came.  It was Gatsbys father, a solemn old man, very helpless and dismayed, bundled up in a long cheap ulster against the warm September day. His eyes leaked continuously with excitement, and when I took the bag and umbrella from his hands he began to pull so incessantly at his sparse grey beard that I had difficulty in getting off his coat. He was on the point of collapse, so I took him into the music-room and made him sit down while I sent for something to eat. But he wouldnt eat, and the glass of milk spilled from his trembling hand.  I saw it in the Chicago newspaper, he said. It was all in the Chicago newspaper. I started right away.  I didnt know how to reach you.  His eyes, seeing nothing, moved ceaselessly about the room.  It was a madman, he said. He must have been mad.  Wouldnt you like some coffee? I urged him.  I dont want anything. Im all right now, Mr.  Carraway.  Well,
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A man who is not Mr. Gatsby answers the phone, and the person on the other end is surprised to hear this. The man on the phone then says that Mr. Gatsby is dead. It is revealed that the man on the phone is Gatsby's father, and he is coming to the funeral.

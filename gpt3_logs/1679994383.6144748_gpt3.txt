@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: beauties of the setting sun, and more happy when he beheld it rise and recommence a new day. He pointed out to me the shifting colours of the landscape and the appearances of the sky. This is what it is to live, he cried; now I enjoy existence! But you, my dear Frankenstein, wherefore are you desponding and sorrowful! In truth, I was occupied by gloomy thoughts and neither saw the descent of the evening star nor the golden sunrise reflected in the Rhine. And you, my friend, would be far more amused with the journal of Clerval, who observed the scenery with an eye of feeling and delight, than in listening to my reflections. I, a miserable wretch, haunted by a curse that shut up every avenue to enjoyment.  We had agreed to descend the Rhine in a boat from Strasburgh to Rotterdam, whence we might take shipping for London. During this voyage we passed many willowy islands and saw several beautiful towns. We stayed a day at Mannheim, and on the fifth from our departure from Strasburgh, arrived at Mainz. The course of the Rhine below Mainz becomes much more picturesque. The river descends rapidly and winds between hills, not high, but steep, and of beautiful forms. We saw many ruined castles standing on the edges of precipices, surrounded by black woods, high and inaccessible. This part of the Rhine, indeed, presents a singularly variegated landscape. In one spot you view rugged hills, ruined castles overlooking tremendous precipices, with the dark Rhine rushing beneath; and on
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the beauty of the Rhine River, and the author's companion Clerval is mentioned as being enchanted by the scenery. The author reflects on how Clerval is able to enjoy the journey while the author is burdened by dark thoughts.

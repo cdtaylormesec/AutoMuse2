@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: miraculous presence.  A shrill sound of laughter and of amused voices--voices of men, women, and children--resounded in the street while this wine game lasted. There was little roughness in the sport, and much playfulness. There was a special companionship in it, an observable inclination on the part of every one to join some other one, which led, especially among the luckier or lighter-hearted, to frolicsome embraces, drinking of healths, shaking of hands, and even joining of hands and dancing, a dozen together. When the wine was gone, and the places where it had been most abundant were raked into a gridiron-pattern by fingers, these demonstrations ceased, as suddenly as they had broken out. The man who had left his saw sticking in the firewood he was cutting, set it in motion again; the women who had left on a door-step the little pot of hot ashes, at which she had been trying to soften the pain in her own starved fingers and toes, or in those of her child, returned to it; men with bare arms, matted locks, and cadaverous faces, who had emerged into the winter light from cellars, moved away, to descend again; and a gloom gathered on the scene that appeared more natural to it than sunshine.  The wine was red wine, and had stained the ground of the narrow street in the suburb of Saint Antoine, in Paris, where it was spilled. It had stained many hands, too, and many faces, and many naked feet, and many wooden shoes. The hands of the man who sawed the wood, left red marks on the
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a festive atmosphere in which people are enjoying themselves and being playful. However, when the wine runs out, the mood changes and everyone goes back to their everyday lives, which are much more difficult and grim.

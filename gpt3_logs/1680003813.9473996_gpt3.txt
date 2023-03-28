@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: wanted to leave things in order and not just trust that obliging and indifferent sea to sweep my refuse away. I saw Jordan Baker and talked over and around what had happened to us together, and what had happened afterward to me, and she lay perfectly still, listening, in a big chair.  She was dressed to play golf, and I remember thinking she looked like a good illustration, her chin raised a little jauntily, her hair the colour of an autumn leaf, her face the same brown tint as the fingerless glove on her knee. When I had finished she told me without comment that she was engaged to another man. I doubted that, though there were several she could have married at a nod of her head, but I pretended to be surprised. For just a minute I wondered if I wasnt making a mistake, then I thought it all over again quickly and got up to say goodbye.  Nevertheless you did throw me over, said Jordan suddenly. You threw me over on the telephone. I dont give a damn about you now, but it was a new experience for me, and I felt a little dizzy for a while.  We shook hands.  Oh, and do you remembershe addeda conversation we had once about driving a car?  Whynot exactly.  You said a bad driver was only safe until she met another bad driver? Well, I met another bad driver, didnt I? I mean it was careless of me to make such a wrong guess. I thought you were rather an honest, straightforward person. I thought it was your secret pride.  Im thirty, I said. Im five years too old to
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Jordan Baker tells the narrator that she is engaged to another man, and the narrator reflects on a conversation they had about driving.

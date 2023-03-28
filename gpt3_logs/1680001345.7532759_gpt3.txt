@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Carefully lowered from its height, the full-freighted vessel is caught by an appointed hand, and quickly emptied into a large tub. Then remounting aloft, it again goes through the same round until the deep cistern will yield no more. Towards the end, Tashtego has to ram his long pole harder and harder, and deeper and deeper into the Tun, until some twenty feet of the pole have gone down.  Now, the people of the Pequod had been baling some time in this way; several tubs had been filled with the fragrant sperm; when all at once a queer accident happened. Whether it was that Tashtego, that wild Indian, was so heedless and reckless as to let go for a moment his one-handed hold on the great cabled tackles suspending the head; or whether the place where he stood was so treacherous and oozy; or whether the Evil One himself would have it to fall out so, without stating his particular reasons; how it was exactly, there is no telling now; but, on a sudden, as the eightieth or ninetieth bucket came suckingly upmy God! poor Tashtegolike the twin reciprocating bucket in a veritable well, dropped head-foremost down into this great Tun of Heidelburgh, and with a horrible oily gurgling, went clean out of sight!  Man overboard! cried Daggoo, who amid the general consternation first came to his senses. Swing the bucket this way! and putting one foot into it, so as the better to secure his slippery hand-hold on the whip itself, the hoisters ran him high up to the top of the head, almost
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The crew of the Pequod are baling sperm oil from the whale when Tashtego slips and falls into the vat. He is rescued and brought back to the deck, but the incident highlights the dangers of the work.

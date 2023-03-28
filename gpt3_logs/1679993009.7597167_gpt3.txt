@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: distance that had separated him from Daisy it had seemed very near to her, almost touching her. It had seemed as close as a star to the moon. Now it was again a green light on a dock. His count of enchanted objects had diminished by one.  I began to walk about the room, examining various indefinite objects in the half darkness. A large photograph of an elderly man in yachting costume attracted me, hung on the wall over his desk.  Whos this?  That? Thats Mr. Dan Cody, old sport.  The name sounded faintly familiar.  Hes dead now. He used to be my best friend years ago.  There was a small picture of Gatsby, also in yachting costume, on the bureauGatsby with his head thrown back defiantlytaken apparently when he was about eighteen.  I adore it, exclaimed Daisy. The pompadour! You never told me you had a pompadouror a yacht.  Look at this, said Gatsby quickly. Heres a lot of clippingsabout you.  They stood side by side examining it. I was going to ask to see the rubies when the phone rang, and Gatsby took up the receiver.  Yes  Well, I cant talk now  I cant talk now, old sport  I said a small town  He must know what a small town is  Well, hes no use to us if Detroit is his idea of a small town   He rang off.  Come here quick! cried Daisy at the window.  The rain was still falling, but the darkness had parted in the west, and there was a pink and golden billow of foamy clouds above the sea.  Look at that, she whispered, and then after a moment:
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Gatsby is looking at a photograph of his friend, Mr. Dan Cody, when the phone rings. It is Daisy, and she wants him to come see the pink and golden clouds above the sea.

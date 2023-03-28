@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: we call talent had far less consideration than now, but the massive materials which produce stability and dignity of character a great deal more. The people possessed, by hereditary right, the quality of reverence; which, in their descendants, if it survive at all, exists in smaller proportion, and with a vastly diminished force, in the selection and estimate of public men. The change may be for good or ill, and is partly, perhaps, for both. In that old day, the English settler on these rude shoreshaving left king, nobles, and all degrees of awful rank behind, while still the faculty and necessity of reverence were strong in himbestowed it on the white hair and venerable brow of age; on long-tried integrity; on solid wisdom and sad-colored experience; on endowments of that grave and weighty order which gives the idea of permanence, and comes under the general definition of respectability. These primitive statesmen, therefore,Bradstreet, Endicott, Dudley, Bellingham, and their compeers,who were elevated to power by the early choice of the people, seem to have been not often brilliant, but distinguished by a ponderous sobriety, rather than activity of intellect. They had fortitude and self-reliance, and, in time of difficulty or peril, stood up for the welfare of the state like a line of cliffs against a tempestuous tide. The traits of character here indicated were well represented in the square cast of countenance and large physical development of the new colonial
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage discusses the difference between the way public figures were viewed in the past and present. In the past, people respected those who were older and had more experience, while today, people are more likely to admire those who are talented or brilliant. The passage concludes by saying that the traits of character that were valued in the past are still represented in some people today.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: ways; of the women, some wore knives, some daggers, some ate and drank as they looked on, many knitted. Among these last, was one, with a spare piece of knitting under her arm as she worked. She was in a front row, by the side of a man whom he had never seen since his arrival at the Barrier, but whom he directly remembered as Defarge. He noticed that she once or twice whispered in his ear, and that she seemed to be his wife; but, what he most noticed in the two figures was, that although they were posted as close to himself as they could be, they never looked towards him. They seemed to be waiting for something with a dogged determination, and they looked at the Jury, but at nothing else. Under the President sat Doctor Manette, in his usual quiet dress. As well as the prisoner could see, he and Mr. Lorry were the only men there, unconnected with the Tribunal, who wore their usual clothes, and had not assumed the coarse garb of the Carmagnole.  Charles Evrmonde, called Darnay, was accused by the public prosecutor as an emigrant, whose life was forfeit to the Republic, under the decree which banished all emigrants on pain of Death. It was nothing that the decree bore date since his return to France. There he was, and there was the decree; he had been taken in France, and his head was demanded.  Take off his head! cried the audience. An enemy to the Republic!  The President rang his bell to silence those cries, and asked the prisoner whether it was not true that he had
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Charles Evrmonde, called Darnay, is on trial for being an emigrant. The audience is calling for his head, but the President silences them and asks the prisoner whether he is an emigrant.

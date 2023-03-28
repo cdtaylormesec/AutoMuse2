@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: After that I felt a certain shame for Gatsbyone gentleman to whom I telephoned implied that he had got what he deserved. However, that was my fault, for he was one of those who used to sneer most bitterly at Gatsby on the courage of Gatsbys liquor, and I should have known better than to call him.  The morning of the funeral I went up to New York to see Meyer Wolfshiem; I couldnt seem to reach him any other way. The door that I pushed open, on the advice of an elevator boy, was marked The Swastika Holding Company, and at first there didnt seem to be anyone inside. But when Id shouted hello several times in vain, an argument broke out behind a partition, and presently a lovely Jewess appeared at an interior door and scrutinized me with black hostile eyes.  Nobodys in, she said. Mr. Wolfshiems gone to Chicago.  The first part of this was obviously untrue, for someone had begun to whistle The Rosary, tunelessly, inside.  Please say that Mr. Carraway wants to see him.  I cant get him back from Chicago, can I?  At this moment a voice, unmistakably Wolfshiems, called Stella! from the other side of the door.  Leave your name on the desk, she said quickly. Ill give it to him when he gets back.  But I know hes there.  She took a step toward me and began to slide her hands indignantly up and down her hips.  You young men think you can force your way in here any time, she scolded. Were getting sickantired of it. When I say hes in Chicago, hes in
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The narrator is trying to reach Meyer Wolfshiem, but the receptionist says he's not there. The narrator knows he's there, but the receptionist insists he's in Chicago.

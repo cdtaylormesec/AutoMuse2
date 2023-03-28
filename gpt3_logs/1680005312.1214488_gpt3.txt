@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: Rosy Rosenthal is shot and killed late at night, and Tom and Wilson are talking about selling Tom's car. Wilson is sick and needs money, so he and his wife want to move West. A man from Minnesota arrives in town after receiving a telegram that Mr. Gatsby has died. He is revealed to be Gatsby's father, and he is very upset. The passage describes a person's rare encounter with a smile that seems to understand and accept them unconditionally. The smile then disappears and the person is left with questions. This passage explains the process for making donations to Project Gutenberg, a nonprofit organization that produces and distributes free electronic books. Donations are accepted in various forms, including online payments and credit card donations. For more information, visit www.gutenberg.org/donate. Gatsby fires all his servants and replaces them with six others from Wolfshiem. The new servants never go into West Egg village, raising suspicion among the people. Gatsby calls Nick to invite him to lunch at Daisy's house the next day. Daisy herself calls later to confirm. Something is up. A woman is telling a story about a man she met on the subway. She was attracted to him, but he made her uncomfortable. She got into a taxi with him, but realized she didn't know him well enough. She went home with him anyway and they had a good time. The passage describes a man named Wilson who is grieving over the death of his wife. He is accompanied by Michaelis, who tries to console him. Wilson talks about a yellow car that he says he knows the owner of, and then he starts to cry. The beetles kept hitting the light and the cars outside sounded like the one that hit his wife.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Rosy Rosenthal is shot and killed late at night, and Tom and Wilson are talking about selling Tom's car. Wilson is sick and needs money, so he and his wife want to move West. A man from Minnesota arrives in town after receiving a telegram that Mr. Gatsby has died. He is revealed to be Gatsby's father, and he is very upset. The passage also describes a person's rare encounter with a smile that seems to understand and accept them unconditionally, before it disappears and leaves the person with questions.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: meaning in them, after all. _said I could not swim_ you cant swim, can you? he added, turning to the Knave.  The Knave shook his head sadly. Do I look like it? he said. (Which he certainly did _not_, being made entirely of cardboard.)  All right, so far, said the King, and he went on muttering over the verses to himself: _We know it to be true_ thats the jury, of course_I gave her one, they gave him two_ why, that must be what he did with the tarts, you know  But, it goes on _they all returned from him to you_, said Alice.  Why, there they are! said the King triumphantly, pointing to the tarts on the table. Nothing can be clearer than _that_. Then again_before she had this fit_ you never had fits, my dear, I think? he said to the Queen.  Never! said the Queen furiously, throwing an inkstand at the Lizard as she spoke. (The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)  Then the words dont _fit_ you, said the King, looking round the court with a smile. There was a dead silence.  Its a pun! the King added in an offended tone, and everybody laughed, Let the jury consider their verdict, the King said, for about the twentieth time that day.  No, no! said the Queen. Sentence firstverdict afterwards.  Stuff and nonsense! said Alice loudly. The idea of having the sentence
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The Knave of Hearts is on trial, and the King is trying to determine his guilt. He believes that the Knave stole the tarts, but Alice points out that the evidence doesn't fit. The King is angry and orders the jury to consider their verdict.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: with lingering regret, like children leaving a pleasant street at dusk.  The butler came back and murmured something close to Toms ear, whereupon Tom frowned, pushed back his chair, and without a word went inside. As if his absence quickened something within her, Daisy leaned forward again, her voice glowing and singing.  I love to see you at my table, Nick. You remind me of aof a rose, an absolute rose. Doesnt he? She turned to Miss Baker for confirmation: An absolute rose?  This was untrue. I am not even faintly like a rose. She was only extemporizing, but a stirring warmth flowed from her, as if her heart was trying to come out to you concealed in one of those breathless, thrilling words. Then suddenly she threw her napkin on the table and excused herself and went into the house.  Miss Baker and I exchanged a short glance consciously devoid of meaning. I was about to speak when she sat up alertly and said Sh! in a warning voice. A subdued impassioned murmur was audible in the room beyond, and Miss Baker leaned forward unashamed, trying to hear. The murmur trembled on the verge of coherence, sank down, mounted excitedly, and then ceased altogether.  This Mr. Gatsby you spoke of is my neighbour I began.  Dont talk. I want to hear what happens.  Is something happening? I inquired innocently.  You mean to say you dont know? said Miss Baker, honestly surprised. I thought everybody knew.  I dont.  Why she said hesitantly. Toms got some woman in New
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The butler tells Tom something in a murmur, and Tom leaves the table abruptly. Daisy then starts talking about Nick, saying he reminds her of a rose. Nick is surprised by this, as he does not see the resemblance. Suddenly, Daisy gets up and leaves the room, and Miss Baker tells Nick to be quiet, as she wants to hear what is happening. Nick is confused, and Miss Baker explains that Tom has a woman in the other room.

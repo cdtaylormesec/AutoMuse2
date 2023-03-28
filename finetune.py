@@ -45,8 +45,8 @@ def finetune_get(ftid):
 
 
 
-#resp = file_upload('novel.jsonl')
-#finetune_model(resp['id'], 'novel_writer', 'davinci')
+resp = file_upload('novel.jsonl')
+finetune_model(resp['id'], 'novel_writer', 'davinci')
 finetune_list()
 
-#openai.FineTune.cancel("ft-2ZxHjUVe5DpqK2EsYyA0YtKz")
+openai.FineTune.cancel("ft-2ZxHjUVe5DpqK2EsYyA0YtKz")

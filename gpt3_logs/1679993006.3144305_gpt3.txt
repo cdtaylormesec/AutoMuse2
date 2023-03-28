@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: I did love him oncebut I loved you too.  Gatsbys eyes opened and closed.  You loved me too? he repeated.  Even thats a lie, said Tom savagely. She didnt know you were alive. Whytheres things between Daisy and me that youll never know, things that neither of us can ever forget.  The words seemed to bite physically into Gatsby.  I want to speak to Daisy alone, he insisted. Shes all excited now  Even alone I cant say I never loved Tom, she admitted in a pitiful voice. It wouldnt be true.  Of course it wouldnt, agreed Tom.  She turned to her husband.  As if it mattered to you, she said.  Of course it matters. Im going to take better care of you from now on.  You dont understand, said Gatsby, with a touch of panic. Youre not going to take care of her any more.  Im not? Tom opened his eyes wide and laughed. He could afford to control himself now. Whys that?  Daisys leaving you.  Nonsense.  I am, though, she said with a visible effort.  Shes not leaving me! Toms words suddenly leaned down over Gatsby. Certainly not for a common swindler whod have to steal the ring he put on her finger.  I wont stand this! cried Daisy. Oh, please lets get out.  Who are you, anyhow? broke out Tom. Youre one of that bunch that hangs around with Meyer Wolfshiemthat much I happen to know. Ive made a little investigation into your affairsand Ill carry it further tomorrow.  You can suit yourself about that, old sport, said Gatsby
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a confrontation between Tom and Gatsby over Daisy. Tom accuses Gatsby of being a liar and a thief, and Gatsby insists that Daisy is leaving Tom. Daisy confirms that she is leaving Tom, and Tom angrily tells Gatsby to stay away from her.

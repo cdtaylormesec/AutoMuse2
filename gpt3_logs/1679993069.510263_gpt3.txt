@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: was remarked, however, that some of those who had been most intimate with him appeared, after a time, to shun him. Women who had wildly adored him, and for his sake had braved all social censure and set convention at defiance, were seen to grow pallid with shame or horror if Dorian Gray entered the room.  Yet these whispered scandals only increased in the eyes of many his strange and dangerous charm. His great wealth was a certain element of security. Societycivilized society, at leastis never very ready to believe anything to the detriment of those who are both rich and fascinating. It feels instinctively that manners are of more importance than morals, and, in its opinion, the highest respectability is of much less value than the possession of a good _chef_. And, after all, it is a very poor consolation to be told that the man who has given one a bad dinner, or poor wine, is irreproachable in his private life. Even the cardinal virtues cannot atone for half-cold _entres_, as Lord Henry remarked once, in a discussion on the subject, and there is possibly a good deal to be said for his view. For the canons of good society are, or should be, the same as the canons of art. Form is absolutely essential to it. It should have the dignity of a ceremony, as well as its unreality, and should combine the insincere character of a romantic play with the wit and beauty that make such plays delightful to us. Is insincerity such a terrible thing? I think not. It is merely a method by
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Some people who were once close to Dorian Gray began to avoid him after learning his dark secret, but others found him more charming than ever.

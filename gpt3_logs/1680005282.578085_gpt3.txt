@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage reflects on the author's observations of history, morality, and the human condition. He describes how he interacted with old sailors, Hester Prynne's public punishment for adultery, and a dying man's final moments. The author reflects on their failed attempt to write a historical novel, and how it was perhaps a foolish endeavor. The passage also discusses the effect of a minister's voice on the listener, regardless of the language spoken. The passage describes the retirement of several older customs officers, who were allowed to leave their posts due to their age and infirmity. The author suggests that their retirement may have been due to his own interference, and notes that neither the front nor the back entrance of the Custom-House opens on the road to Paradise. The passage describes a building with a large American eagle on it. The eagle looks threatening, but many people still seek shelter under its wing. The passage describes a Custom-House officer who is aging and infirm, but who is still a brave and honorable man. The passage describes the author's positive feelings towards some of the older workers at the custom house, who he says are generally good-natured and fun to be around. The passage describes the author's co-workers at the Custom House, most of whom are old men. The author characterizes them as generally being "wearisome old souls" who have forgotten much of the wisdom they have acquired over their lifetimes. The passage reflects on the transitory nature of life, and how a man of thought and sensibility can be a good man of affairs if he chooses to be. The author notes that his fellow officers and others he knows through his work know him only in his professional capacity, and probably wouldn't care for him more if they knew of his literary aspirations. The point is made that it is a good lesson for a man who dreamed of literary fame to learn that it is not necessary for success in life.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage reflects on the author's observations of history, morality, and the human condition. He describes how he interacted with old sailors, Hester Prynne's public punishment for adultery, and a dying man's final moments. The author reflects on their failed attempt to write a historical novel, and how it was perhaps a foolish endeavor. The passage also discusses the effect of a minister's voice on the listener, regardless of the language spoken.

@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: telephone for an axe  The thing to do is to forget about the heat, said Tom impatiently. You make it ten times worse by crabbing about it.  He unrolled the bottle of whisky from the towel and put it on the table.  Why not let her alone, old sport? remarked Gatsby. Youre the one that wanted to come to town.  There was a moment of silence. The telephone book slipped from its nail and splashed to the floor, whereupon Jordan whispered, Excuse mebut this time no one laughed.  Ill pick it up, I offered.  Ive got it. Gatsby examined the parted string, muttered Hum! in an interested way, and tossed the book on a chair.  Thats a great expression of yours, isnt it? said Tom sharply.  What is?  All this old sport business. Whered you pick that up?  Now see here, Tom, said Daisy, turning around from the mirror, if youre going to make personal remarks I wont stay here a minute. Call up and order some ice for the mint julep.  As Tom took up the receiver the compressed heat exploded into sound and we were listening to the portentous chords of Mendelssohns Wedding March from the ballroom below.  Imagine marrying anybody in this heat! cried Jordan dismally.  StillI was married in the middle of June, Daisy remembered. Louisville in June! Somebody fainted. Who was it fainted, Tom?  Biloxi, he answered shortly.  A man named Biloxi. Blocks Biloxi, and he made boxesthats a factand he was from Biloxi, Tennessee.  They carried him into my
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Tom and Daisy are discussing their plans to go to the city, and Gatsby joins in. Jordan complains about the heat, and Daisy says she was married in the middle of June in Louisville. Tom says somebody fainted at the wedding, and Gatsby says it was a man from Biloxi, Tennessee.

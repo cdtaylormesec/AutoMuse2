@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: ignobly waited on by only three men; he must have died of two.  Monseigneur had been out at a little supper last night, where the Comedy and the Grand Opera were charmingly represented. Monseigneur was out at a little supper most nights, with fascinating company. So polite and so impressible was Monseigneur, that the Comedy and the Grand Opera had far more influence with him in the tiresome articles of state affairs and state secrets, than the needs of all France. A happy circumstance for France, as the like always is for all countries similarly favoured!--always was for England (by way of example), in the regretted days of the merry Stuart who sold it.  Monseigneur had one truly noble idea of general public business, which was, to let everything go on in its own way; of particular public business, Monseigneur had the other truly noble idea that it must all go his way--tend to his own power and pocket. Of his pleasures, general and particular, Monseigneur had the other truly noble idea, that the world was made for them. The text of his order (altered from the original by only a pronoun, which is not much) ran: The earth and the fulness thereof are mine, saith Monseigneur.  Yet, Monseigneur had slowly found that vulgar embarrassments crept into his affairs, both private and public; and he had, as to both classes of affairs, allied himself perforce with a Farmer-General. As to finances public, because Monseigneur could not make anything at all of them, and must consequently
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Monseigneur was a nobleman who believed that the world existed for his pleasure. He was out at a supper one night when he received news that someone had died. Monseigneur did not care about the deceased or the fact that he had died ignobly; he was only concerned with how the death would affect his own power and pocket.

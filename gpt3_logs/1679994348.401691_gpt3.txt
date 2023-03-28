@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: the officers, who, in comparison with the       stranger, were become stupid, disagreeable fellows. Some of       them were to dine with the Phillipses the next day, and their       aunt promised to make her husband call on Mr. Wickham, and give       him an invitation also, if the family from Longbourn would come       in the evening. This was agreed to, and Mrs. Phillips protested       that they would have a nice comfortable noisy game of lottery       tickets, and a little bit of hot supper afterwards. The prospect       of such delights was very cheering, and they parted in mutual       good spirits. Mr. Collins repeated his apologies in quitting the       room, and was assured with unwearying civility that they were       perfectly needless.        As they walked home, Elizabeth related to Jane what she had seen       pass between the two gentlemen; but though Jane would have       defended either or both, had they appeared to be in the wrong,       she could no more explain such behaviour than her sister.        Mr. Collins on his return highly gratified Mrs. Bennet by       admiring Mrs. Phillipss manners and politeness. He protested       that, except Lady Catherine and her daughter, he had never seen a       more elegant woman; for she had not only received him with the       utmost civility, but even pointedly included him in her       invitation for the next evening, although utterly unknown to her       before. Something, he supposed, might be attributed to
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The officers in the passage are compared to a stranger, and it is said that some of them are to dine with the Phillipses the next day. Mrs. Phillips has invited Mr. Wickham to join them, and Elizabeth tells Jane about the conversation she witnessed between the two gentlemen. Mr. Collins is pleased with Mrs. Phillipss manners and politeness.

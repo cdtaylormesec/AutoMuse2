@@ -1,0 +1,35 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The phone rings and I'm out of bed in a flash. I'm not answering it, but I can't help but be curious. I slump into a chair by the window, wondering if I should answer. I punch the speaker button and a voice comes through.
+
+"Detective Whisper."
+
+"It's me."
+
+"What do you want?"
+
+"I need you to find someone for me."
+
+"A missing persons case?"
+
+"No, this is bigger than that. I need you to find a killer."
+
+"You got it."
+
+"I'm going to send you the details."
+
+"Give me a few minutes."
+
+I check my email, downloading the attached file. I open it, reading through the case details. I feel my heart sink and my palms start sweating. This is going to be a tough one.
+
+I need to find a killer before they do it again.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+A detective is hired to find a killer, and reads the case details.

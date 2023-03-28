@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: object that appeared worthy of any exertion and sacrifice for its attainment. She had witnessed the intense misery beneath which the minister struggled, or, to speak more accurately, had ceased to struggle. She saw that he stood on the verge of lunacy, if he had not already stepped across it. It was impossible to doubt, that, whatever painful efficacy there might be in the secret sting of remorse, a deadlier venom had been infused into it by the hand that proffered relief. A secret enemy had been continually by his side, under the semblance of a friend and helper, and had availed himself of the opportunities thus afforded for tampering with the delicate springs of Mr. Dimmesdales nature. Hester could not but ask herself, whether there had not originally been a defect of truth, courage, and loyalty, on her own part, in allowing the minister to be thrown into a position where so much evil was to be foreboded, and nothing auspicious to be hoped. Her only justification lay in the fact, that she had been able to discern no method of rescuing him from a blacker ruin than had overwhelmed herself, except by acquiescing in Roger Chillingworths scheme of disguise. Under that impulse, she had made her choice, and had chosen, as it now appeared, the more wretched alternative of the two. She determined to redeem her error, so far as it might yet be possible. Strengthened by years of hard and solemn trial, she felt herself no longer so inadequate to cope with Roger Chillingworth as on
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+Hester Prynne is struggling with the decision of whether or not to reveal her husband's true identity to the public. She is torn because she knows that if she does, he will be ruined, but if she doesn't, he will continue to suffer in silence. Ultimately, she decides that she must try to redeem her mistake, even if it means sacrificing her own happiness.

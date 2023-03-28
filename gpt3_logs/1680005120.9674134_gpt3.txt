@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: The passage describes the author's interactions with old, experienced sailors who continued to work at the docks even though they were well past retirement age. The author knew that they should have been replaced by younger, more fit men, but he couldn't bring himself to do it. The sailors eventually came to accept the author and they would often tell each other stories and jokes. Two ghosts that were once intimately connected in life are now standing coldly and shuddering from each other in mutual dread, because they are not yet used to being disembodied beings. They are also both scared of themselves, because their consciousness has been revealed to them in a way that life never does, except at such intense moments. They slowly and hesitantly reach out to touch each other's hand, and then they sit down and start talking about things that are bothering them the most. The passage describes a mother and child, with the child having a " never-failing vivacity of spirits." The mother wonders if the child will ever have a deep grief that will make her sympathetic. The narrator reflects on their experience working in a custom-house, and how it has led them to write an autobiographical account. They explain how this account is meant for a small group of people who will understand it, rather than the many who will simply discard it. The passage describes Hester Prynne's feelings of isolation and despair, and her belief that she is condemned to a life of punishment in New England. This passage describes the difficulty of getting to know someone who is very guarded and private. The person being described is an old warrior who is respected by everyone who knows him. Despite his gruff exterior, he is a good person with a strong character.
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes the author's interactions with old, experienced sailors who continued to work at the docks even though they were well past retirement age. The author knew that they should have been replaced by younger, more fit men, but he couldn't bring himself to do it. The sailors eventually came to accept the author and they would often tell each other stories and jokes.

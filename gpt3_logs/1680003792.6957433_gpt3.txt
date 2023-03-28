@@ -1,0 +1,13 @@
+PROMPT:
+
+Summarize this passage very concisely:
+
+Passage: with a space between, as if the dust of the two sleepers had no right to mingle. Yet one tombstone served for both. All around, there were monuments carved with armorial bearings; and on this simple slab of slateas the curious investigator may still discern, and perplex himself with the purportthere appeared the semblance of an engraved escutcheon. It bore a device, a heralds wording of which might serve for a motto and brief description of our now concluded legend; so sombre is it, and relieved only by one ever-glowing point of light gloomier than the shadow:                 ON A FIELD, SABLE, THE LETTER A, GULES.                              [Illustration]        Cambridge: Electrotyped and Printed by Welch, Bigelow, & Co.                              TRANSCRIBERS NOTES  Obvious printers errors have been corrected; for the details, see below. Most illustrations have been linked to the larger versions; to see the larger version, click on the illustration.                                Typos fixed:      page 072spelling normalized: changed midday to mid-day     page 132inserted a missing closing quote after a child of her age     page 137spelling normalized: changed careworn to care-worn     page 147typo fixed: changed physican to physician     page 171typo fixed: changed vocies to voices     page 262removed an extra closing quote after scarlet letter too!     page 291spelling normalized: changed birdlike to bird-like     page 300typo
+
+Concise Summary:
+
+==========
+
+RESPONSE:
+
+The passage describes a tombstone bearing the escutcheon of the letter A, which symbolizes the conclusion of the legend.
